@@ -1,0 +1,10 @@
+*:focus {
+  border-radius: 1px !important;
+  opacity: 1 !important;
+  background: rgba(255, 153, 0, 0.25);
+  text-shadow: none !important;
+  outline-width: 0 !important;
+  transition-duration: all 0 !important;
+  box-shadow: 0 0 0 3px #f90,
+              0 0 0 4px #a60 !important;
+}

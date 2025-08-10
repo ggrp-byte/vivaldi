@@ -1,0 +1,5 @@
+html {
+  /* NOTE: The built in sepia filter is subpar, we craft our own. */
+  filter: contrast(75%) brightness(95%) sepia(95%) hue-rotate(-10deg) saturate(35%);
+  background-color: #faf8e7;
+}

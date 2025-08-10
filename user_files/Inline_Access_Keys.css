@@ -1,0 +1,40 @@
+@keyframes appear {
+  0% { transform: scale(0.7); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+html [accesskey] {
+  position: relative;
+}
+html [accesskey]:after {
+  content: attr(accesskey) !important;
+  display: inline-block !important;
+  position: absolute !important;
+  width: auto !important;
+  height: auto !important;
+  min-width: unset !important;
+  max-width: unset !important;
+  font-size: 12px !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: unset !important;
+  left: unset !important;
+  padding: 1px 2px !important;
+  margin: 0 !important;
+  color: #342600 !important;
+  border: 1px solid !important;
+  border-color: #fff900 #f4e243 #ecc601 !important;
+  border-radius: 2px !important;
+  background-image: linear-gradient(#ffd600aa, #f4e243) !important;
+  box-shadow: 0 0 0 2px #9e820999 !important;
+  font-family: monospace !important;
+  font-weight: normal !important;
+  text-shadow: 0 1px #fff900 !important;
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+  animation: appear 100ms linear !important;
+  overflow: visible !important;
+}
+html [accesskey]:active:after {
+  filter: brightness(0.9) !important;
+  box-shadow: 0 0 0 1px #9e820999 !important;
+}

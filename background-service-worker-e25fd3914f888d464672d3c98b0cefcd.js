@@ -1,0 +1,1 @@
+self.importScripts("background-common-bundle.js", "background-bundle.js");

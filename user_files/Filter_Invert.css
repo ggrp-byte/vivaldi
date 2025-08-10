@@ -1,0 +1,59 @@
+/* Based off of code from
+ https://gist.github.com/kfur/50947a48992623963468ee109727d1d3
+ */
+
+/* Leading rule */
+html {
+  -webkit-filter: invert(100%) hue-rotate(180deg) brightness(100%);
+  filter: invert(100%) hue-rotate(180deg) brightness(100%);
+}
+
+/* Reverse rule */
+iframe,
+img,
+video,
+:not(object):not(body)>embed,
+object,
+svg image,
+[style*="background:url"],
+[style*="background-image:url"],
+[style*="background: url"],
+[style*="background-image: url"],
+[background] {
+  -webkit-filter: invert(100%) hue-rotate(180deg) !important;
+  filter: invert(100%) hue-rotate(180deg) !important;
+}
+
+[style*="background:url"] *,
+[style*="background-image:url"] *,
+[style*="background: url"] *,
+[style*="background-image: url"] *,
+input,
+[background] * {
+  -webkit-filter: none !important;
+  filter: none !important;
+}
+
+/* Text contrast */
+html {
+  text-shadow: 0 0 0;
+}
+
+/* Full screen */
+:-webkit-full-screen,
+:-webkit-full-screen * {
+  -webkit-filter: none !important;
+  filter: none !important;
+}
+
+
+:fullscreen,
+:fullscreen * {
+  -webkit-filter: none !important;
+  filter: none !important;
+}
+
+/* Page background */
+html {
+  background: rgb(20, 20, 20);
+}

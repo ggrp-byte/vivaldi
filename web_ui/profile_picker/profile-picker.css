@@ -1,0 +1,135 @@
+:root {
+  color-scheme: light dark;
+  user-select: none;
+  --foreground: #282828;
+  --background: #fefefe;
+  --buttonface: color-mix(in srgb, var(--background) 96%, var(--foreground));
+  --linktext: #085fcc;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground: #eee;
+    --background: #282828;
+    --linktext: #99c8ff;
+  }
+}
+
+html {
+  height: 100%;
+  color: var(--foreground);
+  background-color: var(--background);
+}
+body {
+  font-family: system-ui, sans-serif;
+  font-size: 15px;
+  display: grid;
+  flex-direction: column;
+  padding: 30px;
+  min-height: -webkit-fill-available;
+}
+
+.ProfilePicker {
+  display: grid;
+  place-content: center;
+  min-height: 75dvh;
+}
+.ProfilePicker-Avatar {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  pointer-events: none;
+  border-radius: 50%;
+}
+
+.ProfilePicker-List {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  padding: 0 60px 30px;
+}
+.ProfilePicker-Profile {
+  padding: 12px 12px 18px;
+  display: grid;
+  height: auto;
+  gap: 12px;
+  background-color: var(--buttonface);
+  border: 0;
+  border-radius: 12px;
+  transition: background 64ms linear, outline-offset 200ms linear;
+  outline-offset: 1px;
+}
+.ProfilePicker-Profile input {
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  border-radius: 0;
+  border: solid transparent;
+  border-width: 0 0 2px 0;
+  padding: 3px;
+  transition: border-color 200ms linear;
+  font-size: 14px;
+  &:hover {
+    border-color: color-mix(in srgb, var(--background) 80%, var(--foreground));
+  }
+  &:focus {
+    border-color: var(--linktext);
+    outline: none;
+  }
+}
+
+.ProfilePicker-Controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+}
+.ProfilePicker-Controls button {
+  -webkit-appearance: none;
+  padding: 6px 12px 6px 6px;
+  border-radius: 24px;
+  border: 1px solid var(--linktext);
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  background-color: transparent;
+  color: var(--linktext);
+}
+.ProfilePicker-Controls label {
+  display: flex;
+  gap: 6px;
+  font-size: inherit;
+}
+.ProfilePicker-Controls label input {
+  scale: 1.2;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 24px 0;
+  grid-column: 1 / span all;
+  text-align: center;
+  font-weight: 400;
+}
+p {
+  max-width: 50ch;
+  text-align: center;
+  margin: 0 auto 36px;
+}
+.logo {
+  pointer-events: none;
+  margin: 0 auto;
+}
+button:focus,
+button:hover {
+  transition-duration: 64ms;
+  background-color: color-mix(in srgb, var(--background) 92%, var(--foreground));
+}
+button:active:not(:has(input:focus-within)) {
+  transition-duration: 64ms;
+  background-color: color-mix(in srgb, var(--background) 90%, var(--foreground));
+}
+button:focus-visible {
+  outline-offset: 3px;
+}

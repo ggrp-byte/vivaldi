@@ -1,0 +1,10 @@
+:root {
+  overflow: hidden !important;
+  display: block !important;
+}
+body {
+  overflow: hidden !important;
+}
+:root > :not(iframe) {
+  display: none !important;
+}

@@ -1,0 +1,9 @@
+*, *:before, *:after, input, button, textarea, select, input[type=file]  {
+  font-family: monospace !important;
+}
+
+input[type=button], input[type=submit],
+input[type=file]::-webkit-file-upload-button {
+  font-family: monospace !important;
+  appearance: button !important;
+}

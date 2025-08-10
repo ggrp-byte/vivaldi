@@ -1,0 +1,206 @@
+:root {
+  --bgColor: #fff;
+  --fgColor: #333;
+  --fgColorFaded: #999;
+  --borderColor: #EEE;
+  --radius: 4px;
+  --maxWidth: 1380px;
+  --linkColor: #006ed7;
+  --linkColorFaded: rgba(0, 110, 215, 0.09);
+  --linkTextColor: #ffffff;
+  --linkLightColor: #118AFE;
+}
+
+html {
+  max-height: 100%;
+  overflow: auto;
+}
+body {
+  margin: 3em;
+  background-color: var(--bgColor);
+  font-size: 1em;
+  line-height: 1.5;
+  color: var(--fgColor);
+}
+
+
+/* Defining the main Grid */
+body > ul {
+  display: grid;
+  margin: 0 auto;
+  max-width: var(--maxWidth);
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: minmax(150px, auto);
+  padding-inline-start: 0 !important;
+}
+body > ul > li {
+  list-style-type: none;
+  background-color: var(--bgColor);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body > ul > li div {
+  overflow: hidden;
+  max-height: 505px;
+}
+
+/* The blue area in top with Subscribe button */
+body > header form {
+  background: var(--linkColorFaded);
+  border-radius: var(--radius);
+  padding: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+body > header form .p-explainer {
+  text-wrap: balance;
+  max-width: 82ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Custom treatment for ul and li elements and it's children */
+body > header h1 {
+  color: var(--fgColor);
+}
+p {
+  margin-block-start: 0;
+}
+body > ul:not(.nested) > li > h2 {
+  font-size: 1.5em;
+  color: var(--fgColor);
+  margin: 0;
+  padding: 0 0 0.5em 0;
+  line-height: 1.2;
+}
+body > ul:not(.nested) > li > div a,
+body > ul:not(.nested) > li > h2 > a,
+body > footer a {
+  color: var(--linkColor);
+}
+body > ul:not(.nested) > li > h2 > a {
+  text-decoration: none;
+}
+body > ul:not(.nested) > li > h2 > a:visited {
+  color: var(--fgColorFaded);
+  text-decoration: underline;
+}
+body > ul:not(.nested) > li > h2 > a[href]:hover,
+body > ul:not(.nested) > li > h2 > a[href]:focus {
+  text-decoration: underline;
+}
+body > ul:not(.nested) > li > time {
+  display: flex;
+  font-size: 0.8em;
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+  color: var(--fgColorFaded);
+}
+body > ul:not(.nested) > li {
+  font-size: 0.9em;
+  line-height: 1.6;
+  word-break: break-word;
+  border: 1px solid var(--borderColor);
+}
+img:not([rel~=emoji], .emoji, .emojione) {
+  max-width: 45%;
+  height: auto;
+  margin-top: 0.5em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  border-radius: var(--radius);
+}
+img[height=0][width=0], img[height=1][width=1] {
+  display: none;
+}
+
+
+/* The strange OPML stuff */
+body > ul.nested, body > ul.nested ul {
+  display: table;
+  margin: 0 auto;
+  padding: 0;
+}
+body > ul.nested ul {
+  margin: 0 0 0 1em;
+}
+body > ul.nested li {
+  display: block;
+  margin: 1em;
+  padding: 0.5em;
+  background: var(--linkColorFaded);
+  border-radius: var(--radius);
+}
+body > ul.nested li > h2 {
+  display: table;
+  margin: 0;
+  padding: 0.5em;
+  max-width: 29em;
+}
+body > ul.nested li > h2 label {
+  cursor: pointer;
+}
+body > ul.nested li > a {
+  display: table;
+}
+body > ul.nested li > a[hreflang]:not([hreflang=""])::after {
+  content: "(" attr(hreflang) ")";
+  margin-left: 0.5em;
+  font-size: 0.8em;
+}
+body > ul.nested li > time {
+  display: block;
+  font-size: smaller;
+  color: var(--fgColor);
+}
+body > ul > * {
+  border-radius: var(--radius);
+  padding: 20px;
+  font-size: 100%;
+}
+
+
+/* header and footer specific styling */
+body > header,
+body > footer {
+  text-align: center;
+  margin: 0 auto;
+  max-width: var(--maxWidth);
+  flex: 0 1 100%;
+  grid-column: 1 / -1;
+}
+body > footer {
+  padding-top: 3em;
+}
+body > header input[type=button] {
+  color: var(--linkTextColor);
+  font-size: 1em;
+  font-weight: 600;
+  border: 0;
+  padding: 0.6em 1.2em;
+  background-color: var(--linkColor);
+  border-radius: var(--radius);
+}
+body > header input[type=button]:disabled {
+  opacity: 0.5;
+  pointer-events:none;
+}
+header input[type=button]:hover,
+header input[type=button]:focus {
+  background-color: var(--linkLightColor);
+}
+
+.show-original-button {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.5em;
+  margin: 0.5em;
+  text-decoration: underline;
+  color: var(--linkColor);
+}

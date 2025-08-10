@@ -1,0 +1,34 @@
+<!--undocked devtools document -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Developer Tools - Vivaldi</title>
+<link rel="stylesheet" href="style/common.css" />
+<style>
+#webview-container {
+  flex: 1 1 100%;
+  height: auto;
+  width: auto;
+  margin: 0;
+  visibility: none;
+}
+.webpageview {
+  z-index: initial;
+}
+</style>
+<script src="devtools.js"></script>
+</head>
+<body>
+  <div id="webview-container">
+    <div class="webpage-stack" class="resize">
+      <span tabindex="0"></span>
+      <div class="webpageview active" tabindex="-1">
+        <div class="webpage" id="webviewdiv">
+          <!-- the-webview -->
+        </div>
+      </div>
+      <span tabindex="0"></span>
+    </div>
+  </div>
+</body>
+</html>
