@@ -1,0 +1,1076 @@
+{
+  "Vivaldi": {
+    "guid": [
+      "a0da2b65-8707-401c-aefe-a0581c0f12f3",
+      "6a288a90-b3fd-4f0c-8e66-c02910c05f81",
+      "16531d9c-0639-4f2d-bdd1-beebb66826d4",
+      "6a3904bf-99b5-43e0-9a62-97cc1fbc5aea",
+      "5b1c5621-2e6c-47a5-b24b-7fb60fef48b0",
+      "a2a6c0e8-1382-4973-b468-e5c0fc252f7d",
+      "76de1e4b-66c1-493e-a3cd-6a262143bdcd",
+      "57747c17-1df8-4b22-9432-cf613017836c",
+      "f9fece09-61b6-4140-bf00-7f6ca14ffd7e",
+      "0495d598-2a7f-4cd7-b00a-1b2bc4e30b36",
+      "ea05a883-dda1-4c75-828e-5957cc6549c1",
+      "487e293f-682b-4f53-90b1-f957c7b2ac8e",
+      "b9cb3c93-7adf-46a7-81e2-c128298bf03a",
+      "2b2da81a-abf0-4bb6-908e-2bc70d6a5b59",
+      "1c076cb2-2ba2-47be-9ee3-33202964de05",
+      "502d838a-afbd-4d34-9453-cf4f3a0b83c8",
+      "165287ff-34bb-404c-9323-f58958fa1c3c",
+      "05fe9516-f909-45fc-a505-b1001fe19cca",
+      "07a33fd4-434f-4711-aaa5-b78b8e7dab0b",
+      "a9d82b9d-1022-4f02-94bc-25a78c0a7a66",
+      "ec6b680e-9aac-4cae-b6cd-50f2265737ce",
+      "9bb96247-a819-43c0-918b-495656b695bd",
+      "a8a05628-f0e8-46bb-9c42-734725de433d",
+      "3d491152-a893-4451-8acd-97284ee4a87c",
+      "28e643c6-9f88-412d-92fc-4d1e5ff39535",
+      "c43f0786-86a7-4420-99ef-d0d2439a984d",
+      "417d920b-5b6c-46b6-b302-8c4542340657",
+      "e1779ab0-adde-47d1-9d8b-607d33136a16",
+      "9b438d65-25e9-4b40-a6b8-63200cf20417",
+      "cbf51685-1053-47ae-983a-146cb9ad2066",
+      "81706adf-6bd8-4b97-bb5f-c469391cd5be",
+      "ec04df13-ef53-4171-9d6b-1989b1bde8b6",
+      "77066fa7-3773-4f9d-ae9f-b07fd5d19a41",
+      "2db048dd-88d5-4bdc-8326-dec67aa7abbb",
+      "e0c95bae-c339-4e97-a575-43a346d3fca1",
+      "721c1f71-8e61-4b09-810f-5927b29b8189",
+      "31bf5416-dcd2-4a0d-9edd-bb77f7045bbe",
+      "4fb9b6e8-bf7d-40a9-8151-30f2848f3dc6",
+      "438c993f-98f8-4499-82d9-92276c633c10"
+    ]
+  },
+  "SpeedDial": {
+    "guid": [
+      "de1c2647-df47-469b-9a55-2c524c393d41",
+      "08ecc94f-2502-4e27-9fdd-154cd3f7bd38",
+      "c5f17807-2d3a-4337-bd9f-68cc1e699548",
+      "87612b24-e1aa-41e7-b4e0-f1cf4c9f4da7",
+      "8c6ca474-3012-4494-a03b-a2ed0be50097",
+      "a7f34ac1-d8ff-4347-b438-a4452eee6fb7",
+      "aa5d9477-ab3a-4f10-8b8c-b8474050b684",
+      "e0e0bf49-e247-417f-836b-616c27947229",
+      "33993e98-1422-4490-bdcc-afc53568fda7",
+      "cbcd2e22-7909-49de-8569-5446b929f630",
+      "388c4396-c9d8-41fa-bdb8-01a9217047fa",
+      "76bd70a3-2806-48c6-a9b2-37b68c8857b3",
+      "52a683ed-9c09-4f9a-b3af-09d000237591",
+      "1ad37e29-28a2-47e4-83ef-1e2befc2c2bc",
+      "7f662c47-71e5-4e4e-9774-81bd2cc4369b",
+      "aef0798b-0fcd-4d36-af53-3e27c6dc76b0",
+      "4b19bd84-82f2-41e2-8a61-3c34a9d20319",
+      "9d7f4eb5-72d4-4807-9719-54bd38fac1d0",
+      "1cd43bee-efb6-463b-a20b-0a3069f0690a",
+      "9bf30c79-f48a-40cd-a011-039ce02651c3",
+      "c54639b8-bb0a-42f7-b8ad-73db5d622922",
+      "cc8efe5e-ce22-47f3-aea2-a99c82dab9fb",
+      "e2b61b2f-bfc8-4abf-b8dc-c9ffcac52be0",
+      "c5b5b955-1bd3-46c1-90fc-cfd2e620f928",
+      "54900c02-b5bc-4ebf-b839-ee1c42b9b770",
+      "5f49dbde-b261-4f06-9022-82957ea803da",
+      "f054e2ec-4d49-45b0-be83-d0e841a6ad25",
+      "6863811d-e6cb-43e3-97f7-8834284862c3",
+      "28172f08-1df9-4a5e-a2f5-5416d99213f4",
+      "a0624ea2-6e48-4145-a78a-c98458819a08",
+      "1b54b1b0-70c1-4166-945c-66d3d08535e4",
+      "036014bc-ed22-4745-99b1-2eaa2f8b0797",
+      "a381d2b7-1bfc-4c60-8e08-2f96b713983b",
+      "372a7d5f-c507-45ab-bb5e-a5d34e450774",
+      "b3b57f8d-1e3a-4745-b1b9-4ecbbd87bafa",
+      "960401c0-26ee-49a4-9afe-0d71c6272f51",
+      "a394db4a-24bc-4098-b973-cc967f1fbd59",
+      "3eefdcdc-b558-488b-8dc7-5e0808c29099",
+      "f8d07fba-910b-46d4-a365-6a9dd038e067"
+    ]
+  },
+  "Bookmarks": {
+    "guid": [
+      "a0dbfb55-bffa-4d2c-abd8-703b81c87163",
+      "4ca8f44f-45ad-4bcc-b542-15643ae755c3",
+      "45cc0352-2964-4f15-a87f-b732e76357c7",
+      "d9d3c7ea-5a8d-40e7-a603-2b3f8f056346",
+      "fdd019d0-89bb-4e23-b44d-a5553a8258b4",
+      "08457b3e-36b1-48a2-8fb3-bb9ad8f875bb",
+      "28107195-6bdd-447a-86d8-88f88c28e99c",
+      "2061fe8b-8ae2-4c77-84ff-cd374c54bc06",
+      "cd5adf6f-ec4e-4be8-b2ef-fc5b544e513a",
+      "385c4189-8071-4306-88fd-fcdcd017a6d2",
+      "69e47b98-769c-4b04-95f4-40aaa04057ca",
+      "e441bdb0-4ae5-4a19-bb23-d4bd02238b9b",
+      "15fada02-e9d8-48d8-aaeb-0f932be26cf7",
+      "18df99cb-0675-4302-b9ae-6eddb7fa07e5",
+      "0f705582-ccb1-410a-aa82-70028c10c6db",
+      "d10d9e22-9cdb-472b-9724-69bea6031d6d",
+      "fd642186-dc8e-4990-adf0-9c352a070651",
+      "29293c42-9ffb-45b7-8b61-c79bffb9906a",
+      "ad6f2522-1e16-4a9d-889f-0c51a5f2790c",
+      "2d329f1a-5221-4260-bc53-41d6401c2d45",
+      "9bdde846-a60f-47f0-b917-2936d7b9ad3f",
+      "dfaad051-99dd-496c-be8a-f555e5304f9a",
+      "80c820b9-39ba-444f-a896-b8885e1241dc",
+      "878672d0-c66d-45fb-8a34-587e9c4da5d6",
+      "83ffe582-26d1-44d3-b0b2-80e504369445",
+      "475c7ea5-7f6a-4e8f-83ca-e449e69a94ca",
+      "a20fd706-b3bc-45c1-8f13-e8fd3f50bd03",
+      "5a11b8fc-36ab-49ba-8e0b-b9a205cf827b",
+      "9f77305b-8496-482d-95dc-97e397ac61c5",
+      "62b452bc-9e2f-4b5e-a4ad-5e3f9a4c4b0e",
+      "a930b7e9-20ca-4061-832a-63a383bb0543",
+      "fa4b90b9-1f02-472f-812a-1dcb8bf277f5",
+      "627d5ae2-dca5-4f1f-a39a-c9252871213f",
+      "370f31ad-4383-40b9-9530-8d16d88f4a72",
+      "cfcc5126-6021-4e02-9dda-36121a93d8f2",
+      "7492741f-b336-4e7e-955e-3e08ba460d14",
+      "45d30750-ff37-46e3-9fb8-d8c20f7582e6",
+      "ae445dfd-cdd5-4a6a-a645-645c91f04cc7",
+      "3e576f3c-139a-4517-b98d-c028a9b07586"
+    ]
+  },
+  "21vek.by": {
+    "guid2": [
+      "485dae35-a08f-444e-abcb-76e6ca58ced1"
+    ]
+  },
+  "24h.com.vn": {
+    "guid": [
+      "381986d7-1602-4145-a8ff-c9467cc7d4a6"
+    ]
+  },
+  "agoda": {
+    "guid": [
+      "74449a9a-8954-4edc-a3be-11a0b07f7e32",
+      "d4099a29-f13b-4839-bd20-800adc4938a3",
+      "e4654ced-4e5c-4fc0-b296-38dca746767b"
+    ],
+    "guid2": [
+      "9eb144ef-81d5-4f42-92e8-631b398fe16b",
+      "01efd7ae-62cb-470e-8005-424ff6fe24ce",
+      "abb98fee-814f-4340-b377-5002e0a2db33",
+      "9d3f3c42-1fa6-4827-adb5-fa6492160d41",
+      "c28c0a4f-aef6-4ac6-ae53-d29eb26b6baa",
+      "a0311425-4ff1-4248-95ab-f1e7cf68873a",
+      "e3bd5597-8f09-433a-9d69-8de572bb78cc",
+      "edafeba8-f8c4-45bc-b26f-dd18167dd6c4"
+    ]
+  },
+  "airbnb": {
+    "guid": [
+      "d63ecbaa-0781-4c51-9051-3c1d9aa93105",
+      "4d93ff31-f448-4526-ae87-eb2cdae3ad3b",
+      "053859ad-4622-404c-af41-9956ccd84b85",
+      "bd370ff0-488e-4b82-8cda-36fe7c7f9500",
+      "7ac95491-e06b-43e0-9da8-04a157b2d1b1",
+      "0e6989d1-3d7f-446c-93fe-ce499dbdb75a",
+      "69964039-9578-40d4-abdb-16d28d31edd8",
+      "426f952c-bca8-4b71-8253-fa982ac57ae5"
+    ],
+    "guid2": [
+      "edcedafc-836a-48fc-aae8-109b257cb66e",
+      "724d872e-e676-4585-8e31-862c39ad42c2",
+      "647d7066-1a9f-4693-b1a2-bbc0098ebbde",
+      "375d6964-d767-4b90-8249-0851a662cab5",
+      "f565a6e0-d23b-470f-995a-cdb4782afeb4",
+      "9e0f656d-a191-4a06-9b70-b28f66f401d4",
+      "86693bd7-0691-4f29-b682-9cf1dd8ca697",
+      "80a7558e-68e8-4fdb-97cf-9f67fa7aa0ac",
+      "b55aec34-e04f-42da-afcb-b8f0434961fa",
+      "22af3514-01d1-401a-89d8-e7ecdd14071e",
+      "f319724b-2994-444d-b884-2673ca2a4694",
+      "ff127c0d-c37a-4133-8853-386b8f718cd0",
+      "21446831-3a1d-4e40-99ed-7cfcbb9a6b1a",
+      "2f328416-9285-4bab-9e14-0cfbb83a5e7d",
+      "d3d80588-4354-4eb9-953b-e1f3abe6dee2",
+      "707bb458-caa6-4994-92c0-2398a7a04145",
+      "3258e6d1-de73-4d79-a4a5-dcc4c18100a3",
+      "a1621c7a-9ec0-41dd-ac01-dbaf53d7e7ad",
+      "585c451e-37d6-4d75-9250-35a0402087b5",
+      "08ee8029-470c-4586-a9e2-203b12d11e3d",
+      "b1d5373e-8729-456c-9e88-c87a63d8294b",
+      "3a3839e6-f026-4174-8bd8-3104bbc9f791",
+      "12477e3b-71da-48ed-bc4b-78616f8c91a8",
+      "49414860-5ebe-48b0-b35a-680494e02897",
+      "317c7873-0288-4048-8906-883996f4069f",
+      "de4eb852-3f28-4adb-a4a1-8cfb36358488",
+      "ee9fa18e-08f9-4d87-b67a-523ec9bfb888",
+      "417c424c-9e76-4df1-8542-5e9248ae168c",
+      "cd4aea7b-3e36-4b53-8277-989847ef8ee3",
+      "9ae1ba87-71d3-4030-8f2f-aabb2558e367",
+      "e339aea9-57ba-4393-88e4-ec55b1279f53",
+      "89f803e7-e9ab-4757-a2c1-63dc576b8513",
+      "b211bddf-bc67-4a89-96ef-c93ff67691be",
+      "031bd878-f91a-4536-a360-3fe1ee56ff56",
+      "2d91664a-d4aa-466f-b9a6-9bd1736ce33a",
+      "926a937d-7822-4add-b723-9181bff957dd",
+      "ea516dfa-4c3d-4501-85e1-3aafb479b65d",
+      "f02dc683-fd01-430b-b375-e20ab7e1af16",
+      "fb8babd8-fc6f-432b-af0d-edcc2f609799"
+    ]
+  },
+  "aliexpress": {
+    "guid": [
+      "7538927b-f779-4be4-b22b-cfa72e46ac25",
+      "dd5795ed-07cc-49a9-a902-7bd73de9ae3e",
+      "e6cd3501-0a42-4d84-88f4-2835194d4982",
+      "bafa2595-3824-48f7-b434-70d3fd83cac0",
+      "0e47f260-912f-4806-bf19-d396de601e07",
+      "6c9cb9ba-b9ec-4a02-889c-29896f57b225",
+      "db3d8788-a343-42f9-82e4-505c8e6b376b",
+      "ef4b6027-b859-48c1-8abe-7589440eb030",
+      "e40edb5a-8231-4c2f-81d6-048969dd063a",
+      "01530806-8fb1-49a0-bc3d-49e54732e33c",
+      "288a0bd4-cec3-4f30-964b-dc2121f3b7be",
+      "76721d92-30b1-45dc-8c00-23734909279d",
+      "a94f5dbe-1aa7-4115-ab2c-deea3aa839c9",
+      "2bf783d5-a1fc-40c9-a5c6-866acad4d9a0",
+      "7775f214-544e-4c85-879e-b6ecf21a014e",
+      "a64a2862-7973-4ab8-8a86-a2143f0434af",
+      "be4c0006-ffe7-42fe-9e7d-a06b93ad2c92",
+      "4a3247ec-09c1-4b02-90f4-fc98ebff6fb1",
+      "ef4b6027-b859-48c1-8abe-7589440eb030",
+      "979ee493-e9d0-4e62-9618-16b85c6f6c58",
+      "91a3ddfa-1423-4b67-b0e4-1bd6838ad5ba",
+      "ceae1f0a-336f-4614-9825-1d046e849f99",
+      "c98d4a74-6459-4124-bfe7-2bf2ddc91616"
+    ],
+    "guid2": [
+      "b4489559-c39b-4840-af5c-a1994992b76d",
+      "970eab9a-e961-4a5f-bc8b-40a2ab9ec067",
+      "c16f2611-f4b6-4cab-80a3-26b46b843493",
+      "5cf6746f-d604-4744-b0e8-d6aba160db23",
+      "967c4eb4-3da2-4e6a-a4eb-c45d36da7aae",
+      "138f7895-0e29-4f9d-88ee-6aba6e93643c",
+      "8a8f2ac3-2cc4-4bb0-a101-9419d4cd93a1",
+      "fbc0f0c6-9c6d-42d7-af7a-d234a467c5fa",
+      "e9e15fe6-1230-4918-bbb8-39242fe6d06c",
+      "6c9e6f69-80d2-4e84-9e81-f4393498900f",
+      "ea8ae717-ecdf-4e90-a6ec-38d79c548069",
+      "b3fed2c7-af14-49f2-a4d0-2afcaf6b627f",
+      "64b4973e-d17b-4c57-bdb2-c0fa42e53c8c",
+      "fd816ace-50fa-4a8f-b944-283c5f124874",
+      "0f3582fb-1f72-4951-b320-1ac8f3d6308e",
+      "1579d4d8-3b0e-4474-9204-6c0e7a6ced86",
+      "9b6fdfd8-4e0b-48d9-9cb1-7f8f5a452703",
+      "66154192-d01e-4b4b-a0ba-ac00c78ee659",
+      "f609ffb2-0402-4c3b-beb5-4d2feff7fb74",
+      "1deb0096-fdf7-407f-b8ab-e80d3f346dcb",
+      "9ff1e31d-9144-4453-817c-a56a693b05b5",
+      "322d43e0-5d4c-471e-85bf-1e5a30286fd0",
+      "8c100654-4785-46de-b2a5-a5956b9f160f",
+      "01dbdeb2-2d62-453c-aabb-32bbafa4be29",
+      "d5c46482-5519-443e-80ad-68ec176ad822",
+      "b7f8bb33-2939-4349-8ebd-9dd2d39e3111",
+      "5612b497-3cc4-4b45-85db-d40b3dc7f795",
+      "052182cb-40d8-45ef-a6e1-805953d1c4b1",
+      "a7066b9b-d998-43be-8f82-75031ed0bb02",
+      "0731f253-89d6-4287-b643-5a52fafc0485",
+      "f92103eb-9cf4-46b4-ae20-0929e5243f3c",
+      "b6cd9c8d-e196-449b-a444-0b7eb1bf6095",
+      "891c499a-7804-441f-b283-b5bf6645e9a7",
+      "f387a0bb-90a8-40a2-abf5-bc6d4d87e080",
+      "e677d998-b7e9-4043-81e8-cd3eb00d52e1",
+      "444974b7-f77a-4657-a143-6d7c394925f1",
+      "bc0a1062-6e04-4ba0-9f73-1c957180c6be",
+      "2a8e8b6a-756b-4246-9cf2-41245a15cec9",
+      "cbe26ea2-954a-4ee8-9914-967a5f34ae01"
+    ]
+  },
+  "allegro": {
+    "guid": [
+      "3269cc2f-e876-4635-8a21-4136af6cdaea"
+    ],
+    "guid2": [
+      "1e62f2e0-2bbd-46e5-88d2-a1cb496481b2"
+    ]
+  },
+  "amazon": {
+    "guid": [
+      "42683f66-3306-4142-a760-8b1eefae73ca",
+      "2ec291a5-20c9-4915-bbc1-33983f3a73bd",
+      "62dd5b18-538e-499b-a4f2-262f53b253bb",
+      "27fb0149-f798-4909-9f84-305dfb4b709b",
+      "2bd3d96e-271d-4ef2-a747-b616a715eebd",
+      "1faeb76b-f572-493d-866f-3b0c322841d2",
+      "11608bb1-de6c-4ec6-870d-bf7e50731200",
+      "79ce0f4e-f423-4c82-b26d-0d5868e29c83"
+    ],
+    "guid2": [
+      "f3385543-7116-4c90-9322-ec11ab558b76",
+      "5a488fb7-b9c2-4758-a1f8-cd2b97040ca7",
+      "b50dd534-f748-484e-b106-925d74a65cb8",
+      "165d841b-f253-42a2-b81a-09c5434cf58a",
+      "d8b3f4e2-e637-4929-887b-001a30a3f68d",
+      "161670df-fcf9-44e7-a301-d51fcd0a40d3",
+      "2a3a3c3c-28ae-4387-9f60-055285c15d42",
+      "47092b8c-c976-44ac-85a6-1b8eaa243886",
+      "531c7aed-db91-4b4f-aaeb-8b30e8d61249",
+      "041be755-7c42-4300-9b11-26fe71d6b7a9",
+      "15c44e8d-acfa-4fb1-aa61-c2c8f8278076",
+      "e1cc9841-87b6-4039-9d8b-70cd5423df9c",
+      "3f4b52b3-6417-4c22-92f1-3fb6fa6fa339",
+      "515ca83e-5b98-42ab-ba44-cb716a795a19",
+      "4c453722-b85c-4165-afd4-ebcf3bb58806",
+      "05cab02a-21ae-4ac0-a991-0deb5e11ef5e",
+      "dc2ac77d-d901-45b5-99df-678aefb49355",
+      "1b2921cb-3f9c-4150-8ea1-f1a4b1670fab",
+      "dd93d7f0-ac1e-486e-9228-98999587e1c9",
+      "1493024d-2a70-4a0d-9b17-12513a004bf3",
+      "72326309-b400-49d6-b132-64dd268c8f5f",
+      "f40de0cd-7f84-4728-af21-95b7b59d8661",
+      "6fa8fd8d-33f0-43d2-8f74-37034e19b530",
+      "d3f487bc-cb7e-4780-af5d-19c44fa42342",
+      "d868fba1-77c1-4d7a-8ca4-0911e1c0fdd0",
+      "6af921b9-8e1e-4c11-b7f0-ed93cb2fd95d",
+      "c7998684-5606-4312-8e53-73bc6b7ce985",
+      "6521ac7d-48d0-48d7-ae52-25a93883cec0",
+      "9f62b4f1-aac7-4475-b829-c6a0cb8d346c",
+      "a5dba50a-7184-4641-baf5-e671171eb5ca",
+      "6caf13e1-0f99-423e-af50-1b12685469b9",
+      "985e71d4-3fba-44e6-9521-06f609663674",
+      "fe201915-4cb4-46da-882d-8350c828040c",
+      "3d202341-3255-4c00-85e4-6726bbd70bc2",
+      "c19cbcfe-f2d8-407c-9252-4552e8ec62a4",
+      "7e513deb-d3ce-4103-9f1b-4ce10da0d759",
+      "e1cdf04a-97f2-4111-aeda-3874e9b11b4e"
+    ]
+  },
+  "americanas": {
+    "guid": [
+      "f23440b7-180c-4447-95b8-eb1fd0ab2451"
+    ],
+    "guid2": [
+      "d91b6316-8419-4ca2-94d8-d2378e5f851f"
+    ]
+  },
+  "berlingske": {
+    "guid": [
+      "0f196312-193d-4097-a183-cf9eef08b5fa"
+    ]
+  },
+  "beru.ru": {
+    "guid2": [
+      "83393ace-cc02-4f42-9d03-13050fd0a60d"
+    ]
+  },
+  "bild.de": {
+    "guid": [
+      "c0342ebd-295c-4893-883a-86fa7381da9a"
+    ]
+  },
+  "biobiochile.cl": {
+    "guid": [
+      "a99edb7b-1008-4c87-bdc1-e0ae8c107b1c"
+    ]
+  },
+  "blick.ch": {
+    "guid": [
+      "65e25a49-f33b-4feb-8d56-7db5839aa1c7"
+    ]
+  },
+  "blocket.se": {
+    "guid": [
+      "bdc39653-e425-472e-8e65-af2842ca1f79"
+    ]
+  },
+  "booking.com": {
+    "guid": [
+      "090b6e31-f614-4e56-b26d-7f90ebcc50f0",
+      "f20cd72c-03f0-4cb9-8f68-ab2b4bcd6fa5",
+      "a824609d-debc-4a9a-94ae-8ff36a424f04",
+      "fb25a520-fdcb-4deb-a8e1-f23bc9bbae9d",
+      "f344c9b2-b45c-4b3b-9e45-dff0b368bba0",
+      "612ece5c-2b7d-4008-8df4-2b7388bb77c7",
+      "b75bfef1-159b-4732-9d87-c2df41e58cd7",
+      "eea12ae4-e82b-4993-a0f7-2b74b380afeb",
+      "e2319003-fdb3-4e18-858f-b40ed89614e6",
+      "f7b63ba2-5d09-4e4a-affb-23f451232803",
+      "b63e8c61-ada6-4211-8370-df06125d410e",
+      "ed2a9ace-9f6f-470e-adf6-e7eb02f903da",
+      "25300869-23d6-4198-858d-be4eef1f68ee",
+      "50e724b5-18cb-4f89-b30d-6b20cec4ab3e",
+      "d1d6c4d5-feca-45bd-9ac5-fb24194a719f",
+      "e7264aa8-9c23-488e-80ce-8382e01a5962",
+      "b6824031-0656-4b99-a5a9-2ccc5c16871c",
+      "be9eaee9-c992-4560-94ce-292cd4f8628d",
+      "e41487d3-d8f4-46c2-bdd3-39f27dabaf52",
+      "39a27c10-b6d3-4762-b4f4-bab2e7a4cce4",
+      "aca13b70-3ca9-44be-95c6-5d5030604114",
+      "1603b8cd-4c8b-4b2d-b2a4-fde6c36ad994",
+      "dbffcef1-e4c7-4ca9-8605-a4e5229e3479",
+      "690846ea-ea1a-4a99-a3e8-19d925dadc89",
+      "40f1b600-4312-4d68-a399-c591ed8932d9",
+      "11c1e4b1-6dcb-4c04-a3a4-ce24a03e8cca",
+      "0b763e44-e9aa-4936-8146-dc7cea9eaa3f",
+      "d91e4b92-999e-4bff-8042-e832201f8d9e",
+      "36d3c7a2-5954-4c2d-aef0-16f8af0a442e",
+      "1293f9b1-6de6-4981-b6b4-c818a51b0bde",
+      "04a2c08b-ff79-444a-9b95-73b224afffaa",
+      "1bae39f9-8cde-4795-b2ca-192fe576574f",
+      "ffd28336-c2c1-4e38-9cc1-63e67decbb60",
+      "2fd86c01-fdea-45e9-8ce1-50f1c7055032"
+    ],
+    "guid2": [
+      "34719d3f-9d6d-4254-8e2e-b8d6a99f64eb",
+      "12382b0a-735a-46d0-a503-984300fcf838",
+      "00a03267-2cac-4469-a30f-86d498a48ada",
+      "3af26404-bc20-4f7f-8031-0365eb8f4e3e",
+      "d23f86f2-562f-43e2-8bb2-60734476855d",
+      "72cb614b-4791-4641-9729-f49123f87cba",
+      "a92c7be3-83bc-4aca-a636-fa65923a97de",
+      "e1c13f8d-4b7a-4661-8f04-63db673bd19f",
+      "02c2dbf5-3133-4d3b-9467-a1aa74c19b7f",
+      "ae08dba3-1091-4b58-a653-20996774837a",
+      "d92d7678-8202-4c3c-85ee-a11aa488ab84",
+      "affbb351-e713-49b8-9baa-5bc30876a2bc",
+      "3a443dbb-b6af-4ce6-9c5c-911c22172a56",
+      "33da3903-438d-4b5d-8bd9-2912af46db17",
+      "8af13fb8-75ac-4ca4-9cb2-4f94dfd05d05",
+      "cfa9e574-b8b9-45c3-b83c-db3f22c46115",
+      "97495860-d505-4e5f-8d82-1113967ff507",
+      "210a635c-211b-4f9f-8ddc-d2433a09a3d6",
+      "e910e9fa-8b9f-4727-94b6-dc0eb1d1e699",
+      "3946382b-391d-4e0f-bcbf-9341a49734bb",
+      "1fe5186f-4891-48a2-a654-8a96a12e5999",
+      "c79f52eb-42a4-4a29-b4a2-6425033aebfa",
+      "b789fa73-af6d-468f-9d4d-4b441d93b776",
+      "77c04d6d-cb82-4d2c-8279-1123e65cd615",
+      "78304a6a-0dec-4031-a7a5-ac7b4947f2f4",
+      "cfb40bff-d382-41b4-9c7e-7294bbc6fb3a",
+      "1078bb76-cf1b-4fd4-b084-b55a34fed8a2",
+      "d0d0ed51-8665-40d9-90bb-06c26e143ba0",
+      "ffd79095-2716-4db9-92cd-188d3995bcce",
+      "a3693e35-c209-439b-9be9-a84908d568dd",
+      "196847c0-5f1b-4523-8232-cb75b8e1136d",
+      "6cf88450-3361-4a9f-bcbb-c065f3901598",
+      "c6dceec3-8214-4e27-b8a0-82662123adb9",
+      "9f36af67-80f7-4343-8edc-00bd9c7d7546",
+      "a8b70d7b-f0aa-42e2-887a-c2a8252c6219",
+      "e24e46be-8fbc-4922-ba66-79ec3160ac50",
+      "83e8318e-1025-47f7-bd13-c1353285f14a",
+      "2420c900-c738-455c-9036-aba162abf9ba",
+      "9b35a7aa-0f78-46c4-b788-065f3e1a1acf"
+    ]
+  },
+  "bt.dk": {
+    "guid": [
+      "0d1de4d0-9049-4fba-983b-a9767938a727"
+    ]
+  },
+  "carrefour": {
+    "guid": [
+      "8c1daed9-a120-47f2-bd04-ac3376db078b"
+    ]
+  },
+  "cdiscount": {
+    "guid": [
+      "e4669393-1bb8-4f60-a105-65d419f654d0"
+    ],
+    "guid2": [
+      "e9e81e04-9909-4018-b8b5-921b224ec564"
+    ]
+  },
+  "cdon.no": {
+    "guid": [
+      "332a2680-4d90-4ac6-9810-d0d2d37b41f6"
+    ],
+    "guid2": [
+      "112e2a40-65b7-4815-812a-590cccf58944",
+      "62906c5d-ae08-4aa6-adf8-c00c05932bfc"
+    ]
+  },
+  "detik.com": {
+    "guid": [
+      "541c814d-a54f-420b-9a0b-674b9536656a"
+    ]
+  },
+  "dn.se": {
+    "guid": [
+      "abca1626-b743-4db7-9ac9-e9b1eca5b8ec"
+    ]
+  },
+  "ebay": {
+    "guid": [
+      "64662683-dd45-4147-8150-1c7bda44c85f",
+      "4a6565fa-3d10-4ad0-a95b-ded281d43419",
+      "243e9e8f-cdb8-449e-ac37-65493d67e309",
+      "05e4a0f9-5887-45c8-883e-6062987d7106",
+      "b3ef19bd-5c91-4106-a0f9-ed9822b20962",
+      "924cf024-dd16-49a9-95e5-919d79c3c88b",
+      "95633c81-8149-45a6-9736-124a25dd5371",
+      "0621ba32-0c59-459c-8eea-b8ceeb47f11c",
+      "cacb0331-532d-45c7-8df8-9bb55083204a",
+      "42c55163-1b3a-4280-93e3-03713d3b6e0f",
+      "a6500ebb-bd2f-4ac9-8730-573afea2c062",
+      "fcdae43b-6a71-4843-8268-8a9e23026b76",
+      "4afb70c3-9403-44d3-a2cc-ed4a2fd51ed8",
+      "278d4f95-ac49-4fa9-a81b-23397d059b2d",
+      "12504ce7-123d-4632-a44e-655e3f923a80",
+      "73687c86-e231-402c-afe0-fb5b69c586ca",
+      "d872afe0-3399-4db2-8ee6-da66fd05485d",
+      "e244f8a2-ff45-4d20-8a48-fb0b239f69b9",
+      "b25b70a2-b63a-42c1-9b81-623fe61af59b",
+      "60972e7b-a519-4a38-bc26-d15a742f19d0",
+      "6249fcf5-579a-4fe4-9de2-ec31908a8e91",
+      "10509490-e579-41f9-a27c-2f689c03b12a",
+      "28cab464-dfbe-4dd8-9f27-eab89dff51e1",
+      "a3824cc8-42f2-4216-966b-ece0981b23a0",
+      "eac86919-4a43-4b4f-b2db-4f06414d1125",
+      "cb82934d-950e-42bc-b503-6986869ec966"
+    ],
+    "guid2": [
+      "5b9fe6be-f973-4435-8fed-8e9c3cabe016",
+      "e35f3e38-5631-48b4-9084-c7ea45af0b42",
+      "d48d561e-2af9-44a9-896c-f4665fd2f256",
+      "0440502a-be95-4290-9008-a1f38cfd6cdd",
+      "7d75b42e-8fb5-402c-a030-26f2e1038baa",
+      "56a42f99-c0d4-44a8-aa4c-cb50fe7f0643",
+      "bea30c75-836a-416f-9881-56f0912a18dd",
+      "7558763a-639c-439e-88cb-459df4ff316b",
+      "5f7d5265-00b9-4c60-9c0c-69cd99a39c47",
+      "6eeabd4e-5fe2-405f-9bf7-0c1d63be2353",
+      "2e49b686-435c-4a2d-8379-242be660e26a",
+      "4e3b2180-6466-4557-add8-daf4bcdfff91",
+      "4995d4db-d249-4ecf-b8a2-b3060a0b07b0",
+      "303f6adb-8b01-4a27-a7a4-3f2a7cd60f1d",
+      "88475294-bc6e-4238-b0bf-fcb9b7b31a74",
+      "47715f37-8200-4944-94bd-2260ff047c54",
+      "06a1b644-aa1e-4fbd-9c68-4b9555ffcba2",
+      "93456e64-0370-4538-afd5-2da1a22b64b9",
+      "62ae1e3e-abe0-432d-9833-7fe3c15c2fcf",
+      "4d8ae3d1-804d-4c83-a7b7-c421f0ab3728",
+      "f711f184-c86f-4a4e-9367-79afcb274266",
+      "40e52efa-e854-48d8-9713-3cd45eb4f727",
+      "84f99331-234a-4676-8791-ad9a48a7629c",
+      "b9d45d36-2136-4c38-8d20-4dc2237bd456",
+      "b45730b5-7df8-4bb0-9e35-e1d1281979be",
+      "855e222d-5c2a-4d51-8c4a-a78f40a5691b",
+      "d7f8e913-b66e-45ad-94d7-4ab5f23e4f84",
+      "72c4b5ea-84e3-4c6a-b44f-c43ede65eae0",
+      "acfe913c-c539-45ae-bc0a-114ecc32de14",
+      "8773aa7f-d21c-4ba5-bae3-c066846040ee",
+      "9a36c771-600f-42e3-88e2-4af815767878",
+      "9e4304ad-e923-4df9-a185-0f00a90ba945",
+      "4a7a2e12-c0d9-4b77-b7cb-6a6625812226",
+      "f5a48453-e23d-4870-8ae8-e0577ec14bf6",
+      "210de481-d671-4e8c-b8a5-a330f55d8e41",
+      "bef293b5-24e3-4bfc-84f1-3524a694671c",
+      "3b5e9750-e882-4332-b73e-2eb7a80d6e69",
+      "701702f9-5820-4bcf-801a-a7276319de8a",
+      "6bb0290e-1f2b-4ed3-915f-4b5decb73208"
+    ]
+  },
+  "elcorte": {
+    "guid2": [
+      "424cc26d-c05a-4247-9168-fe5215eca194"
+    ]
+  },
+  "elmundo.es": {
+    "guid": [
+      "dc13cc8c-fdd1-4dfc-9b02-4800ed6ce60b"
+    ]
+  },
+  "eluniversal.com.mx": {
+    "guid": [
+      "a44d7aaa-7864-4acd-90c6-999fd335f110"
+    ]
+  },
+  "expedia": {
+    "guid": [
+      "2383a94c-1000-4366-a04a-2d829fbb4a1a"
+    ]
+  },
+  "finn.no": {
+    "guid": [
+      "1cc06e59-b813-4bbd-95af-7a676256fcad",
+      "fd4dd5ba-7e7c-4edc-9548-3868c9f73760"
+    ]
+  },
+  "fnac": {
+    "guid": [
+      "f02aa5eb-6d7c-48a6-8109-6393f721a45d"
+    ],
+    "guid2": [
+      "f269f9f6-d15d-4e67-9434-5ab7759678f6"
+    ]
+  },
+  "habr.ru": {
+    "guid": [
+      "27b2aaf0-690e-416c-9731-ee9b9d1ca310"
+    ]
+  },
+  "hk01.com": {
+    "guid": [
+      "d2fbd009-68af-4232-b3b3-758c643abadd"
+    ]
+  },
+  "hulu": {
+    "guid": [
+      "797362de-2dab-4b10-877c-29ac2de8934a"
+    ]
+  },
+  "hurriyet.com.tr": {
+    "guid": [
+      "6818b46d-5710-43ba-9055-e0092c143c23"
+    ]
+  },
+  "idealo": {
+    "guid": [
+      "50794c1d-9f77-466e-bb8b-a289a59eb4d2",
+      "ea608930-6f30-42fc-8e03-6b90e5b5b031"
+    ],
+    "guid2": [
+      "d436b52c-2d57-4fc9-8b11-b2c2c20f53e9",
+      "9f71aab2-aef1-45f7-8f91-5b1fcb48026b"
+    ]
+  },
+  "independent.ie": {
+    "guid": [
+      "f52959c1-cf9e-4fb5-96d8-3c7e7cae3509"
+    ]
+  },
+  "infobae.com": {
+    "guid": [
+      "2179defe-0a84-4dca-813f-9ef157699d8a"
+    ]
+  },
+  "justeat": {
+    "guid2": [
+      "5c857839-b669-4b24-926d-987d51ed2e9f"
+    ]
+  },
+  "krone.at": {
+    "guid": [
+      "0c3a4eb1-75b8-4315-b56a-f1d59784870e"
+    ]
+  },
+  "lamoda": {
+    "guid2": [
+      "c437ee94-0178-4671-b8f1-41a9acf5e230"
+    ]
+  },
+  "larepublica.pe": {
+    "guid": [
+      "80eda765-b0e3-4e6a-a011-67e81d01a123"
+    ]
+  },
+  "lefigaro.fr": {
+    "guid": [
+      "a6ca6e33-6736-468d-94b7-6bc50658f02b"
+    ]
+  },
+  "libero.it": {
+    "guid": [
+      "694c6ea1-7f3f-4e29-840f-ef2cdb2269dd"
+    ]
+  },
+  "lidl": {
+    "guid": [
+      "79890dae-ac4d-49b2-996e-806e12109322"
+    ]
+  },
+  "ltn.com.tw": {
+    "guid": [
+      "9c2d2029-ed36-4a92-907c-7c663120c059"
+    ]
+  },
+  "mail.ru": {
+    "guid": [
+      "7e748a10-0f40-4678-bc40-6475310a0d8b"
+    ],
+    "guid2": [
+      "55df0173-7b9e-4a3d-8913-98bb3a33dcf4"
+    ]
+  },
+  "malaysiakini.com": {
+    "guid": [
+      "95396e9f-f05a-46a5-b6dc-2d3e8ba64db6"
+    ]
+  },
+  "mbl.is": {
+    "guid": [
+      "5594e5fc-b0a5-40f3-b3bb-5f37dfb5f721"
+    ]
+  },
+  "milanuncios": {
+    "guid2": [
+      "e8c584c6-f3b8-449f-9254-095512596b5e"
+    ]
+  },
+  "morrisons": {
+    "guid": [
+      "09a8c150-73ac-46af-b855-f882168067d8"
+    ]
+  },
+  "ndtv.com": {
+    "guid": [
+      "b98121ce-49b5-4b3e-8650-3548e842cd4a"
+    ]
+  },
+  "news.abs-cbn.com": {
+    "guid": [
+      "fdead7dd-56a0-464e-ac6e-2b43a930622a"
+    ]
+  },
+  "news.com.au": {
+    "guid": [
+      "3cb4964d-740e-4443-9174-328bbfc3f385"
+    ]
+  },
+  "nhk.or.jp": {
+    "guid": [
+      "f93e8383-53ee-4ef5-bc2e-d0e20676d04a"
+    ]
+  },
+  "onliner.by": {
+    "guid": [
+      "9302afe8-c103-4f17-a6cb-e05fd2ecf13a"
+    ]
+  },
+  "otto": {
+    "guid2": [
+      "355ec86d-e0c0-43a8-82e0-5bb722e2dd66"
+    ]
+  },
+  "overstock": {
+    "guid2": [
+      "1d0fab49-8c02-4c14-ad21-4b9d0e2b9f0e"
+    ]
+  },
+  "panorama.com.ve": {
+    "guid": [
+      "285693d4-f8a7-48ea-9182-f522d07739ec"
+    ]
+  },
+  "rakuten": {
+    "guid": [
+      "2192209c-1d68-4c5b-8a6e-8e8d26fdacd7"
+    ],
+    "guid2": [
+      "80702bc0-4892-43a6-81b5-627a7cbbfadb"
+    ]
+  },
+  "recochoku": {
+    "guid": [
+      "5759ae92-15f3-43ad-97bf-666bd9bc2383"
+    ]
+  },
+  "reddit": {
+    "guid": [
+      "d5ab87b7-97a8-42b2-a1e9-06f6e9990413"
+    ]
+  },
+  "rozetka": {
+    "guid": [
+      "5b14eda2-28a7-48b1-aff9-c598f925a92d"
+    ]
+  },
+  "sahibinden.com": {
+    "guid": [
+      "5e90153a-30fc-4063-b1df-6b001fe91634"
+    ]
+  },
+  "sapo.pt": {
+    "guid": [
+      "de13ab06-3196-49c3-81a2-8059552ece7b"
+    ]
+  },
+  "setn.com": {
+    "guid": [
+      "d8c90d47-6b64-43a8-943d-b2ba60621d99"
+    ]
+  },
+  "shein": {
+    "guid2": [
+      "9aee0423-b19e-4bea-9d2a-728cf6efaba5"
+    ]
+  },
+  "straitstimes.com": {
+    "guid": [
+      "e09fb5a0-159f-491e-801d-b5d46ca5fae5"
+    ]
+  },
+  "stuff.co.nz": {
+    "guid": [
+      "8b049874-0ff8-4aad-85f6-46d8b98f5b8a"
+    ]
+  },
+  "submarino": {
+    "guid2": [
+      "c40b4041-cbd7-4854-84a4-ee806dfefbc7"
+    ]
+  },
+  "telegraf.com.ua": {
+    "guid": [
+      "f6db015d-ccd0-4a65-8b23-8734467ad109"
+    ]
+  },
+  "theguardian": {
+    "guid": [
+      "8b6d8ec8-844e-49b9-9937-d50459d42182"
+    ]
+  },
+  "u-next": {
+    "guid": [
+      "5c37c26c-5803-4e34-b87a-7cc7733f2eed"
+    ]
+  },
+  "vg.no": {
+    "guid": [
+      "bca8fbfa-88c4-439c-9be9-4ec88260c0bf",
+      "3d2b2667-0c2f-412c-b6b8-3031a4468fba"
+    ]
+  },
+  "vivaldi-community": {
+    "guid": [
+      "1638bd84-e1e1-434e-8484-99dc575aa701",
+      "f817c3bc-9b7c-4138-b77e-889a9caf144b",
+      "b13952aa-c2b6-4d08-a7af-40012e61a89f",
+      "d7b4dc6b-2d01-4402-83e1-968f3041ab51",
+      "59053375-e32d-42e6-b14f-277b190ba4f5",
+      "cd78d7a7-0e55-4d8f-ab30-9d3fe8a9226d",
+      "f25ffcf9-883f-4e19-8b30-e90dd4644838",
+      "8c439941-7250-4753-b4fc-9aed774915f9",
+      "585f305b-eece-4ded-b7d1-6b2ce88ba95d",
+      "a999654f-4d4e-4d00-b04f-38515c60b643",
+      "69e81429-1766-43bd-9b50-3b56f54164f2",
+      "7e9b4d6a-6f34-4b33-bdd7-7284d704af11",
+      "b6ed1479-3b8c-4511-8a28-ef1afc49892e",
+      "4053d740-f97e-4d69-bd1a-d3b88078b960",
+      "b5516162-1a63-4f7a-a3a7-471d19e39591",
+      "93f54380-f263-43b1-bf7e-89f73f2433de",
+      "c5fc8dd1-7ebd-45b2-8dc3-2431e0586a4b",
+      "a6d08da0-c7f6-4ee1-8fbe-4143bcc6e8a9",
+      "17c95306-c825-4bd0-b982-0fdde221761d",
+      "89021241-80c5-4b99-bd1d-50d23c82177d",
+      "737dbfbf-024c-4ef7-9ad8-85e80248a32d",
+      "c0f96cbe-18b7-4081-b0d9-6dd0ad424431",
+      "63cef1f1-7b3d-497a-be1c-a0d11dc5d625",
+      "b0a9ca8f-6253-42df-ae85-c8b0e0f09745",
+      "09d91f4c-2b3e-437a-b6bb-b9e875b29007",
+      "be3669da-012e-451b-973f-b28550d5c287",
+      "fdae1110-c2c0-447d-a3d0-d415e344c9c3",
+      "829736f6-33c3-47d0-a672-fbf6e7a8865d",
+      "775d6c7d-a2a0-4b6d-8003-0337cdda41c4",
+      "7bf2fff6-683a-4a50-b542-73952c45cbec",
+      "debaf881-faff-4488-b9c7-8417bc7d3d39",
+      "68b7105c-7ce4-4b03-a2e8-60e596aa21f8",
+      "bff9d2fe-a92f-422b-8c5f-063622044e96",
+      "e15eefff-1637-4d2b-91a9-228e984f274b",
+      "52aa8461-e0bb-4c85-882e-2d7c75598d62",
+      "b727d506-54dc-413d-8f3c-ff0de6f96aa1",
+      "c667f05c-f95a-4558-b14c-56176329cd39",
+      "de473413-65ce-4bb0-b829-d42fbaa2b887",
+      "b2481b07-ddba-47fe-a2f0-aabdfee2b2b8"
+    ]
+  },
+  "vivaldi-features": {
+    "guid": [
+      "506dbc3e-9e5d-4bfb-9ea5-b89091c7a1f5",
+      "c7208741-c8cf-4d18-9313-6082227e1a65",
+      "8be7af3d-a503-423a-b08d-81bce60d2b24",
+      "9878fa63-6714-4157-82a6-9d4be8175215",
+      "da6429f6-93aa-4c78-82b4-113870d318d1",
+      "181671de-a3ea-47df-b851-a0e4fc984122",
+      "d464f40b-e82a-42cf-bb3e-4fe0d50d134c",
+      "181671de-a3ea-47df-b851-a0e4fc984122",
+      "663b3ec2-fc8e-4613-beb3-17f825a10533",
+      "181671de-a3ea-47df-b851-a0e4fc984122",
+      "e6ee64f7-8aea-4f0d-92f8-119ec9a21008",
+      "181671de-a3ea-47df-b851-a0e4fc984122",
+      "5032d041-5f71-4c86-b282-393c6d88172a",
+      "3a3107c0-f0e6-484f-80c2-dd2bcbed132e",
+      "b1091661-2152-42e0-aff2-d7610a327cd0",
+      "88115a03-f354-4fb0-959d-ec0c531cfcec",
+      "0231719c-d385-4461-95f8-853c47eef8be",
+      "ea3bea10-f420-41ae-bbea-2b3e57c33f2f",
+      "ca4da614-eb95-4bf1-b72c-57b4bbfc4167",
+      "64757007-399d-4f4c-afb0-5c74e029f2ff",
+      "78c58761-ac11-447b-93c3-1730e53314a4",
+      "ec936fc2-a388-4682-bb6c-c31e56937a31",
+      "b5c9d667-3c7a-4918-89d0-a86b54d47789",
+      "b2db8bf4-bf09-4d2b-b83f-205429d46c58",
+      "0b875c9f-90d1-4330-9d7f-e3aa05977890",
+      "27edc6f2-d85a-4af9-97c1-f4c0c0db37a8",
+      "10944f81-bdf1-4784-8c19-a7ee3ffc2454",
+      "d2a9b82d-a4e7-4cb9-bd66-2a388f009508",
+      "695a3f0a-bddc-4512-89e6-770b1dccf68b",
+      "b664c478-383e-47d6-a2d2-a71c5992dc66",
+      "462f36ed-a9ab-4bd8-a765-42df0b0c7a85",
+      "27357143-9043-4823-8923-b6cc908e9ba8",
+      "0928a7a8-6629-4536-8de5-12cbb8d1dc81",
+      "c005175e-5bcf-4fe3-b9a8-97010957859b",
+      "27a9140d-ee52-4197-85c5-aeae51ffca4a",
+      "6b4be791-a59a-4c49-bc05-816389a9e3ca",
+      "05f38231-6c52-497a-b488-aa418b6443b2",
+      "868cc432-c434-458c-b7d0-bcc51e507de6",
+      "76b02545-dc5f-4b8f-88f3-cac9153ecb95"
+    ]
+  },
+  "vivaldi-get-started": {
+    "guid": [
+      "ff5b240b-b063-4895-aedd-fb7b68196beb",
+      "f89a1e66-01f7-44b1-b0e9-456d5a6b73e4",
+      "3ed2b980-83fd-4b07-a6da-7722c16ec601"
+    ]
+  },
+  "vivaldi-webmail": {
+    "guid": [
+      "cf0df5ec-3a77-40e8-85cc-f641a32478e2",
+      "5e4c7341-5de9-4a42-a758-97ffd6eb333a",
+      "070bb89e-32e1-411d-a4b9-ce6f7ff30ee4",
+      "b8e55a13-3084-440e-8a9d-66d5b677726f",
+      "93cf2fcf-2fd8-4b98-b99c-5df3ddf6ac77",
+      "22b66065-8225-4368-9c9e-3692dbe3bb3d",
+      "ae1c74d4-d136-4abf-8c51-fe89422caf7d",
+      "67b9fa5e-753f-4c72-aa50-7067913d1e7b",
+      "53855b2f-bfd7-4635-a90b-225af24b9316",
+      "d68dc790-5732-4fc0-bee8-01d1c2dd6601",
+      "be24703c-ef26-4459-a27a-2284c83cd7e5",
+      "81faaf2a-8c43-41e6-868e-a9010bf1b0a9",
+      "b40419da-ff17-434a-9db7-e947a76d3de2",
+      "2eeab7aa-f624-476a-a606-3116b21f836c",
+      "69d274e6-b43e-4a67-b1dc-4dae167e6e6c",
+      "fa6f807c-71ad-43bc-8441-d74aee9c155b",
+      "e89c2c29-ca61-4c7c-a1b7-8cd9adfcb42d",
+      "67046646-8ccb-4897-8e0e-defe7e4214e8",
+      "e7798914-096f-4486-9a61-d13d495d38b4",
+      "06bfe726-0b24-4418-b71a-96ff09b04f75",
+      "a2b6eac6-87d7-44dd-962d-a2569cbd5edf",
+      "3bcc5dea-17d1-45a7-a18e-4cffb69562b9",
+      "1e8c9a9b-e2ed-41b2-a41d-d38bd1f6565f",
+      "1d54d72a-a2e3-4d55-b857-1af3045dfd39",
+      "af636b37-d32e-4e83-abe5-1653cd09283c",
+      "e829cfb2-680e-4d11-b436-ec31ef97db83",
+      "1488f9e5-09a3-4c46-b2b4-7e59139838e5",
+      "086b178f-d84b-44dd-a0a4-be60095a4f21",
+      "efca5270-6957-4586-befc-3e95f1dd7e1d",
+      "aa61daae-458c-44f0-969f-6c8a9199d72f",
+      "47c3fce5-fe6f-4063-ae7b-a032d937be99",
+      "282aad77-c592-47f3-b258-af3b16d88312",
+      "efa8e554-cd9a-4342-892a-e2e2d036307e",
+      "27caa689-eef8-4125-87a4-0ae56ed90661",
+      "6ba6ad76-4375-498c-be91-5fe90f86934e",
+      "b537d368-2307-432c-8687-817bd18be6dc",
+      "904f19d6-1516-4b44-b26f-5d9dd6926264",
+      "bd0335b3-5af4-48d3-ae0a-af6e3119a57c",
+      "09dad080-edf5-48fb-a392-d73538c6849d"
+    ]
+  },
+  "vk.com": {
+    "guid": [
+      "ea6249ef-f905-4d2a-9c06-bc8674efe9cf",
+      "fc39c8cc-7b97-46a3-b02b-b651065298d5"
+    ]
+  },
+  "walmart": {
+    "guid": [
+      "06e4a4ce-ff01-4875-a234-85458dc88934"
+    ]
+  },
+  "whereby": {
+    "guid": [
+      "1ae022f5-d532-4cb8-9ce3-95badb4494f4",
+      "be5e42e8-ce79-437e-8a56-0158f971dd19",
+      "2b114e15-73b5-4634-88ce-a1f3f3f727b7",
+      "346a68d3-d5aa-405a-b00f-50a98821af77",
+      "dbc537c6-7c7e-4936-a450-8fc9da60b7b1",
+      "f40c3699-4075-4935-8a4b-2049b743956c",
+      "e5a40e94-ec37-46de-a37f-8bb919175dcb",
+      "b8bc9755-425e-4f6c-a922-2310ff3de03e",
+      "411d727a-bce7-4143-bc7a-f7633fd5cbe1",
+      "fa06bf0d-e220-4aa1-af01-2b38ef2e40c6",
+      "2cca4a19-d882-4997-96bd-d1e225d9b039",
+      "2a9d785c-c3c2-4220-990a-92faaca07bb5",
+      "10b691b5-ec0a-4d41-b914-282f0e4ebb64",
+      "7aa18393-74c6-4c43-8e07-fb505648a1db",
+      "61b295bd-1c15-465f-8d8f-2ed4603286c6",
+      "dc178169-91c5-4645-a879-5fb179c93021",
+      "824ec203-3d9d-455f-827e-ca3046b5af2f",
+      "7e00add7-38a4-4200-81d3-a988b04c7d02",
+      "368b93b8-fb1d-4729-9329-1507715e5ef6",
+      "f77b87ae-4649-4ddb-98bf-66cc00f09209",
+      "f7272e2d-5f0c-4c7c-b96b-3116636c5707",
+      "ec3433ce-bf9e-4ddc-b874-6a46af3ca3c9",
+      "1894f663-38bb-4fc4-866e-aefb620d5d93",
+      "cd655d44-4318-4a31-9498-0a780de54589",
+      "94b929ff-9375-41d7-bb0f-d43e39ee4669",
+      "315eb405-ea5f-46b0-84f0-be27d9af19ea",
+      "c83aa23f-9570-4ffc-92bd-29f40df4a06b",
+      "e6ed81c6-b6ed-4de0-aa86-c5a80ed7c01d",
+      "5dd64df5-e269-40ca-8fa9-a0e5e53d9bd7",
+      "b6144d3a-1737-4295-afcf-caf415ac515f",
+      "fd337149-aace-4358-9718-a5b0e28bcb11",
+      "3ae0351b-0071-4ead-94b1-c9eaac71b7b1",
+      "fb2287ed-a43a-494d-84d1-139ead488db2",
+      "f771a71b-d961-4920-85d3-677521cb5723",
+      "bcb52937-d5cb-46fd-8db6-91e7e090cd12",
+      "31c61b79-7a5c-46df-9edc-9010c41fed49",
+      "65c09bb6-495a-4a01-aec2-be9fcce5f706",
+      "8b82a4b9-a94a-4c67-b8a2-d714c9140225"
+    ]
+  },
+  "yahoo-shopping": {
+    "guid": [
+      "df0fdcf5-455d-4eea-b89a-61abbdfc5b87"
+    ]
+  },
+  "yandex": {
+    "guid": [
+      "4ea7cec8-e350-4871-b082-34fcd1cba5a5",
+      "9c73ba38-7800-4402-912c-8ad273bb8ba0"
+    ]
+  },
+  "yandex-market": {
+    "guid": [
+      "e38a883f-36c0-4a8c-b63c-dc0e315cce8b"
+    ]
+  },
+  "youtube": {
+    "guid": [
+      "95ee9162-6be9-4154-a6c3-e67c87e148ac",
+      "baf4321f-df9d-49c4-bd5d-58007f0bfa8c",
+      "b4a45269-1359-4d79-9869-bfdf02db83de",
+      "a08c8139-8d03-490a-a324-2d65caa5872d",
+      "38239650-bdcc-4e8c-ba6a-f5707b2d7516",
+      "d022feb7-86cd-4473-b80b-9d56bb9379f0",
+      "ad3c6cd3-dadc-47b8-91a4-c02e739461e3",
+      "5044bc16-3bef-4036-8715-82eeb36b85b2",
+      "a4233347-af4c-407d-856f-b7f038a3e3fd",
+      "5799d1ed-8ce9-4677-a767-fd33d2ec564c",
+      "0d2e9da9-58e5-4190-8fe8-6974d964871c",
+      "c956b86d-1363-4d76-9ba8-cabadf0fb63c",
+      "36a4cd17-c3c8-4fcf-a73c-b3f707ab1e2c",
+      "9f002249-b201-4bdb-bae3-4065b9d55909",
+      "9c984a04-8105-4992-a073-b77843320420",
+      "4d9c5635-c0cd-495f-bdf2-600fed8c6f2f",
+      "9b44ba9c-f77b-4638-9aeb-6b0cf9d99f42",
+      "5fc4bb80-34d0-41a6-aa47-2513e2d1ed65",
+      "370349a3-9413-4d0a-b99f-51beafe5f2ed",
+      "626d75b9-dfd6-45c9-b086-20bbfe864a6b",
+      "ed4aeea2-b3fc-41bc-873d-5d639d01bb13",
+      "d8fca1c1-bae3-494d-a0fa-39b3e938adc2",
+      "e720984a-5506-43f3-9ad8-6acd370c51b1",
+      "4631725e-d267-46ea-9a4b-9661213d42f7",
+      "ec55eafa-dd48-4cf6-a33f-faa3e49f45a4",
+      "7efbe023-69cc-441f-b95e-b64f0d99e528",
+      "407b5e63-fae4-4bd7-ae74-3da8b56373dc",
+      "8cafe4bd-a505-462d-b2c2-c47ebfaed3ae",
+      "355a4ef0-7a36-4fa8-b259-c01d57580dc4",
+      "0d6d99ed-f773-4b80-877a-e770bb046c75",
+      "ec814323-3e2d-4086-8adf-5aa9947660f2",
+      "e988e967-21a3-4fb6-85de-8a4442ba9c70",
+      "34bf3cdf-45ce-4a8e-91c1-e6b24c9e0059",
+      "09d51fe2-c096-42b1-a3dd-fbed680fbaaa",
+      "6501908d-c70f-488e-b9a0-b1d07936fedc",
+      "ef525a3a-1df2-4930-8908-2a2f0b49b128",
+      "7fc88eea-6711-4c27-adde-2a5637d16753",
+      "eaee3b53-9cc2-4722-90e9-c54ef6b79bed"
+    ]
+  },
+  "zalora": {
+    "guid": [
+      "2d5d22e6-5d7c-4afc-9965-9d87a14d18c4"
+    ]
+  }
+}

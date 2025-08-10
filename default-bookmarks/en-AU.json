@@ -1,0 +1,152 @@
+{
+  "version": "26",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Home",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-au-bk",
+          "title": "Amazon",
+          "description": ""
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-en-au",
+          "title": "Vivaldi Community",
+          "description": "vivaldi"
+        },
+        {
+          "name": "news.com.au",
+          "url": "https://www.news.com.au/",
+          "title": "News.com.au",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-au",
+          "title": "Booking.com",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Shopping",
+      "children": [
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-en-au",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "eneba-en-au",
+          "url": "https://vivaldi.com/bk/eneba-en-au",
+          "title": "Eneba",
+          "description": "shopping"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "shopping"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Travel",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Bookmarks",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-en-au",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-get-started",
+              "url": "https://vivaldi.com/bk/sd-get-started-en-au",
+              "title": "Get Started"
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-au-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-en-au",
+          "url": "https://vivaldi.com/bk/kayak-en-au",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-au-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-au-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

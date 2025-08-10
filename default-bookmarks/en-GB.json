@@ -1,0 +1,182 @@
+{
+  "version": "33",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Home",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/sd-amazon-gb",
+          "title": "Amazon",
+          "description": ""
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-en-gb",
+          "title": "Vivaldi Community",
+          "description": ""
+        },
+        {
+          "name": "theguardian",
+          "url": "https://www.theguardian.com/",
+          "title": "The Guardian",
+          "description": ""
+        },
+        {
+          "name": "qwant-en-gb",
+          "url": "https://vivaldi.com/bk/qwant-en-gb",
+          "title": "Qwant",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-en-gb",
+          "title": "Booking.com",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Shopping",
+      "children": [
+        {
+          "name": "morrisons",
+          "url": "https://vivaldi.com/bk/morrisons-gb",
+          "title": "Morrisons",
+          "description": ""
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-en-gb",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-en-gb",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "eneba-en-gb",
+          "url": "https://vivaldi.com/bk/eneba-en-gb",
+          "title": "Eneba",
+          "description": "shopping"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "shopping"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Travel",
+      "children": [
+        {
+          "name": "hotelscom",
+          "url": "https://vivaldi.com/bk/hotelscom-en-gb",
+          "title": "Hotels.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "kayak-en-gb",
+          "url": "https://vivaldi.com/bk/kayak-en-gb",
+          "title": "Kayak",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Bookmarks",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-en-gb",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-get-started",
+              "url": "https://vivaldi.com/bk/sd-get-started-en-gb",
+              "title": "Get Started"
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-gb-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-gb-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-gb-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-gb-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

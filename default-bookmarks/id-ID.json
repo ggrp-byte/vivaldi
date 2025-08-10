@@ -1,0 +1,153 @@
+{
+  "version": "18",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Beranda",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community",
+          "title": "Vivaldi Community",
+          "description": "technology, social"
+        },
+        {
+          "name": "detik.com",
+          "url": "https://detik.com/",
+          "title": "Detik.com",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather",
+          "description": ""
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-id-bk",
+          "title": "Booking.com",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Belanja",
+      "children": [
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-id",
+          "title": "AliExpress",
+          "description": "belanja"
+        },
+        {
+          "name": "eneba-id-id",
+          "url": "https://vivaldi.com/bk/eneba-id-id",
+          "title": "Eneba",
+          "description": "belanja"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "belanja"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Jalan-jalan",
+      "children": [
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-id",
+          "title": "Agoda.com",
+          "description": "jalan-jalan"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "jalan-jalan"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "jalan-jalan"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Penanda",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-id",
+          "url": "https://vivaldi.com/bk/kayak-id",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-id-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-id-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-id-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-in-bk",
+          "title": "Agoda"
+        }
+      ]
+    }
+  ]
+}

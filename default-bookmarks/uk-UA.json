@@ -1,0 +1,152 @@
+{
+  "version": "28",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Загальні",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-uk",
+          "title": "Спільнота Vivaldi",
+          "description": ""
+        },
+        {
+          "name": "telegraf.com.ua",
+          "url": "https://telegraf.com.ua/",
+          "title": "ТЕЛЕГРАФ",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-uk",
+          "title": "Booking.com",
+          "description": "подорожі"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Покупки",
+      "children": [
+        {
+          "name": "rozetka",
+          "url": "https://vivaldi.com/bk/rozetka-uk",
+          "title": "ROZETKA",
+          "description": "покупки"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-uk",
+          "title": "AliExpress",
+          "description": "покупки"
+        },
+        {
+          "name": "eneba-uk-ua",
+          "url": "https://vivaldi.com/bk/eneba-uk-ua",
+          "title": "Eneba",
+          "description": "покупки"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "покупки"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Подорожі",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "подорожі"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "подорожі"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Закладки",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-uk",
+              "title": "Функції Vivaldi",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Mail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-uk-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-ua",
+          "url": "https://vivaldi.com/bk/kayak-ua",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-uk-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-uk-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-uk-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

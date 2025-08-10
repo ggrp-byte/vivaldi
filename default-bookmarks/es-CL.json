@@ -1,0 +1,158 @@
+{
+  "version": "19",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Inicio",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community",
+          "title": "Vivaldi Community",
+          "description": "technology, social"
+        },
+        {
+          "name": "biobiochile.cl",
+          "url": "https://biobiochile.cl/",
+          "title": "BioBioChile.cl",
+          "description": ""
+        },
+        {
+          "name": "wwwhatsnew",
+          "url": "https://vivaldi.com/bk/sd-wwwhatsnew-es",
+          "title": "WWWhat's new",
+          "description": "news"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-cl",
+          "title": "Booking.com",
+          "description": "viajes"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Compras",
+      "children": [
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-cl",
+          "title": "eBay",
+          "description": "compras"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-cl",
+          "title": "AliExpress",
+          "description": "compras"
+        },
+        {
+          "name": "eneba-es-cl",
+          "url": "https://vivaldi.com/bk/eneba-es-cl",
+          "title": "Eneba",
+          "description": "compras"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "compras"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Viajes",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "viajes"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "viajes"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Marcadores",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-cl-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-es-cl",
+          "url": "https://vivaldi.com/bk/kayak-es-cl",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-cl-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-cl-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-cl-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

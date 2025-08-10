@@ -1,0 +1,167 @@
+{
+  "version": "32",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Inicio",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-es",
+          "title": "Amazon",
+          "description": "compras"
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-es",
+          "title": "Vivaldi Community",
+          "description": ""
+        },
+        {
+          "name": "wwwhatsnew",
+          "url": "https://vivaldi.com/bk/sd-wwwhatsnew-es",
+          "title": "WWWhat's new",
+          "description": "news"
+        },
+        {
+          "name": "hbo-spain",
+          "url": "https://vivaldi.com/bk/sd-hbo-es",
+          "title": "HBO"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-es",
+          "title": "Booking.com",
+          "description": "viajes"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Compras",
+      "children": [
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-es",
+          "title": "eBay",
+          "description": "compras"
+        },
+        {
+          "name": "eneba-es-es",
+          "url": "https://vivaldi.com/bk/eneba-es-es",
+          "title": "Eneba",
+          "description": "compras"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "compras"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Viajes",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "viajes"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Marcadores",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-es",
+              "title": "Características de Vivaldi",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-es-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-es",
+          "url": "https://vivaldi.com/bk/kayak-es",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-es",
+          "title": "AliExpress"
+        },
+        {
+          "name": "justeat",
+          "url": "https://vivaldi.com/bk/justeat-es",
+          "title": "JustEat"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-es-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "elcorte",
+          "url": "https://vivaldi.com/bk/elcorte-bk",
+          "title": "El Corte Inglés"
+        },
+        {
+          "name": "milanuncios",
+          "url": "https://vivaldi.com/bk/milanuncios-sd-es",
+          "title": "Milanuncios"
+        }
+      ]
+    }
+  ]
+}

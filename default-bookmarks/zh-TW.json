@@ -1,0 +1,157 @@
+{
+  "version": "18",
+  "children": [
+    {
+      "name": "Home",
+      "title": "首頁",
+      "children": [
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "ltn.com.tw",
+          "url": "https://ltn.com.tw",
+          "title": "LTN.com.tw",
+          "description": ""
+        },
+        {
+          "name": "setn.com",
+          "url": "https://setn.com/",
+          "title": "SETN.com",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community",
+          "title": "Vivaldi Community",
+          "description": "technology, social"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-zh-hant",
+          "title": "Booking.com",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "購物",
+      "children": [
+        {
+          "name": "eneba-zh-tw",
+          "url": "https://vivaldi.com/bk/eneba-zh-tw",
+          "title": "Eneba",
+          "description": "購物"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "購物"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "旅遊",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "書籤",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-tw-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-zh-tw",
+          "url": "https://vivaldi.com/bk/kayak-zh-tw",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-tw-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-tw-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-tw-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-tw-bk",
+          "title": "Agoda"
+        }
+      ]
+    }
+  ]
+}

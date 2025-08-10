@@ -1,0 +1,152 @@
+{
+  "version": "21",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Hjem",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community",
+          "title": "Vivaldi Community",
+          "description": "technology, social"
+        },
+        {
+          "name": "bt.dk",
+          "url": "https://bt.dk/",
+          "title": "BT.dk",
+          "description": ""
+        },
+        {
+          "name": "berlingske",
+          "url": "https://berlingske.dk",
+          "title": "Berlingske.dk",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-dk",
+          "title": "Booking.com",
+          "description": "rejser"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Shopping",
+      "children": [
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-dk",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "eneba-dk-dk",
+          "url": "https://vivaldi.com/bk/eneba-dk-dk",
+          "title": "Eneba",
+          "description": "shopping"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "shopping"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Rejser",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "rejser"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "rejser"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Bogmærker",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-dk-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-dk",
+          "url": "https://vivaldi.com/bk/kayak-dk",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-dk-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-dk-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-dk-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": "27",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Home",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-hi",
+          "title": "Amazon",
+          "description": "shopping"
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-en-in",
+          "title": "Vivaldi Community",
+          "description": "vivaldi"
+        },
+        {
+          "name": "indianexpress",
+          "url": "https://indianexpress.com/",
+          "title": "Indian Express",
+          "description": "news"
+        },
+        {
+          "name": "startme-en-in",
+          "url": "https://vivaldi.com/bk/sd-startme-en-in",
+          "title": "Start.me"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-in-bk",
+          "title": "Booking.com"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Shopping",
+      "children": [
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-en-in",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "eneba-en-in",
+          "url": "https://vivaldi.com/bk/eneba-en-in",
+          "title": "Eneba",
+          "description": "shopping"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Travel",
+      "children": [
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-in-sd",
+          "title": "Agoda",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "travel, airfare, hotels"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Bookmarks",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-en-in",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-en-in",
+          "url": "https://vivaldi.com/bk/kayak-en-in",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-in-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-in-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-in-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

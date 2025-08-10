@@ -1,0 +1,160 @@
+{
+  "version": "31",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Общие",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-be",
+          "title": "Супольнасць Vivaldi",
+          "description": "Vivaldi, браузер, портал, сообщество"
+        },
+        {
+          "name": "yandex",
+          "url": "https://vivaldi.com/bk/yandex-by",
+          "title": "Яндекс",
+          "description": "Поиск, новости, пробки, погода, почта"
+        },
+        {
+          "name": "onliner.by",
+          "url": "https://www.onliner.by/",
+          "title": "Onliner.by",
+          "description": "Новости"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "vivaldigame",
+          "url": "https://vivaldi.com/bk/vivaldia-game",
+          "title": "Vivaldia Games"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Покупки",
+      "children": [
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-by",
+          "title": "AliExpress",
+          "description": ""
+        },
+        {
+          "name": "eneba-be-by",
+          "url": "https://vivaldi.com/bk/eneba-be-by",
+          "title": "Eneba",
+          "description": "shopping"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Туризм",
+      "children": [
+        {
+          "name": "ostrovok",
+          "url": "https://vivaldi.com/bk/sd-ostrovok-by",
+          "title": "Ostrovok",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "yandex-travel",
+          "url": "https://vivaldi.com/bk/sd-ya-travel-ru",
+          "title": "Яндекс Путешествия",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Трип",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "путешествия, отели, бронирование"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Закладки",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-be",
+              "title": "Функции Vivaldi",
+              "description": "Vivaldi, браузер"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "ostrovok",
+          "url": "https://vivaldi.com/bk/ostrovok-by-bk",
+          "title": "Ostrovok.ru",
+          "description": "путешествия, отели, букинг"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-ru",
+          "url": "https://vivaldi.com/bk/kayak-ru",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-be-bk",
+          "title": "AliExpress",
+          "description": "алиэкспресс, алиэкспресс, али"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-be-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-be-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "21vek.by",
+          "url": "https://vivaldi.com/bk/21vek-by-bk",
+          "title": "21vek.BY",
+          "description": "21век"
+        }
+      ]
+    }
+  ]
+}

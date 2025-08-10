@@ -1,0 +1,4002 @@
+{
+  "en-GB": {
+    "02544708-2b0e-40a7-bd0d-2bcb02417141": [
+      "http://www.mirror.co.uk/"
+    ],
+    "04a37879-5066-4302-935e-8ac7db4f8316": [
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "070d3fe7-eed6-4767-9a8d-2ab1c88c674f": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "10eaaa4e-41a6-4c27-b88a-1003bf64e7e4": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "16882502-e1d0-4884-86ab-4acfc2f40b72": [
+      "http://www.johnlewis.com/"
+    ],
+    "1aba75d0-a106-419f-986f-496a0b44f978": [
+      "http://www.eurogamer.net/"
+    ],
+    "22edf201-c58d-432e-a725-c641dc3c752d": [
+      "https://vivaldi.com/"
+    ],
+    "258d64ff-879f-40d1-a511-e5651028d0a9": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "297e5ac9-3a10-4b3c-a858-b46051fdd8aa": [
+      "http://www.gamefaqs.com/"
+    ],
+    "2a6bec36-7c82-417e-b761-2b63591e1669": [
+      "http://www.thetrainline.com/"
+    ],
+    "2a908278-0119-4b35-9e47-775981100e60": [
+      "https://vivaldi.com/bk/advancedmp3-en-gb"
+    ],
+    "2ac205bd-efea-4f02-a54b-58fc7db1f3ae": [
+      "http://www.moneysavingexpert.com/"
+    ],
+    "2c8f7c37-8591-4413-86e1-0f64836213a4": [
+      "http://www.tesco.com/"
+    ],
+    "38b3cf60-c6d0-4a8e-9bc7-f88b8c89c7ca": [
+      "https://vivaldi.com/bk/kayak-en-gb"
+    ],
+    "4107e179-55e6-4dfb-9d58-0f38860b168b": [
+      "https://vivaldi.com/bk/aliexpresscom-us"
+    ],
+    "4a6ad9bd-b7d6-419c-9971-c70944e8a3d8": [
+      "https://vivaldi.com/bk/humaxdirect-en-gb"
+    ],
+    "4bfcf697-9355-44eb-b434-b3a7c3bcf11c": [
+      "http://www.ea.com/"
+    ],
+    "4c68ac0d-87af-413f-89e7-108ca77c2cd4": [
+      "https://vivaldi.com/bk/rapidonline-en-gb"
+    ],
+    "4d7b53e5-358c-4ae1-bd4b-e654e809196a": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "5044bc16-3bef-4036-8715-82eeb36b85b2": [
+      "https://www.youtube.com/"
+    ],
+    "50e426c7-6165-4ac6-9332-161ff785b778": [
+      "http://www.bbc.com/"
+    ],
+    "5190d1de-144f-421f-b39c-25f5068fbabb": [
+      "http://www.expedia.co.uk/",
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "57d02383-e7f2-4a99-a116-f1eafd042a39": [
+      "http://www.zoopla.co.uk/"
+    ],
+    "62895ee3-173d-4f6a-8e31-bedea968197c": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "79ec10f2-ddb0-4f52-a06c-9a5ad61878d1": [
+      "http://www.techradar.com/"
+    ],
+    "80e1f67c-1094-4225-84c8-6ef7f830cac0": [
+      "http://www.yell.com/"
+    ],
+    "8919b7e5-0406-4e06-a2a5-9368172e8c83": [
+      "http://www.barclays.co.uk/"
+    ],
+    "8a6e8004-d759-4f74-b108-2a818d8d7cab": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "8b389f6e-39d1-4305-b2cb-95f49969679c": [
+      "http://www.argos.co.uk/"
+    ],
+    "8b6d8ec8-844e-49b9-9937-d50459d42182": [
+      "http://www.theguardian.com/"
+    ],
+    "8c439941-7250-4753-b4fc-9aed774915f9": [
+      "https://vivaldi.net/"
+    ],
+    "95633c81-8149-45a6-9736-124a25dd5371": [
+      "https://vivaldi.com/bk/ebay",
+      "https://vivaldi.com/bk/ebay-en-gb"
+    ],
+    "98a337cc-b5f6-4619-8383-80ecf7f7c5fc": [
+      "http://www.premierleague.com/"
+    ],
+    "a80463e0-10d1-4088-a822-2318ae762163": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "a92af47d-906a-4461-9203-a5f538a57646": [
+      "http://www.hsbc.co.uk/"
+    ],
+    "b7d312bc-43ba-4892-a7dd-69a371fa5a32": [
+      "http://www.telegraph.co.uk/"
+    ],
+    "bb258a94-241b-45ba-bc91-a7135765c881": [
+      "http://www.hotukdeals.com/"
+    ],
+    "bde0e13c-1ae5-4f2e-9e4a-995727c342e1": [
+      "http://www.boomerangrentals.co.uk/"
+    ],
+    "bea5e6e7-22d4-4550-a892-f88a7a721f18": [
+      "https://vivaldi.com/bk/oregonscientific-en-gb"
+    ],
+    "c46ed40b-bf29-444a-ae75-84abce5a749a": [
+      "http://www.independent.co.uk/"
+    ],
+    "c63761fc-c800-46bb-8d69-fe566f37c216": [
+      "http://www.givemesport.com/"
+    ],
+    "c8f2cdf4-c7a5-45cc-b4e6-7f757f7c94ff": [
+      "http://www.gumtree.com/"
+    ],
+    "c92e5435-7e52-4b78-9f7f-4f904520c2bf": [
+      "http://www.skysports.com/"
+    ],
+    "d347a5da-63f5-4ec9-8a57-4ff838a976c8": [
+      "http://www.overclockers.co.uk/"
+    ],
+    "d40a4b82-3100-42bf-8bab-7c8100d18662": [
+      "https://vivaldi.com/bk/simplyhike-en-gb"
+    ],
+    "d52a0d50-93e9-4091-a2c6-b2f99122018d": [
+      "https://vivaldi.com/bk/geniegadget-en-gb"
+    ],
+    "de226336-66f9-4cdd-b4c9-d0dc348a5b61": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "dfacdffc-82d1-4af1-9b38-ef28b3cfe5be": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "e0396dc4-5815-48cf-b5e3-d21b874df731": [
+      "http://www.easyjet.com/"
+    ],
+    "e1365443-3a53-41f5-b99b-2bc734d8c751": [
+      "https://vivaldi.com/bk/365games-en-gb"
+    ],
+    "e4e3fe57-b3d4-450e-8d8e-d106f46cd77a": [
+      "https://www.gov.uk/"
+    ],
+    "e805f669-dd0d-45de-a29a-0870402e1ad0": [
+      "http://home.bt.com/"
+    ],
+    "ee385d85-561e-451d-9eae-45a3164336a7": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "eea12ae4-e82b-4993-a0f7-2b74b380afeb": [
+      "http://www.booking.com/country/us.en-gb.html?aid=807124",
+      "https://vivaldi.com/bk/bookingcom-en-gb"
+    ],
+    "eef2b279-961a-4bcc-8d1f-27a305c93a6c": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "f11366eb-c856-4b06-9f95-61b4f2f772d2": [
+      "https://ww2.thomascook.com/"
+    ],
+    "f19c775b-b7e7-45ee-a18a-02da220f35dc": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "f89a1e66-01f7-44b1-b0e9-456d5a6b73e4": [
+      "https://vivaldi.com/bk/help-en-us"
+    ],
+    "fc20fe74-2f30-49c3-bff8-35aa95a7d988": [
+      "http://www.espncricinfo.com/"
+    ]
+  },
+  "en-US": {
+    "005e5d78-cb83-43da-8ffc-8902b8379a08": [
+      "https://vivaldi.com/bk/lego-en-us"
+    ],
+    "008dd26a-356f-440a-8060-e9cb38fa71cc": [
+      "https://vivaldi.com/bk/primesport-us"
+    ],
+    "00ea5410-b82e-4497-a527-02c05044905f": [
+      "http://www.nytimes.com/"
+    ],
+    "0696f114-66bf-44ce-abae-480e20b0913f": [
+      "https://vivaldi.com/bk/kobo-en-us"
+    ],
+    "1224f2ff-dbe3-4690-ac39-bea09ce54761": [
+      "https://vivaldi.com/bk/adorama-us"
+    ],
+    "13737ec0-8be5-4d51-ad70-da45dd22fda2": [
+      "https://vivaldi.com/bk/bitdefender-us"
+    ],
+    "181671de-a3ea-47df-b851-a0e4fc984122": [
+      "https://vivaldi.com/"
+    ],
+    "1d153ae4-35e6-4dd3-981d-4fa24fe29736": [
+      "http://gizmodo.com/"
+    ],
+    "1eda499b-f751-48dd-934b-ff40348180d5": [
+      "https://vivaldi.com/bk/forever21-us"
+    ],
+    "25a1691d-9ede-4753-a2fe-d68403855be4": [
+      "http://www.craigslist.org/"
+    ],
+    "2ab4451a-6877-4186-bdff-d90f972cb0d5": [
+      "https://vivaldi.com/bk/kayak-en-us"
+    ],
+    "2ce575db-27d7-4666-bea5-8b6edc1e40ab": [
+      "http://www.mlb.com/"
+    ],
+    "2e20cf7e-9120-4ae5-92a2-8d0301df2b36": [
+      "https://vivaldi.com/bk/domaincom-en-us"
+    ],
+    "3064ffd5-658e-4417-9010-ccbef378b81e": [
+      "https://vivaldi.com/bk/aliexpresscom-us"
+    ],
+    "30ae008d-626a-4c86-8071-46417f3dc426": [
+      "https://vivaldi.com/bk/vistaprint-us"
+    ],
+    "32ebf7cd-a55e-4206-913d-d9033fa7f195": [
+      "http://www.minecraftforum.net/"
+    ],
+    "35233b74-2c12-4e19-8498-eb435439bd34": [
+      "https://vivaldi.com/bk/hotelwiz-en-us"
+    ],
+    "3567abd6-ca22-4787-b161-07e753484300": [
+      "https://vivaldi.com/bk/missguided-us"
+    ],
+    "36842f97-6eac-4fcd-9c32-9003699394d7": [
+      "https://vivaldi.com/bk/11internet-en-us"
+    ],
+    "38ff9501-263e-4ba8-abbe-3d3479dc6d49": [
+      "https://vivaldi.com/bk/kinguin-us"
+    ],
+    "39fd528f-1ad6-48d6-8a2b-049b44b3532f": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "3a387849-5995-48ff-a2fd-716312f51ee5": [
+      "https://vivaldi.com/bk/verizon-us"
+    ],
+    "3ccf28d4-e849-4cfc-b336-dcd839cc8a0e": [
+      "https://vivaldi.com/bk/malaysiaairlines-us"
+    ],
+    "3e933a44-c155-4171-8254-c603210d6cc9": [
+      "https://vivaldi.com/bk/hostelworld-us"
+    ],
+    "3ed2b980-83fd-4b07-a6da-7722c16ec601": [
+      "https://vivaldi.com/bk/help-en-us"
+    ],
+    "40acce64-7394-413d-b1a1-9c96bf0ade5e": [
+      "http://www.economist.com/"
+    ],
+    "42c55163-1b3a-4280-93e3-03713d3b6e0f": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "43f78757-cad5-479c-b553-3a9cc07b04df": [
+      "http://www.hulu.com/"
+    ],
+    "45901558-b31d-4dbf-94ed-1b2266077843": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "45f82061-f39b-4844-9231-d1802779a13a": [
+      "https://vivaldi.com/bk/koreanair-us"
+    ],
+    "48af625d-63b7-417c-a878-6c2ab08e6b8b": [
+      "http://www.bloomberg.com/"
+    ],
+    "4a859b81-0498-4d20-b938-b171875b2d8e": [
+      "https://vivaldi.com/bk/garmin-en-us"
+    ],
+    "4c18f174-a937-42c5-b56a-50b70446b654": [
+      "http://www.goal.com/"
+    ],
+    "4f0f20c0-c008-4ab8-888a-99ae9a90c8ac": [
+      "https://vivaldi.com/bk/etoro-us"
+    ],
+    "51d8eb14-7c06-40b6-825d-d731e87acdf9": [
+      "https://vivaldi.com/bk/monsterproducts-en-us"
+    ],
+    "524bd6b3-653a-43ac-af65-f4818152d933": [
+      "https://vivaldi.com/bk/shein-us"
+    ],
+    "5796fab7-7c1c-43aa-8691-399c4f9542ab": [
+      "http://www.washingtonpost.com/"
+    ],
+    "57a425b5-a2ce-47cf-82cf-a654cf49f0b9": [
+      "https://vivaldi.com/bk/belkin-en-us"
+    ],
+    "5a366a6e-1355-4e45-b395-26ebecbde08c": [
+      "https://vivaldi.com/bk/hrblock-us"
+    ],
+    "603018c3-d3a4-46b8-9117-d3c56b004800": [
+      "http://www.ft.com/"
+    ],
+    "62dd5b18-538e-499b-a4f2-262f53b253bb": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "63dc5405-f53a-42d1-ba30-52c6b7cbc5f9": [
+      "https://vivaldi.com/bk/quickbooks-us"
+    ],
+    "65fde285-7f3d-43fd-9b95-7fbd31f9e4ae": [
+      "https://vivaldi.com/bk/ceoworldmagazine-en-us"
+    ],
+    "663d8ddb-21a1-4b44-b271-20b52fc15ad6": [
+      "http://www.imdb.com/"
+    ],
+    "66a4d9b3-e6d5-4f78-8c56-74570478a3fa": [
+      "http://www.nba.com/"
+    ],
+    "68170b78-43cc-43b6-a29e-970911783044": [
+      "http://www.cbssports.com/"
+    ],
+    "690ecf81-f1cd-4404-ad45-0c9c5d6e3f03": [
+      "https://vivaldi.com/bk/comixology-us"
+    ],
+    "699cf5b9-d6b2-4802-ba57-ad2f0723f9ac": [
+      "https://vivaldi.com/bk/gymboree-us"
+    ],
+    "6a704df7-75de-493e-9381-ab9476d9531f": [
+      "https://vivaldi.com/bk/microsoft-us"
+    ],
+    "6af6c3a6-a605-4bcb-a6d7-7e47ad3b5e4b": [
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "6cbd4e46-d461-48cc-b053-e2601cd0019a": [
+      "https://vivaldi.com/bk/homeaway-us"
+    ],
+    "6d27e37e-988e-43df-a108-049716a39cb3": [
+      "https://vivaldi.com/bk/hawaiianairlines-us"
+    ],
+    "6dc17eef-1f80-43e7-98c2-5915c32351e2": [
+      "http://arstechnica.com/"
+    ],
+    "7168d721-b8da-4d3d-b300-e1ecaafe5e59": [
+      "https://vivaldi.com/bk/clarks-us"
+    ],
+    "7185627f-7d49-45f6-8869-7e58016e794e": [
+      "https://vivaldi.com/bk/coffeeorg-en-us"
+    ],
+    "75574f69-4f8c-4c3a-8cf3-5ea1bae34e2e": [
+      "https://vivaldi.com/bk/nordvpn-us"
+    ],
+    "765bae51-7a4c-4fc3-9f1a-c443b492401b": [
+      "https://vivaldi.com/bk/livingsocial-en-us"
+    ],
+    "791b72ce-b379-4ec5-86f5-c91de05dfd8e": [
+      "https://vivaldi.com/bk/fandango-us"
+    ],
+    "79c0969d-9a01-4288-9e2f-42e2da9056c8": [
+      "http://www.gamefaqs.com/"
+    ],
+    "7b8c6081-f9a4-42e1-a347-7aa3ed9c5eba": [
+      "https://vivaldi.com/bk/groupon",
+      "https://vivaldi.com/bk/groupon-en-us"
+    ],
+    "7c006c7e-fe1c-4120-a7e5-fbbf9358a403": [
+      "https://vivaldi.com/bk/justfly-us"
+    ],
+    "7e9b4d6a-6f34-4b33-bdd7-7284d704af11": [
+      "https://vivaldi.net/en-US/"
+    ],
+    "7f6ca48b-ad29-412f-90ff-4a203a3d21dc": [
+      "https://vivaldi.com/bk/emirates-us"
+    ],
+    "80a4d660-bf67-4f56-98cb-3a6cef12d569": [
+      "https://vivaldi.com/bk/cyberlinksoftware-en-us"
+    ],
+    "80c5a6b3-92a3-4d7d-8d18-835fa27cc3dc": [
+      "http://www.bleacherreport.com/"
+    ],
+    "82d5ab2a-384b-4957-94ff-a3ca98bec8f4": [
+      "http://www.theverge.com/"
+    ],
+    "84922d3c-0f02-4fd1-acb2-8fc7b6da1ad3": [
+      "http://www.huffingtonpost.com/"
+    ],
+    "86aeeb61-c198-4cc7-ae1d-bf4fc37a2209": [
+      "https://vivaldi.com/bk/brookstonecom-en-us"
+    ],
+    "880cf57e-d9fb-48ba-9d5e-d270e3ccd89a": [
+      "https://vivaldi.com/bk/gearbest-en-us"
+    ],
+    "89d44184-d23c-4d04-a1d9-a8ed0ef6a4f2": [
+      "http://www.youtube.com/"
+    ],
+    "8ae3b002-1af5-4570-934a-2c3a01e7cad0": [
+      "https://vivaldi.com/bk/mypillow-us"
+    ],
+    "8b81d975-aa26-41b5-aafe-afc1f7616bea": [
+      "http://www.yelp.com/",
+      "https://vivaldi.com/bk/yelp-en-us"
+    ],
+    "8c712281-d4fa-4acb-88ed-91f9674feeed": [
+      "https://vivaldi.com/bk/orbitz-us"
+    ],
+    "92e53da8-d8ff-4608-b45d-6be289448398": [
+      "https://play.spotify.com/"
+    ],
+    "96516265-8439-48cc-836b-d54ee1204d64": [
+      "http://time.com/"
+    ],
+    "9772f3f2-47ed-4ebe-8995-3d5c58241fdc": [
+      "https://vivaldi.com/bk/newspapers-us"
+    ],
+    "9b41aa11-2049-4e07-bea3-21735ac11cbf": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "9dd8a9e4-42b2-464e-b37a-50ad066ca360": [
+      "https://vivaldi.com/bk/godaddy-us"
+    ],
+    "9f5065fb-c6e4-4bfe-89ca-f2dd64060b76": [
+      "https://vivaldi.com/bk/namecheap-en-us"
+    ],
+    "9fd03fcc-d06c-4f10-9485-b3389e92abd3": [
+      "https://vivaldi.com/bk/kiwi-us"
+    ],
+    "a0a37721-cb30-466a-92d4-b1a2031fbb2c": [
+      "http://www.rottentomatoes.com/"
+    ],
+    "a2e558ea-51b1-4434-b61b-99bceacc01b4": [
+      "http://www.wsj.com/"
+    ],
+    "a40607ef-7783-4644-b7c9-9214a4c67507": [
+      "http://www.dailymotion.com/"
+    ],
+    "a6a720ce-6fba-4573-b320-0ab8cbc4b1f1": [
+      "https://vivaldi.com/bk/cheapoair-en-us"
+    ],
+    "a72bf2b4-6d57-4342-9fff-4914acbb2b4a": [
+      "https://vivaldi.com/bk/timex-en-us"
+    ],
+    "a7e46433-c2d7-43ec-b64d-45e1b198e740": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "a80c4f7f-1334-48ae-8a45-fb331e74a3ca": [
+      "https://vivaldi.com/bk/thinkgeek-en-us"
+    ],
+    "ad15a026-26fa-455c-b5eb-def54abd3da9": [
+      "https://vivaldi.com/bk/greenmangaming-en-us"
+    ],
+    "ae5b6725-9d6a-4b0c-8b47-c2d079603c0b": [
+      "https://vivaldi.com/bk/yoins-us"
+    ],
+    "af0e6e7b-5c10-454c-a8f0-55a7707bfbaf": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "b353b429-599d-4561-8489-1ddfdee1124a": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "b38ea7c4-59cc-4598-9fd5-e623aa2a01ec": [
+      "https://vivaldi.com/bk/urbanoutfitters-en-us"
+    ],
+    "b5f85650-5f9e-460c-8f2f-5a7d76d1dead": [
+      "https://vivaldi.com/bk/fiverr-us"
+    ],
+    "b63e8c61-ada6-4211-8370-df06125d410e": [
+      "https://vivaldi.com/bk/bookingcom-en-us",
+      "https://www.booking.com/country/us.en-us.html?aid=807124"
+    ],
+    "b8a59f0f-45e0-4831-ba84-b7150ce76357": [
+      "https://vivaldi.com/bk/walgreens-us"
+    ],
+    "b90514d6-1301-4ea7-ae18-96b65af7983b": [
+      "https://vivaldi.com/bk/zazzle-us"
+    ],
+    "baafe844-ed32-419b-8cf5-bf9c33386d2c": [
+      "https://vivaldi.com/bk/marriott-us"
+    ],
+    "bbf542ff-b0b2-4c93-89e5-86b157a15a62": [
+      "https://vivaldi.com/bk/neweggcanada-en-us"
+    ],
+    "beed060e-3c71-47e9-8a1e-c05f8a0f3d91": [
+      "https://vivaldi.com/bk/vrbo-us"
+    ],
+    "bf553ffc-16a9-4b08-a792-70cbf059903e": [
+      "http://www.nfl.com/"
+    ],
+    "c0328de3-b1d2-4ef3-b0c7-fab2943b9ab8": [
+      "http://www.opentable.com/"
+    ],
+    "c072bdbf-4750-4b02-a284-534bbf8b523f": [
+      "http://www.wired.com/"
+    ],
+    "c17731c5-2bec-4ab2-b0fa-3ffd93f6ea2c": [
+      "http://www.cnbc.com/"
+    ],
+    "c1ccbbae-61bf-47c2-84e0-2156a462fed7": [
+      "https://vivaldi.com/bk/samsung-us"
+    ],
+    "c4b9d688-f889-45c5-9ad9-69451eded737": [
+      "http://www.forbes.com/"
+    ],
+    "c510f31c-512b-446c-a8c1-7a5920d46645": [
+      "https://vivaldi.com/bk/shutterstock-us"
+    ],
+    "c6386d6e-0205-4ee1-8839-cdb571213c61": [
+      "http://www.engadget.com/"
+    ],
+    "c6446fa8-658d-4976-9a6a-48105a48b3d8": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "c67e4e79-f967-4cfb-9e2f-8049bce17259": [
+      "http://www.examiner.com/"
+    ],
+    "cea74e11-2654-420a-aebd-e04829134bae": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "cf418989-f3e3-4aed-879f-b680984783be": [
+      "https://vivaldi.com/bk/speck-en-us"
+    ],
+    "d322ad07-c852-4553-a63e-f6950b22ada8": [
+      "https://vivaldi.com/bk/tripadvisor-en-us",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "d4ac963b-58be-4a0d-bd20-de3cd63ca46b": [
+      "http://slashdot.org/"
+    ],
+    "d71ba3fc-ae2f-4db0-ae21-69d382b14fa0": [
+      "http://www.reuters.com/"
+    ],
+    "d7eb75aa-c0d7-460a-b0df-ebba4e9bc65f": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "d870b737-2787-4f6d-8806-925a4de3489e": [
+      "http://techcrunch.com/"
+    ],
+    "dcdf27fa-cf03-478f-97d0-29606a6c456d": [
+      "https://vivaldi.com/bk/oakley-us"
+    ],
+    "dd3c5aa3-5695-4a3d-ae92-1a054254e9af": [
+      "http://www.theguardian.com/"
+    ],
+    "e1278ba8-c082-4b9d-948c-6c2b8eaa7664": [
+      "https://vivaldi.com/bk/fabric-us"
+    ],
+    "ea5bdcf9-669e-4941-87da-178672769dfb": [
+      "https://www.livingsocial.com/"
+    ],
+    "eb79febe-d714-4799-af2d-1c2d026ed7af": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "ebe7d59f-e8fa-4185-be3b-ce1c8f93fd6d": [
+      "https://vivaldi.com/bk/bose-en-us"
+    ],
+    "ee4ffa5c-650d-4c75-940d-39483e976b71": [
+      "https://github.com/"
+    ],
+    "efe63abc-de55-4b9a-af78-52f5978a850d": [
+      "https://vivaldi.com/bk/jabra-en-us"
+    ],
+    "f00f41b4-4026-4a3d-b075-33853ae05fa4": [
+      "https://vivaldi.com/bk/ihg-us"
+    ],
+    "f22660de-45f7-4dbb-9471-85c82df986f4": [
+      "https://vivaldi.com/bk/target-us"
+    ],
+    "f3f86398-1c0e-46a9-b8d3-693b75d9bbca": [
+      "https://vivaldi.com/bk/kohls-us"
+    ],
+    "f5adc918-fc04-4eb3-968c-81d29f187cb6": [
+      "https://vivaldi.com/bk/flipkey-en-us"
+    ],
+    "f80dcd07-5a07-48a9-b6d3-1f4ed3a9e80c": [
+      "https://vivaldi.com/bk/halfcom-en-us"
+    ],
+    "f922d02e-81f3-402e-8902-1d5885659613": [
+      "https://vivaldi.com/bk/stubhub-us"
+    ],
+    "fae837aa-75eb-423e-80eb-bab79ecf3aba": [
+      "https://vivaldi.com/bk/zappos-en-us"
+    ],
+    "fcbfe517-a2a6-450a-9cb6-acd6a3039049": [
+      "https://vivaldi.com/bk/ihome-en-us"
+    ],
+    "fcfb8892-ea5c-4e69-94b8-805db903611a": [
+      "http://www.cnn.com/"
+    ],
+    "fe6a0340-6ec5-4087-ae33-0b48f2ee05c8": [
+      "http://www.ign.com/"
+    ],
+    "fed40b61-a431-496d-868b-9c2a107fbe4f": [
+      "http://www.reddit.com/"
+    ]
+  },
+  "ru": {
+    "03e7d0ad-c907-4881-baa3-776faa7793c9": [
+      "http://www.sport-express.ru/"
+    ],
+    "05b54e01-1fb3-493a-a906-93a8273d9097": [
+      "http://www.ag.ru/"
+    ],
+    "05f7f6bb-befc-45f4-95cb-8bf645a0b116": [
+      "http://www.ivi.ru/"
+    ],
+    "06451335-c4b6-4ee1-9a03-b5dc6a2e8fe7": [
+      "http://itar-tass.com/"
+    ],
+    "06bb474d-bcff-43c0-b920-31d0d94a4b02": [
+      "http://www.bankgorodov.ru/"
+    ],
+    "094d9f7b-2b1c-4488-a6ee-d11d9a11403a": [
+      "http://soccer.ru/"
+    ],
+    "09fe3fcb-175a-4ff0-a8d0-f966dde49208": [
+      "http://rugion.ru/"
+    ],
+    "0c748dcc-771b-4c68-bca9-3e78374c5851": [
+      "http://www.buhonline.ru/"
+    ],
+    "0eee3834-8d6d-456d-86b8-cac1ef27f4c4": [
+      "http://www.finam.ru/"
+    ],
+    "10ac2382-f203-4f9a-95cf-6a8e1e1de9bc": [
+      "http://www.bfm.ru/"
+    ],
+    "11601c8a-26dc-4d78-a0a0-a8537c95ea52": [
+      "http://www.eurosport.ru/"
+    ],
+    "18b307eb-e0ad-4c9d-9968-dabb10933c4b": [
+      "http://www.sibnet.ru/"
+    ],
+    "1b5e4e82-d6b8-4101-8226-bfe7ebe970ff": [
+      "http://www.3dnews.ru/"
+    ],
+    "1ed557b0-661b-432c-8981-c1614a8117e3": [
+      "http://www.sports.ru/"
+    ],
+    "1f97f0d5-e136-4375-b24e-5fdccb1bc920": [
+      "http://www.proza.ru/"
+    ],
+    "1fe013aa-ccd0-4621-a4a1-9213db93b275": [
+      "http://www.game01.ru/"
+    ],
+    "2242cfe5-be94-4631-bd2c-191eef12ec90": [
+      "http://www.blizko.ru/"
+    ],
+    "23a2af88-1933-4afd-b861-7c62bf091ee6": [
+      "http://lib.ru/"
+    ],
+    "2413e974-076b-423b-9b41-f480185e36cf": [
+      "http://www.rambler.ru/"
+    ],
+    "249b6fc5-0955-4614-8fcf-1d71d0cb770d": [
+      "https://vivaldi.com/bk/kayak-ru"
+    ],
+    "27160a2b-4620-4e38-ba23-22d958f6d1a0": [
+      "http://www.turizm.ru/"
+    ],
+    "2bbac24b-a4eb-4ffe-83ab-e162f6e3a955": [
+      "http://www.1prime.ru/"
+    ],
+    "31012b9e-70a5-4cb4-9c7f-37cf117168ca": [
+      "http://www.klerk.ru/"
+    ],
+    "316c36aa-e902-444f-8a73-77dd8c27a113": [
+      "http://www.igromania.ru/"
+    ],
+    "31e7dff9-556b-4f9c-a2b2-9901e9f62145": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "327caaf4-6707-4764-bb4d-bd055012f6d2": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "3a636ce7-f1b1-4278-b6b6-e37d25e6679b": [
+      "http://stopgame.ru/"
+    ],
+    "3acea1dc-824f-4ead-8d02-dfcc8450898f": [
+      "http://2gis.ru/spb/"
+    ],
+    "3b64c8b0-4dea-4c17-b27b-28e1a361ffb2": [
+      "http://www.220-volt.ru/"
+    ],
+    "3b93b437-5776-45d6-aeea-1bdf31b8b7d8": [
+      "http://www.goha.ru/"
+    ],
+    "4890bd84-e041-4cd4-8805-4014fa5bdf7c": [
+      "http://www.stihi.ru/"
+    ],
+    "4933a734-c992-4951-9514-cf0ebff37b16": [
+      "http://www.kino-teatr.ru/"
+    ],
+    "49d5b7f7-393d-4374-a784-32c67d51b65e": [
+      "http://www.gismeteo.ru/"
+    ],
+    "4f673e65-7d5c-43c7-ae81-dd76ee624905": [
+      "https://vivaldi.com/bk/ozonru-ru"
+    ],
+    "5394c4d5-0b40-4d9b-81ce-0b785a3c0747": [
+      "http://www.lastfm.ru/"
+    ],
+    "53e531e9-6654-4762-b4ed-76dcb9bb6047": [
+      "http://www.kinomania.ru/"
+    ],
+    "54a63bab-d60a-4343-9520-d515a9f2896f": [
+      "https://ru.wikipedia.org/"
+    ],
+    "54c85449-0a6b-4ea4-b2b6-3dc1daa1a65b": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "564712f7-8919-48bc-a31d-3d495a5e8d31": [
+      "http://ria.ru/"
+    ],
+    "59b86336-f1a4-460c-8d02-1b3ac521dd0e": [
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "59d30094-d60b-4570-9161-c252485d6147": [
+      "https://instagram.com/"
+    ],
+    "5a5b36e5-3590-4358-b073-aa4698155798": [
+      "http://kartagrada.ru/"
+    ],
+    "6011faf2-0024-4393-bfd8-63f9b4bbfafa": [
+      "http://www.ixbt.com/"
+    ],
+    "6334861d-df26-42ac-8673-06905e1011c4": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "64fd896e-8e37-4bc4-bfd4-db31bb6b5876": [
+      "http://www.kinopoisk.ru/"
+    ],
+    "667f6882-5be2-4bdc-90b3-abd4c49e0323": [
+      "http://www.youtube.com/"
+    ],
+    "66bd78c9-d6ec-418f-8549-99ef7b3c12c3": [
+      "http://irr.ru/"
+    ],
+    "680c6fe0-469d-4fc2-9d86-95b05fe607a2": [
+      "http://www.rbc.ru/"
+    ],
+    "6e3cf647-760f-43fb-bf01-5e612de19d50": [
+      "https://www.avito.ru/"
+    ],
+    "6ff8af6d-06a3-4bcc-9ef0-cf9d8bffb348": [
+      "http://pcmag.ru/"
+    ],
+    "72617094-0993-4f10-942d-9889e542ed7a": [
+      "http://www.vokrugsveta.ru/"
+    ],
+    "7267f3bc-b1b9-4381-bca7-cf74fd0c9df2": [
+      "http://mfd.ru/"
+    ],
+    "734e25e5-a167-4b4f-8465-1942e3dae2c1": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "73eb568e-6852-4c16-9465-abfca5379169": [
+      "https://vivaldi.com/bk/alawar-ru"
+    ],
+    "778be278-e223-41f4-8249-d42a91e642bb": [
+      "http://www.sportmaster.ru/"
+    ],
+    "786d68d4-87e5-4fc3-9c38-97762454dda4": [
+      "https://vivaldi.com/bk/it-ru"
+    ],
+    "7a5dec64-cff0-4247-b404-da32fc336271": [
+      "http://www.vedomosti.ru/"
+    ],
+    "8229cf89-efc4-4765-a941-016a9bad49da": [
+      "http://www.vseinstrumenti.ru/"
+    ],
+    "832ab6fa-b2a3-4650-81a6-d3bb6a353e14": [
+      "http://www.forbes.ru/"
+    ],
+    "850c2e38-4ec0-4967-82e3-f5b78f338ccc": [
+      "http://www.otzyv.ru/"
+    ],
+    "86000e80-4dba-42d9-b75b-00ac4dce2d92": [
+      "http://www.championat.com/"
+    ],
+    "8c87a128-fa10-4303-a0ec-05de057a5999": [
+      "http://www.banki.ru/"
+    ],
+    "8dd321db-ab9f-4cab-99bb-f421d145c470": [
+      "http://lenta.ru/"
+    ],
+    "8f135468-09a1-4c81-8823-8e1b27072d9a": [
+      "http://www.rg.ru/"
+    ],
+    "90e0b30f-0cbd-421c-b74c-2fcb36389210": [
+      "http://nat-geo.ru/"
+    ],
+    "9962cd02-2346-451e-9138-e788ecdaaccd": [
+      "http://gamebomb.ru/"
+    ],
+    "9b8613d2-f700-496e-9384-c66045ea8994": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "9c73ba38-7800-4402-912c-8ad273bb8ba0": [
+      "https://vivaldi.com/bk/yandex-ru"
+    ],
+    "9e73858e-17e8-4a73-b120-cc304858c05e": [
+      "http://www.tutu.ru/"
+    ],
+    "9f9eecec-d780-46f7-adc8-3f30f3b75644": [
+      "http://gooool.org/"
+    ],
+    "a1213913-ac45-457d-890e-856074b50c85": [
+      "http://caniplay.ru/"
+    ],
+    "a19f252d-7f78-4b8e-9f34-6c809e957902": [
+      "http://www.tripadvisor.ru/",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "a1d697a8-5622-4dc2-81de-dda226a6d1af": [
+      "http://www.gamer.ru/"
+    ],
+    "a441784e-10c9-4cc9-b014-a8bdfd06029b": [
+      "http://www.aif.ru/"
+    ],
+    "a6016191-3f4c-4c04-b68f-76f8a843b22e": [
+      "http://www.ebay.com/",
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "a6252f53-9ab5-4ab3-87ad-ff7e22af5c31": [
+      "http://www.kp.ru/"
+    ],
+    "a6b96644-fae5-4bea-a8da-7103d17ca3be": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "a7faba27-4364-47bf-857f-f8a921292323": [
+      "http://www.sovsport.ru/"
+    ],
+    "aab9259c-07ff-4db6-9a26-12f92f6b8517": [
+      "http://www.khl.ru/"
+    ],
+    "b005bc3f-748a-4f03-a9db-2cc37389dfe8": [
+      "https://vivaldi.com/bk/rbkgames-ru"
+    ],
+    "b61d26a3-910b-4184-9082-783150bfe7ef": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "b99c2cff-8d2c-413f-85bf-3cecfa2f6812": [
+      "http://www.oszone.net/"
+    ],
+    "b9a9d02b-5efe-4744-ae86-9deeed8d80c5": [
+      "http://www.f1news.ru/"
+    ],
+    "be51a5ff-1f9f-41cb-80d3-07904aba682d": [
+      "http://tophotels.ru/"
+    ],
+    "c2a676e4-427f-48df-b204-8b0a800b4bb4": [
+      "http://www.vesti.ru/"
+    ],
+    "c480f483-464c-44b5-875e-cb1ac85e93c7": [
+      "http://www.aviasales.ru/"
+    ],
+    "c55f3fd3-74ca-4b1e-9002-74adce7fd4e0": [
+      "http://www.interfax.ru/"
+    ],
+    "c8207e0b-b402-4646-8249-5e81e90a609f": [
+      "https://vivaldi.com/bk/aliexpresscom"
+    ],
+    "c9fae4f6-194c-48de-82ba-9afefcbc6add": [
+      "https://www.kassir.ru/"
+    ],
+    "d523e337-28b3-4839-985a-f5949d45d3d2": [
+      "http://kommersant.ru/"
+    ],
+    "d556d5a4-80b7-449d-90c7-da9fb3c04964": [
+      "http://www.opennet.ru/"
+    ],
+    "d91e4b92-999e-4bff-8042-e832201f8d9e": [
+      "https://vivaldi.com/bk/bookingcom-ru"
+    ],
+    "dababace-6a7d-4dff-852a-134896fbefa6": [
+      "http://onlineguru.ru/"
+    ],
+    "dd8a960c-e63c-42a0-b35a-f119fcd4a250": [
+      "http://www.ferra.ru/"
+    ],
+    "de207637-7756-4362-b620-514efa827e4b": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "e39c642a-f525-4754-943f-074a7df605d7": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "e3c5bdb1-c41c-4ce5-b74a-e59e354e87e8": [
+      "http://news.sportbox.ru/"
+    ],
+    "e53aa9ad-44a9-47ff-b9d3-94a586bc4e22": [
+      "http://www.gazeta.ru/"
+    ],
+    "e6c67b6c-3e8d-49a9-8ecb-5e15c24353df": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "e8ff1681-317c-4b5a-b5b2-bf7b04ed0e4f": [
+      "http://www.mk.ru/"
+    ],
+    "f0198355-8522-47df-bac9-6d0b36b5507e": [
+      "http://habrahabr.ru/"
+    ],
+    "f037a273-9784-4c6f-ae99-9dffa87aaaf9": [
+      "http://4pda.ru/"
+    ],
+    "f0c6b028-e6e6-4d36-8f6d-dbb72769385e": [
+      "https://vivaldi.com/"
+    ],
+    "fb20336c-40df-412f-9224-937351d436d0": [
+      "https://vivaldi.net/ru/"
+    ],
+    "fc39c8cc-7b97-46a3-b02b-b651065298d5": [
+      "https://vk.com/"
+    ]
+  },
+  "be": {
+    "03e7d0ad-c907-4881-baa3-776faa7793c9": [
+      "http://www.sport-express.ru/"
+    ],
+    "05b54e01-1fb3-493a-a906-93a8273d9097": [
+      "http://www.ag.ru/"
+    ],
+    "05f7f6bb-befc-45f4-95cb-8bf645a0b116": [
+      "http://www.ivi.ru/"
+    ],
+    "06451335-c4b6-4ee1-9a03-b5dc6a2e8fe7": [
+      "http://itar-tass.com/"
+    ],
+    "06bb474d-bcff-43c0-b920-31d0d94a4b02": [
+      "http://www.bankgorodov.ru/"
+    ],
+    "094d9f7b-2b1c-4488-a6ee-d11d9a11403a": [
+      "http://soccer.ru/"
+    ],
+    "09fe3fcb-175a-4ff0-a8d0-f966dde49208": [
+      "http://rugion.ru/"
+    ],
+    "0c748dcc-771b-4c68-bca9-3e78374c5851": [
+      "http://www.buhonline.ru/"
+    ],
+    "0eee3834-8d6d-456d-86b8-cac1ef27f4c4": [
+      "http://www.finam.ru/"
+    ],
+    "10ac2382-f203-4f9a-95cf-6a8e1e1de9bc": [
+      "http://www.bfm.ru/"
+    ],
+    "11601c8a-26dc-4d78-a0a0-a8537c95ea52": [
+      "http://www.eurosport.ru/"
+    ],
+    "18b307eb-e0ad-4c9d-9968-dabb10933c4b": [
+      "http://www.sibnet.ru/"
+    ],
+    "1b5e4e82-d6b8-4101-8226-bfe7ebe970ff": [
+      "http://www.3dnews.ru/"
+    ],
+    "1ed557b0-661b-432c-8981-c1614a8117e3": [
+      "http://www.sports.ru/"
+    ],
+    "1f97f0d5-e136-4375-b24e-5fdccb1bc920": [
+      "http://www.proza.ru/"
+    ],
+    "1fe013aa-ccd0-4621-a4a1-9213db93b275": [
+      "http://www.game01.ru/"
+    ],
+    "2242cfe5-be94-4631-bd2c-191eef12ec90": [
+      "http://www.blizko.ru/"
+    ],
+    "23a2af88-1933-4afd-b861-7c62bf091ee6": [
+      "http://lib.ru/"
+    ],
+    "2413e974-076b-423b-9b41-f480185e36cf": [
+      "http://www.rambler.ru/"
+    ],
+    "249b6fc5-0955-4614-8fcf-1d71d0cb770d": [
+      "https://vivaldi.com/bk/kayak-ru"
+    ],
+    "27160a2b-4620-4e38-ba23-22d958f6d1a0": [
+      "http://www.turizm.ru/"
+    ],
+    "2bbac24b-a4eb-4ffe-83ab-e162f6e3a955": [
+      "http://www.1prime.ru/"
+    ],
+    "31012b9e-70a5-4cb4-9c7f-37cf117168ca": [
+      "http://www.klerk.ru/"
+    ],
+    "316c36aa-e902-444f-8a73-77dd8c27a113": [
+      "http://www.igromania.ru/"
+    ],
+    "31e7dff9-556b-4f9c-a2b2-9901e9f62145": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "327caaf4-6707-4764-bb4d-bd055012f6d2": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "3a636ce7-f1b1-4278-b6b6-e37d25e6679b": [
+      "http://stopgame.ru/"
+    ],
+    "3acea1dc-824f-4ead-8d02-dfcc8450898f": [
+      "http://2gis.ru/spb/"
+    ],
+    "3b64c8b0-4dea-4c17-b27b-28e1a361ffb2": [
+      "http://www.220-volt.ru/"
+    ],
+    "3b93b437-5776-45d6-aeea-1bdf31b8b7d8": [
+      "http://www.goha.ru/"
+    ],
+    "4890bd84-e041-4cd4-8805-4014fa5bdf7c": [
+      "http://www.stihi.ru/"
+    ],
+    "4933a734-c992-4951-9514-cf0ebff37b16": [
+      "http://www.kino-teatr.ru/"
+    ],
+    "49d5b7f7-393d-4374-a784-32c67d51b65e": [
+      "http://www.gismeteo.ru/"
+    ],
+    "4f673e65-7d5c-43c7-ae81-dd76ee624905": [
+      "https://vivaldi.com/bk/ozonru-ru"
+    ],
+    "5394c4d5-0b40-4d9b-81ce-0b785a3c0747": [
+      "http://www.lastfm.ru/"
+    ],
+    "53e531e9-6654-4762-b4ed-76dcb9bb6047": [
+      "http://www.kinomania.ru/"
+    ],
+    "54a63bab-d60a-4343-9520-d515a9f2896f": [
+      "https://ru.wikipedia.org/"
+    ],
+    "54c85449-0a6b-4ea4-b2b6-3dc1daa1a65b": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "564712f7-8919-48bc-a31d-3d495a5e8d31": [
+      "http://ria.ru/"
+    ],
+    "59b86336-f1a4-460c-8d02-1b3ac521dd0e": [
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "59d30094-d60b-4570-9161-c252485d6147": [
+      "https://instagram.com/"
+    ],
+    "5a5b36e5-3590-4358-b073-aa4698155798": [
+      "http://kartagrada.ru/"
+    ],
+    "6011faf2-0024-4393-bfd8-63f9b4bbfafa": [
+      "http://www.ixbt.com/"
+    ],
+    "6334861d-df26-42ac-8673-06905e1011c4": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "64fd896e-8e37-4bc4-bfd4-db31bb6b5876": [
+      "http://www.kinopoisk.ru/"
+    ],
+    "667f6882-5be2-4bdc-90b3-abd4c49e0323": [
+      "http://www.youtube.com/"
+    ],
+    "66bd78c9-d6ec-418f-8549-99ef7b3c12c3": [
+      "http://irr.ru/"
+    ],
+    "680c6fe0-469d-4fc2-9d86-95b05fe607a2": [
+      "http://www.rbc.ru/"
+    ],
+    "6e3cf647-760f-43fb-bf01-5e612de19d50": [
+      "https://www.avito.ru/"
+    ],
+    "6ff8af6d-06a3-4bcc-9ef0-cf9d8bffb348": [
+      "http://pcmag.ru/"
+    ],
+    "72617094-0993-4f10-942d-9889e542ed7a": [
+      "http://www.vokrugsveta.ru/"
+    ],
+    "7267f3bc-b1b9-4381-bca7-cf74fd0c9df2": [
+      "http://mfd.ru/"
+    ],
+    "734e25e5-a167-4b4f-8465-1942e3dae2c1": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "73eb568e-6852-4c16-9465-abfca5379169": [
+      "https://vivaldi.com/bk/alawar-ru"
+    ],
+    "778be278-e223-41f4-8249-d42a91e642bb": [
+      "http://www.sportmaster.ru/"
+    ],
+    "786d68d4-87e5-4fc3-9c38-97762454dda4": [
+      "https://vivaldi.com/bk/it-ru"
+    ],
+    "7a5dec64-cff0-4247-b404-da32fc336271": [
+      "http://www.vedomosti.ru/"
+    ],
+    "8229cf89-efc4-4765-a941-016a9bad49da": [
+      "http://www.vseinstrumenti.ru/"
+    ],
+    "832ab6fa-b2a3-4650-81a6-d3bb6a353e14": [
+      "http://www.forbes.ru/"
+    ],
+    "850c2e38-4ec0-4967-82e3-f5b78f338ccc": [
+      "http://www.otzyv.ru/"
+    ],
+    "86000e80-4dba-42d9-b75b-00ac4dce2d92": [
+      "http://www.championat.com/"
+    ],
+    "8c87a128-fa10-4303-a0ec-05de057a5999": [
+      "http://www.banki.ru/"
+    ],
+    "8dd321db-ab9f-4cab-99bb-f421d145c470": [
+      "http://lenta.ru/"
+    ],
+    "8f135468-09a1-4c81-8823-8e1b27072d9a": [
+      "http://www.rg.ru/"
+    ],
+    "90e0b30f-0cbd-421c-b74c-2fcb36389210": [
+      "http://nat-geo.ru/"
+    ],
+    "9962cd02-2346-451e-9138-e788ecdaaccd": [
+      "http://gamebomb.ru/"
+    ],
+    "9b8613d2-f700-496e-9384-c66045ea8994": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "9c73ba38-7800-4402-912c-8ad273bb8ba0": [
+      "https://vivaldi.com/bk/yandex-ru"
+    ],
+    "9e73858e-17e8-4a73-b120-cc304858c05e": [
+      "http://www.tutu.ru/"
+    ],
+    "9f9eecec-d780-46f7-adc8-3f30f3b75644": [
+      "http://gooool.org/"
+    ],
+    "a1213913-ac45-457d-890e-856074b50c85": [
+      "http://caniplay.ru/"
+    ],
+    "a19f252d-7f78-4b8e-9f34-6c809e957902": [
+      "http://www.tripadvisor.ru/",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "a1d697a8-5622-4dc2-81de-dda226a6d1af": [
+      "http://www.gamer.ru/"
+    ],
+    "a441784e-10c9-4cc9-b014-a8bdfd06029b": [
+      "http://www.aif.ru/"
+    ],
+    "a6016191-3f4c-4c04-b68f-76f8a843b22e": [
+      "http://www.ebay.com/",
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "a6252f53-9ab5-4ab3-87ad-ff7e22af5c31": [
+      "http://www.kp.ru/"
+    ],
+    "a6b96644-fae5-4bea-a8da-7103d17ca3be": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "a7faba27-4364-47bf-857f-f8a921292323": [
+      "http://www.sovsport.ru/"
+    ],
+    "aab9259c-07ff-4db6-9a26-12f92f6b8517": [
+      "http://www.khl.ru/"
+    ],
+    "b005bc3f-748a-4f03-a9db-2cc37389dfe8": [
+      "https://vivaldi.com/bk/rbkgames-ru"
+    ],
+    "b61d26a3-910b-4184-9082-783150bfe7ef": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "b99c2cff-8d2c-413f-85bf-3cecfa2f6812": [
+      "http://www.oszone.net/"
+    ],
+    "b9a9d02b-5efe-4744-ae86-9deeed8d80c5": [
+      "http://www.f1news.ru/"
+    ],
+    "be51a5ff-1f9f-41cb-80d3-07904aba682d": [
+      "http://tophotels.ru/"
+    ],
+    "c2a676e4-427f-48df-b204-8b0a800b4bb4": [
+      "http://www.vesti.ru/"
+    ],
+    "c480f483-464c-44b5-875e-cb1ac85e93c7": [
+      "http://www.aviasales.ru/"
+    ],
+    "c55f3fd3-74ca-4b1e-9002-74adce7fd4e0": [
+      "http://www.interfax.ru/"
+    ],
+    "c8207e0b-b402-4646-8249-5e81e90a609f": [
+      "https://vivaldi.com/bk/aliexpresscom"
+    ],
+    "c9fae4f6-194c-48de-82ba-9afefcbc6add": [
+      "https://www.kassir.ru/"
+    ],
+    "d523e337-28b3-4839-985a-f5949d45d3d2": [
+      "http://kommersant.ru/"
+    ],
+    "d556d5a4-80b7-449d-90c7-da9fb3c04964": [
+      "http://www.opennet.ru/"
+    ],
+    "d91e4b92-999e-4bff-8042-e832201f8d9e": [
+      "https://vivaldi.com/bk/bookingcom-ru"
+    ],
+    "dababace-6a7d-4dff-852a-134896fbefa6": [
+      "http://onlineguru.ru/"
+    ],
+    "dd8a960c-e63c-42a0-b35a-f119fcd4a250": [
+      "http://www.ferra.ru/"
+    ],
+    "de207637-7756-4362-b620-514efa827e4b": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "e39c642a-f525-4754-943f-074a7df605d7": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "e3c5bdb1-c41c-4ce5-b74a-e59e354e87e8": [
+      "http://news.sportbox.ru/"
+    ],
+    "e53aa9ad-44a9-47ff-b9d3-94a586bc4e22": [
+      "http://www.gazeta.ru/"
+    ],
+    "e6c67b6c-3e8d-49a9-8ecb-5e15c24353df": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "e8ff1681-317c-4b5a-b5b2-bf7b04ed0e4f": [
+      "http://www.mk.ru/"
+    ],
+    "f0198355-8522-47df-bac9-6d0b36b5507e": [
+      "http://habrahabr.ru/"
+    ],
+    "f037a273-9784-4c6f-ae99-9dffa87aaaf9": [
+      "http://4pda.ru/"
+    ],
+    "f0c6b028-e6e6-4d36-8f6d-dbb72769385e": [
+      "https://vivaldi.com/"
+    ],
+    "fb20336c-40df-412f-9224-937351d436d0": [
+      "https://vivaldi.net/ru/"
+    ],
+    "fc39c8cc-7b97-46a3-b02b-b651065298d5": [
+      "https://vk.com/"
+    ]
+  },
+  "de": {
+    "066feb85-f2fc-4899-a386-330efc2c5f37": [
+      "http://www.battle.net/"
+    ],
+    "0b25baff-4a3b-4225-bd48-4aa7ee6edc11": [
+      "http://www.handelsblatt.com/"
+    ],
+    "0b4f9bc2-f31c-47b3-b6da-a5d2bc386310": [
+      "https://vivaldi.com/bk/aliexpresscom-de"
+    ],
+    "0cf6ddd3-b81a-4edd-91a5-e87c26131491": [
+      "http://t3n.de/"
+    ],
+    "0dda647d-8da2-46fa-b049-ba3a52a055e5": [
+      "http://rtl-now.rtl.de/"
+    ],
+    "0e814f77-29d1-4aa6-8c66-26b686555455": [
+      "http://www.faz.net/"
+    ],
+    "0e94c127-28fc-454f-a2e5-6a61d7e6f9ee": [
+      "http://www.3sat.de/mediathek/"
+    ],
+    "1156c6bd-dc75-47d4-a776-747e42dd966d": [
+      "http://www.golem.de/"
+    ],
+    "1b8ff44a-bcb2-4beb-ba49-279cec8e3fcf": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "1d63ef2a-1ae2-4329-8024-104624d6f41b": [
+      "https://de.yahoo.com/"
+    ],
+    "21629a43-1e59-428b-bafa-7054bd05df0f": [
+      "http://geizhals.de/"
+    ],
+    "243e9e8f-cdb8-449e-ac37-65493d67e309": [
+      "https://vivaldi.com/bk/ebay-de"
+    ],
+    "26fb3382-f46a-4049-ae6a-4826280b6b22": [
+      "http://www.bahn.de/"
+    ],
+    "2ac0412c-7d05-498a-bb36-fff800a08eb2": [
+      "http://www.kicker.de/"
+    ],
+    "2e65344a-0c96-4fd7-9b65-5ba8284388c3": [
+      "http://www.giga.de/"
+    ],
+    "2fe4bc3b-e04e-4c38-9ba0-913fb60a8029": [
+      "https://vivaldi.com/bk/magix-de"
+    ],
+    "328755e9-2236-494e-b612-d9ccf6edded9": [
+      "http://www.sportschau.de/"
+    ],
+    "3287d8df-570b-4327-a89d-8e47fbcb5360": [
+      "http://www.sat1.de/video"
+    ],
+    "34fdc477-5170-4c34-ae4f-30ccbe1c983a": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "380336d2-55e7-46c7-b290-b9bddb3cbbae": [
+      "http://www.chefkoch.de/"
+    ],
+    "3ddfcbfa-d016-4395-af41-44822ce5e94c": [
+      "https://vivaldi.com/bk/corel-de"
+    ],
+    "425883d1-9078-4848-81df-f13a646d80ff": [
+      "http://derstandard.at/"
+    ],
+    "4362e952-83da-47a3-aa10-c2536a51f3f3": [
+      "http://www.sport1.de/"
+    ],
+    "48dfa019-60b3-408b-9ab6-f680440a0d29": [
+      "http://www.der-postillon.com/"
+    ],
+    "4a8c0ee2-3dcf-4392-9fe2-e9613641e6c4": [
+      "http://geizhals.at/"
+    ],
+    "50ec60d7-64a1-4c9f-919c-201520d77821": [
+      "http://www.ardmediathek.de/tv"
+    ],
+    "51e4d258-4c0a-4fd0-9f81-492c37af8c99": [
+      "http://www.blick.ch/"
+    ],
+    "52471b81-ab31-4189-8adb-9addc37195c5": [
+      "https://www.youtube.com/"
+    ],
+    "527de5cb-3651-436e-80c7-1fd3bcbde1ba": [
+      "http://www.mindfactory.de/"
+    ],
+    "57711b49-9661-4ab5-bd07-e8274a756fc7": [
+      "http://www.finanzen.net/"
+    ],
+    "5a655a0b-9c76-43e2-aed0-92db49ca82be": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "5d6c5b62-bd32-494e-848a-d930cf507bef": [
+      "http://www.ab-in-den-urlaub.de/"
+    ],
+    "6111c3b9-8d48-4074-8b78-f97be1d886cd": [
+      "https://www.etsy.com/"
+    ],
+    "614808a6-fa2b-4ba8-bfb5-3d9d8ab5859e": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "6395ac9d-031f-4f98-bba4-0421ade35b67": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "689be3a7-18c5-4f25-a635-7c5b5ae0f368": [
+      "http://www.computerbase.de/"
+    ],
+    "6946b979-72e7-4706-814c-1d001861ba8c": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "6979e3be-6c2a-43e0-8848-9c6feb88d108": [
+      "https://vivaldi.com/bk/parkenunffliegen-de"
+    ],
+    "76f8263b-92d9-4eb7-a58f-8532a9541732": [
+      "http://www.zdf.de/ZDFmediathek#/hauptnavigation/startseite"
+    ],
+    "802b8958-9f89-4777-875e-2f000b2e999b": [
+      "https://de.eurosport.yahoo.com/"
+    ],
+    "85ce2f0d-30fb-486a-b56e-9f6e7f55388b": [
+      "http://www.helpster.de/"
+    ],
+    "8715e242-9840-453b-b5b4-c50dff3cb9c6": [
+      "http://www.zeit.de/"
+    ],
+    "876d87b1-5793-4664-bbd7-5230742e6400": [
+      "https://vivaldi.com/bk/urlaubsbox-de"
+    ],
+    "8c888e9c-ea98-4152-8ced-7c482ba51e53": [
+      "http://www.pcgames.de/"
+    ],
+    "8e934e30-9023-455a-b865-07b5097b6dcc": [
+      "http://www.n-tv.de/"
+    ],
+    "92d47082-7e36-40ca-a3cc-6bfdfbe223e9": [
+      "http://www.focus.de/"
+    ],
+    "94cca50a-aff6-448a-a364-21c990eeb18c": [
+      "https://vivaldi.com/bk/konsolenkost-retrogames-de"
+    ],
+    "970e4b97-2631-4953-832a-ea62894275a1": [
+      "http://www.arte.tv/guide/de/plus7/"
+    ],
+    "9878fa63-6714-4157-82a6-9d4be8175215": [
+      "https://vivaldi.com/"
+    ],
+    "98b3ffdd-da1c-4009-9d8b-fc577f8fc7f3": [
+      "http://www.transfermarkt.de/"
+    ],
+    "9c903ca7-3616-4984-8b80-7c67b083dd63": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "9cca59b3-3d47-4447-905e-bebb6db206d5": [
+      "https://vivaldi.com/bk/marcopolo-de"
+    ],
+    "a205df1e-d9fa-4892-a771-c994fb3ec527": [
+      "https://vivaldi.com/bk/flixbus-de"
+    ],
+    "a407a46e-c906-42fc-877a-1ed47d3d409e": [
+      "http://de.gameforge.com/"
+    ],
+    "a6d20930-3f4e-4cec-98fb-c77968aa8188": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "a878efd4-2c29-4697-88c7-7d0624837e68": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "ab6c8518-f741-4321-9af7-8ea49c8bc12e": [
+      "https://vivaldi.com/bk/kayak-de"
+    ],
+    "abbdfcbf-ab73-4baf-8c9a-3cd74db7c3dc": [
+      "http://www.welt.de/"
+    ],
+    "ac336415-2f58-4f7c-a84b-b3873e9e42b6": [
+      "http://www.chip.de/"
+    ],
+    "ad4f7ca3-571d-470e-8bd1-94b8e06998a9": [
+      "https://vivaldi.com/bk/franzisde-de"
+    ],
+    "b4e5e44f-eeba-406b-962d-5b7496730a1e": [
+      "http://www.holidaycheck.de/"
+    ],
+    "b6311412-8cd4-4460-a64a-662f4a996918": [
+      "http://www.gamestar.de/"
+    ],
+    "b88c9b54-d5d8-45ba-9ec2-db0058697adb": [
+      "http://kleinanzeigen.ebay.de/"
+    ],
+    "bbdef2c0-2aad-4f91-aca2-d45e4cd64578": [
+      "https://web.de/"
+    ],
+    "bc9dd403-8bb2-4301-b3a5-669351d4e0ff": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "bdded1be-487d-4bdb-86a6-fdafd87f50f6": [
+      "http://www.gutefrage.net/"
+    ],
+    "c0342ebd-295c-4893-883a-86fa7381da9a": [
+      "http://www.bild.de/"
+    ],
+    "c206cf29-72cf-4377-8ae9-bfa4c36e2383": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "c4b883b4-5ca3-4526-a38c-a3024d58e687": [
+      "http://www.n24.de/"
+    ],
+    "c8ecf48d-170d-444e-a87e-462d5d9bc5ad": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "c9962c77-3e27-4f0f-bd9c-3af2b72e100d": [
+      "http://www.lufthansa.com/"
+    ],
+    "cb4f7ae4-acd5-4fc0-835a-76a93cb7adf4": [
+      "https://vivaldi.com/bk/farnellelement14-de"
+    ],
+    "d5d99381-a673-482e-b3fe-1312ac3a87be": [
+      "http://urlaub.check24.de/"
+    ],
+    "d7b4dc6b-2d01-4402-83e1-968f3041ab51": [
+      "https://vivaldi.net/de/"
+    ],
+    "ded3e4f7-a19c-4327-a75d-e2da00096e03": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "e06e6e12-f376-4a25-93b5-8e1ee0625284": [
+      "http://www.pcwelt.de/"
+    ],
+    "e1c3e3aa-13ed-4eb5-bf69-a006525e6bf6": [
+      "http://www.idealo.de/"
+    ],
+    "e2980b03-0805-48c0-bae7-15b81e1cb098": [
+      "http://www.stern.de/"
+    ],
+    "e91c5cc3-84dd-4a80-8f6d-609879541a32": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "e94023f5-f297-46d4-9ecc-13d7b38118ba": [
+      "http://www.spiegel.de/"
+    ],
+    "e9a7be83-c984-4cfd-a7ad-4eb638a9d3c9": [
+      "https://vivaldi.com/bk/lingorillade-de"
+    ],
+    "f0e494be-2bdf-488f-ac60-a998b4f1d4ea": [
+      "http://www.fluege.de/"
+    ],
+    "f17da463-2d38-4f8c-888b-b9578096ead0": [
+      "http://www.heise.de/"
+    ],
+    "f7764f98-d335-4285-b7fc-79412879b102": [
+      "http://www.boerse.de/"
+    ],
+    "f7b9f8f1-9a89-4733-974c-559e71be8593": [
+      "http://www.computerbild.de/"
+    ],
+    "f9e4bb5d-592a-4b54-b5f3-74393beaa37d": [
+      "https://vivaldi.com/bk/abbyyeuropegermany-de"
+    ],
+    "fb25a520-fdcb-4deb-a8e1-f23bc9bbae9d": [
+      "https://vivaldi.com/bk/bookingcom",
+      "https://vivaldi.com/bk/bookingcom-de"
+    ],
+    "fde33bbb-4715-42d6-b4f1-707a8a7f7a25": [
+      "http://www.testberichte.de/"
+    ]
+  },
+  "en-AU": {
+    "0ee7f06b-453c-4191-a24c-06e106a08fa9": [
+      "http://www.imdb.com/"
+    ],
+    "12502ef6-5d69-4a5f-ac77-1ba197882b59": [
+      "http://www.wired.com/"
+    ],
+    "17c517fb-548c-4f58-8e80-f32f48f75af3": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "1e709e44-1324-49b8-8724-88d859a56483": [
+      "http://www.ign.com/"
+    ],
+    "23ab9db1-3eb7-49ed-9608-438fed93e9fc": [
+      "http://www.theverge.com/"
+    ],
+    "25b46c15-83bf-4571-9d20-931e884a296e": [
+      "https://vivaldi.com/bk/hotelwiz-en-us"
+    ],
+    "25cd550b-933a-4f97-910a-e02c8389ccf2": [
+      "http://www.youtube.com/"
+    ],
+    "263a30b8-2b94-4d5e-8d99-e2a5130c1018": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "30c62281-723b-478b-ad82-3ffa2697742b": [
+      "http://www.bloomberg.com/"
+    ],
+    "32afb28f-8c75-458e-8ba3-844b549db223": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "38ff794c-7912-44fb-97c9-d117032ef561": [
+      "http://www.abc.net.au/"
+    ],
+    "395169a9-b552-4d76-9aa2-85f2b71dcaca": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "3cb4964d-740e-4443-9174-328bbfc3f385": [
+      "http://www.news.com.au/"
+    ],
+    "4573f98c-a89e-499a-bd97-7874d4f85e05": [
+      "https://vivaldi.com/bk/kayak-en-au"
+    ],
+    "497607c3-d7c9-4acf-845d-e5a5d668e8ce": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "4dc601cf-500a-4577-80c5-3a25a5bc0351": [
+      "http://www.dailymotion.com/"
+    ],
+    "4e84f827-4a18-4537-a707-c142366e1859": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "545ce2de-352a-43be-9a8a-63b607084f1d": [
+      "http://www.gamefaqs.com/"
+    ],
+    "5a336078-a2e4-48ac-b9d3-eadeea9a36a6": [
+      "https://play.spotify.com/"
+    ],
+    "5b235329-e76a-48d8-924a-2fa7158e1e3f": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "5ce6fe9d-1185-4de7-9903-90d4035a7158": [
+      "http://www.ft.com/"
+    ],
+    "6059bc67-edcb-4758-8bdf-cdaec32f6813": [
+      "http://www.forbes.com/"
+    ],
+    "638d8d86-041a-41d7-91df-62e1f57e2f74": [
+      "http://www.engadget.com/"
+    ],
+    "662d556a-a16a-4666-87b4-266430b07b1b": [
+      "https://vivaldi.com/bk/ceoworldmagazine-en-us"
+    ],
+    "691df85c-0cac-46d3-9e4a-49c9a8c2fdc0": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "70ece696-8669-4b27-a5fc-07cc9cdf4054": [
+      "http://www.wsj.com/"
+    ],
+    "7ca0bbd0-292e-469f-9604-f1b112d29eb7": [
+      "https://www.livingsocial.com/"
+    ],
+    "7ee103f7-471a-4f76-91f7-02f7634ed6a1": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "7efefed5-4a69-4fe7-ae34-d6d7574ffdf1": [
+      "http://www.craigslist.org/"
+    ],
+    "82af7ea4-5b93-4939-8e4d-2f2d1f3aa9aa": [
+      "https://vivaldi.com/bk/bookingcom-en-us"
+    ],
+    "8375a362-b0aa-42e2-ace0-8a15db8bc9bb": [
+      "https://vivaldi.com/bk/greenmangaming-en-us"
+    ],
+    "87c37e4d-92d4-4cde-8639-906feeae7f42": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "8a2d7736-f9b0-4863-8893-37a649bc25aa": [
+      "https://vivaldi.com/"
+    ],
+    "907d99b1-e6bf-4cfb-9bcf-fca4a1e14ec8": [
+      "http://www.economist.com/"
+    ],
+    "95eec384-af29-471a-b9d5-3162d1a38b51": [
+      "http://www.minecraftforum.net/"
+    ],
+    "962752f7-8c7f-409c-a51f-c5a9726a2794": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "966539b8-c288-41d7-aefa-c9d7af113e19": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "97354f12-4bd3-42e6-903d-6e48570e6c0f": [
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "ace79eaf-460a-472d-a7c6-079c940b34b7": [
+      "http://www.hulu.com/"
+    ],
+    "acfcebdc-4c02-4727-a380-b44fb7c42dad": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "afade89f-7d14-445a-91e8-11756f0b3df4": [
+      "https://vivaldi.com/bk/bbcshop-en-us"
+    ],
+    "b08da299-fba8-4e0d-975c-ac683a029c8e": [
+      "http://www.cnbc.com/"
+    ],
+    "b0b3e80d-c2e8-44ab-ab45-ce1f4b64a01d": [
+      "https://github.com/"
+    ],
+    "b2f79b45-1f28-4cad-b785-d16695f8d153": [
+      "http://gizmodo.com/"
+    ],
+    "b3ef19bd-5c91-4106-a0f9-ed9822b20962": [
+      "https://vivaldi.com/bk/ebay-en-au"
+    ],
+    "c4e84aac-8282-4c20-bab0-f91134a1054b": [
+      "http://www.bom.gov.au/"
+    ],
+    "cd78d7a7-0e55-4d8f-ab30-9d3fe8a9226d": [
+      "https://vivaldi.net"
+    ],
+    "d92a8997-b3da-4499-88ce-26dda8e8edc1": [
+      "https://vivaldi.com/bk/cheapoair-en-us"
+    ],
+    "dd48a1b0-eb4d-49e5-bbcd-8b68e000735f": [
+      "http://www.reddit.com/"
+    ],
+    "df4bc82c-0517-487f-b0c6-adbb2131364f": [
+      "http://www.opentable.com/"
+    ],
+    "eefab503-a486-4a8b-8aa0-4e22ab484960": [
+      "http://www.ted.com/"
+    ],
+    "f196d918-e778-4491-b40c-cad369c6cf41": [
+      "http://www.rottentomatoes.com/"
+    ],
+    "f2faf3e9-d2ba-422a-88c1-be841548f3ff": [
+      "http://slashdot.org/"
+    ],
+    "ff5b240b-b063-4895-aedd-fb7b68196beb": [
+      "https://vivaldi.com/bk/help-en-us"
+    ]
+  },
+  "en-IN": {
+    "01c1f0e0-4669-4982-942c-1537e331d80e": [
+      "http://slashdot.org/"
+    ],
+    "01f922b0-2ab9-438f-8ab4-440ec82b6347": [
+      "https://vivaldi.com/bk/bookingcom-en-us"
+    ],
+    "024e2f5d-72dd-454e-ac5a-2cc87f22bab5": [
+      "http://www.bloomberg.com/"
+    ],
+    "05592106-0a71-4458-9408-e9a8279e1e44": [
+      "https://vivaldi.com/bk/garmin-en-us"
+    ],
+    "07fbf819-5eea-4706-bbaf-234a4b042a5a": [
+      "http://www.dailymotion.com/"
+    ],
+    "0bbc81bd-a942-4e2e-a1ac-593a8808c744": [
+      "https://vivaldi.com/bk/flipkey-en-us"
+    ],
+    "0cb9fc9d-4c19-4f4f-aadf-b9f195151530": [
+      "https://www.livingsocial.com/"
+    ],
+    "140a848b-b330-434b-aeeb-915145cbe53d": [
+      "https://vivaldi.com/bk/aliexpresscom-us"
+    ],
+    "15d7f04b-9fde-455a-8d55-fe79cf6f0fd0": [
+      "https://vivaldi.com/bk/flipkart"
+    ],
+    "1a198dec-e258-44ca-95dc-a2d046e89858": [
+      "https://vivaldi.com/bk/yatra"
+    ],
+    "240ccd9e-9c54-459f-81af-82e0627fb095": [
+      "https://play.spotify.com/"
+    ],
+    "291d3e89-410e-432c-b132-ba205d6f2861": [
+      "http://www.minecraftforum.net/"
+    ],
+    "298dece9-4698-4ed8-80ff-ccf0a77faa9d": [
+      "https://vivaldi.com/bk/ceoworldmagazine-en-us"
+    ],
+    "2b91f744-c31c-42ce-8629-ed6987948171": [
+      "http://www.washingtonpost.com/"
+    ],
+    "2dfd6a8e-237d-4841-856f-d13bd983f2c7": [
+      "http://www.examiner.com/"
+    ],
+    "35f8132e-7d5f-482b-b0fd-6da48287f8f5": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "3bcf0623-4a19-46f3-8139-2c32513ba764": [
+      "http://www.craigslist.org/"
+    ],
+    "3f1c0019-9ebc-454c-9a44-dca261d976a4": [
+      "http://www.bleacherreport.com/"
+    ],
+    "4542ace8-697e-45ec-aac9-4167e72c680a": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "457c8bca-bfea-45eb-b9b5-aae43e49b0ca": [
+      "http://www.theguardian.com/"
+    ],
+    "46361034-63eb-4032-bbeb-abbcff486031": [
+      "http://www.theverge.com/"
+    ],
+    "52ab16fe-c236-4d80-969c-c62fd4cf9489": [
+      "http://www.goal.com/"
+    ],
+    "5352aa78-7e4d-4128-a4d1-43494bd40831": [
+      "https://vivaldi.com/"
+    ],
+    "5799d1ed-8ce9-4677-a767-fd33d2ec564c": [
+      "http://www.youtube.com/"
+    ],
+    "593da77a-aaa1-4789-bf34-b89fb5a9ce11": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "5d8c6b0c-10ed-4e94-82d7-623695ed78ab": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "5e8f4a9e-9fe9-46e4-b99c-a6ccfe1bca8b": [
+      "http://www.reuters.com/"
+    ],
+    "5f56a51a-9be2-4532-818d-c5422bd1712a": [
+      "https://vivaldi.com/bk/kayak-en-us"
+    ],
+    "612c7ff3-88ad-49de-9493-d60ec34be8b2": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "65131d85-e890-42a3-bf15-5ec9bccdd1dc": [
+      "http://www.huffingtonpost.com/"
+    ],
+    "7ad88e71-ab63-4ee9-a9e3-8d32889215f8": [
+      "http://www.engadget.com/"
+    ],
+    "7b29401a-0d09-43c6-86d1-5a5f54a54670": [
+      "https://www.quora.com/"
+    ],
+    "7be7d71b-8872-49e5-98fc-c8c41a9cf898": [
+      "https://vivaldi.com/bk/timex-en-us"
+    ],
+    "7d639408-98b5-4190-8237-1b69e395067a": [
+      "https://www.ndtv.com/"
+    ],
+    "80e5145c-6eef-4d61-9747-ee2b6decfc15": [
+      "https://github.com/"
+    ],
+    "8a03ac5d-ae11-4e22-bbc3-83da2acf99ba": [
+      "http://www.imdb.com/"
+    ],
+    "8f725108-ca62-46d5-a230-af167c99e52d": [
+      "https://vivaldi.com/bk/urbanoutfitters-en-us"
+    ],
+    "91a059cf-1162-4f27-8e72-5bf0c845e99b": [
+      "https://vivaldi.com/bk/coffeeorg-en-us"
+    ],
+    "92f56483-7064-4847-97da-32ccbaa5a91a": [
+      "https://timesofindia.indiatimes.com/"
+    ],
+    "941039d0-d364-4720-99f6-5afc6a0bcc90": [
+      "http://www.economist.com/"
+    ],
+    "9564fea8-531d-47db-b1d2-9acaad3ae10f": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "9f7f557d-c791-458a-bfc4-9af033bbcf5c": [
+      "https://vivaldi.com/bk/makemytrip"
+    ],
+    "9fd9c8c6-c6d0-4c05-9678-9e168c8f0c04": [
+      "https://vivaldi.com/bk/amazon-hi"
+    ],
+    "a548613e-578c-4023-86ad-928d85a55180": [
+      "http://www.nba.com/"
+    ],
+    "a8c9ff5b-d1d2-45c9-91e2-7a03b3b38e17": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "a999654f-4d4e-4d00-b04f-38515c60b643": [
+      "https://vivaldi.net/"
+    ],
+    "ae316c02-a3f1-46a6-9cf7-4f9d1df33023": [
+      "http://www.forbes.com/"
+    ],
+    "af6f08cd-8d1e-4f55-941e-17ca8692f909": [
+      "http://www.gamefaqs.com/"
+    ],
+    "c16dba92-0c13-4f64-a9c0-d228ae74be1a": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "ca789e70-2a63-479d-bb9a-79e9f5823caf": [
+      "http://gizmodo.com/"
+    ],
+    "cbf35cc2-07d0-4bca-8026-127129b649a9": [
+      "https://vivaldi.com/bk/thinkgeek-en-us"
+    ],
+    "cf0fa8c9-d5a6-4baa-8ec4-337a6c2d664f": [
+      "http://www.reddit.com/"
+    ],
+    "de084e45-c07a-4138-a1cf-721bcff6af5d": [
+      "http://www.wired.com/"
+    ],
+    "df8b6322-7931-4e76-86e3-b9f4a94db308": [
+      "https://vivaldi.com/bk/kobo-en-us"
+    ],
+    "ecfd823f-c021-420b-b05c-1a29e42225df": [
+      "http://www.cricbuzz.com/"
+    ],
+    "ee8f29a4-83dd-4cc3-b7fc-9846dedd56b8": [
+      "http://www.cnn.com/"
+    ]
+  },
+  "es": {
+    "037ae31f-b0a2-4971-996f-0edc905bf487": [
+      "http://www.elcorteingles.es/"
+    ],
+    "0513a3e7-b808-4c5a-9eed-2deb94632bd3": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "065acb52-795b-4d44-a921-8da25a7dfd88": [
+      "http://www.segundamano.es/"
+    ],
+    "0a840039-74a8-4aab-a763-d62a3e1017c4": [
+      "http://www.edreams.es/"
+    ],
+    "0aad6752-e041-4e13-9783-64d586629e18": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "0bf0d7ee-b25f-4dc3-a2bc-d0d8425ca0fb": [
+      "http://www.dx.com/"
+    ],
+    "0f6f8423-eed7-4484-a726-7831592285be": [
+      "http://www.vandal.net/"
+    ],
+    "17c95306-c825-4bd0-b982-0fdde221761d": [
+      "https://vivaldi.net/es/"
+    ],
+    "22f48eb4-8199-468f-8f30-a4ae30c48ee0": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "233a55d7-a0e9-4c64-9761-1cd8ff719bb2": [
+      "http://www.vueling.com/es"
+    ],
+    "243b0824-6dea-499c-a58b-8bd7115e6149": [
+      "http://www.rankia.com/"
+    ],
+    "260149ad-0ec9-46bb-bb9d-ce56b548d0fe": [
+      "https://vivaldi.com/bk/aliexpresscom-es"
+    ],
+    "2bb3e99d-95be-408c-9aec-cef56264c3cf": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "2c9fb138-ccbe-4614-adf3-763a3f877c31": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "2e45c0ec-cadf-440b-9da8-dfb69876cb6a": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "3415df25-5892-449a-a0b1-972bdd88ed26": [
+      "http://www.logitravel.com/"
+    ],
+    "36617242-54cd-404a-b02d-2b6aa176953b": [
+      "http://www.agenciatributaria.es/"
+    ],
+    "37ce32c7-2b0d-4da9-8aa1-f25d4074de42": [
+      "http://www.xataka.com/"
+    ],
+    "3f0cfd41-75c1-4178-b4f1-d590217fae37": [
+      "http://www.expansion.com/"
+    ],
+    "48cc7d2b-4990-4541-a018-7f9e72b0f7b2": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "4dfa74cf-dac4-42df-844a-3c60a6cb5caa": [
+      "http://www.eleconomista.es/"
+    ],
+    "58ea4d6b-2bd8-4d9c-a1b4-0e83c12c28bd": [
+      "http://www.solostocks.com/"
+    ],
+    "591dc183-b837-44f6-ae18-442228adeb18": [
+      "https://www.etsy.com/"
+    ],
+    "5930255e-28c5-43bf-9fcb-69fc805c5934": [
+      "http://www.superdeporte.es/"
+    ],
+    "5cdd3205-9299-4bda-a8a6-902a723f5589": [
+      "http://www.elandroidelibre.com/"
+    ],
+    "5f9bbb08-d846-4286-84fa-b81cae03497f": [
+      "http://www.minube.com/"
+    ],
+    "652f1987-b455-4e87-a7e4-66b1a3592339": [
+      "http://www.goodgamestudios.com/"
+    ],
+    "7d2ba02c-17fd-486c-a2c2-ddd7c846bb03": [
+      "http://www.pccomponentes.com/"
+    ],
+    "7d3d52d8-093a-476b-95c0-89601d74d61b": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "7d5fdd69-f7bc-4b9b-89c3-82ca76c09c7d": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "83e3c9e2-4ee7-4459-99fb-3c07a2fde7ab": [
+      "http://www.atrapalo.com/"
+    ],
+    "8b44ce05-3ce1-4aaa-9868-e913f01138b6": [
+      "http://as.com/"
+    ],
+    "8f188ddf-6a92-4319-9923-3d0c539865ec": [
+      "http://elpais.com/"
+    ],
+    "914f8855-4ce3-48fc-b507-16d95f4a969c": [
+      "http://www.genbeta.com/"
+    ],
+    "96128586-5fd6-49ae-9c04-79287e05fa0c": [
+      "http://www.sport.es/es/"
+    ],
+    "9d12e5ea-c8ab-4607-931c-9f1fe502c6d9": [
+      "http://www.milanuncios.com/"
+    ],
+    "a2b77023-53d7-4998-8c53-bced4dadd780": [
+      "http://www.3djuegos.com/"
+    ],
+    "a77f8cb5-f7be-4f1d-bca7-0f2f930febf7": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "a9ca2435-8e89-4840-809b-ad2f041ee7c2": [
+      "https://vivaldi.com/bk/kayak-es"
+    ],
+    "af9cd27c-7590-443c-891f-03281e1abc72": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "b4a8b69d-24e4-4b55-9866-218402a33963": [
+      "http://www.marca.com/"
+    ],
+    "be728ae5-2e53-476b-80d8-659435bc6e59": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "be9eaee9-c992-4560-94ce-292cd4f8628d": [
+      "https://vivaldi.com/bk/bookingcom-es",
+      "https://www.booking.com/country/es.es.html?aid=807124"
+    ],
+    "ca4da614-eb95-4bf1-b72c-57b4bbfc4167": [
+      "https://vivaldi.com/"
+    ],
+    "cf9a1f22-64ed-4ccc-abc7-c81b25c444d1": [
+      "http://www.softonic.com/"
+    ],
+    "d24bca15-60c0-4b97-9163-38865db90e2a": [
+      "http://www.abc.es/"
+    ],
+    "d426525f-b267-4c68-ad02-dec95b181372": [
+      "http://www.iberia.com/"
+    ],
+    "d872afe0-3399-4db2-8ee6-da66fd05485d": [
+      "https://vivaldi.com/bk/ebay-en-ca",
+      "https://vivaldi.com/bk/ebay-es"
+    ],
+    "d8c4112f-daa1-484d-b381-604abd305b60": [
+      "http://www.xatakamovil.com/"
+    ],
+    "d97f243f-0073-4738-8b89-6f309f90246f": [
+      "http://www.decathlon.es/"
+    ],
+    "dc13cc8c-fdd1-4dfc-9b02-4800ed6ce60b": [
+      "http://www.elmundo.es/"
+    ],
+    "dfc5e4b9-4663-4d77-a2c4-27fd6607aacf": [
+      "http://www.fnac.es/"
+    ],
+    "e2f06163-fce7-4754-a153-e5ca2add9214": [
+      "http://www.burbuja.info/inmobiliaria/"
+    ],
+    "e30e1533-ffe8-49e1-82d3-792e5d4b4fbf": [
+      "http://www.gameforge.com/"
+    ],
+    "e4d42953-fa06-4a49-ab35-e523f6dd2ad8": [
+      "http://gizmodo.com/"
+    ],
+    "e512a182-979c-4d53-9339-5ae6ce9496c4": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "e61197f3-124f-4652-8c68-ebe9dddba316": [
+      "http://www.rumbo.es/"
+    ],
+    "eb0c5c4c-aa37-4575-b52d-e81d1486f4c0": [
+      "http://www.casadellibro.com/"
+    ],
+    "f15163dc-de06-46f3-bc15-c90ad75c254c": [
+      "http://www.meristation.com/"
+    ]
+  },
+  "fr": {
+    "0232160c-e521-429e-8625-1dade893b4aa": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "03031f10-04b3-4b8c-94ff-9727a1f7e7b9": [
+      "http://www.boursorama.com/"
+    ],
+    "0dded26b-8aee-4a97-8538-a64c50db027a": [
+      "http://www.1and1.fr/"
+    ],
+    "1322c4bf-456e-4a5d-b4d5-7a05befa183b": [
+      "http://www.jeuxvideo24.com/"
+    ],
+    "195522b0-4984-4a07-8460-6ae0c552fb7a": [
+      "http://www.lexpress.fr/"
+    ],
+    "1dd94bb8-73b2-4262-8837-8c255176896f": [
+      "https://www.labanquepostale.fr/"
+    ],
+    "2154e002-4c5b-4975-8f61-7330db99ac04": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "21c72ea2-6f8a-4a9b-aca5-d17297c4beb1": [
+      "https://vivaldi.com/bk/ebay-fr"
+    ],
+    "232dce4b-7814-4d45-9bca-fd7ecf4d2a23": [
+      "http://www.nextinpact.com/"
+    ],
+    "238b2286-793a-48e9-a6fd-ba268a2b526d": [
+      "http://www.comptoir.fr/"
+    ],
+    "23945500-3559-4acc-ab29-ff123ed0096e": [
+      "http://www.francefootball.fr/"
+    ],
+    "24196b72-b738-4b6c-83f8-1c9f63e43103": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "26de8912-faf3-405d-8e22-8af2a58b16a3": [
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "2d3a1484-b28d-46c0-b570-2e011fa89bf1": [
+      "http://minecraft.fr/"
+    ],
+    "3382ae38-d873-4bc7-9f3b-c0815ac272f4": [
+      "http://www.pap.fr/"
+    ],
+    "358ff09b-24f5-4844-bb21-8e3698f10bcb": [
+      "http://vente-privee.com"
+    ],
+    "3b24c584-65db-494c-9cfc-5ef48d89f050": [
+      "http://www.handisport.org/"
+    ],
+    "3e13e587-f64a-4e1a-be85-cca0f4a2ed05": [
+      "http://www.darty.com/"
+    ],
+    "40d076f5-19c6-4d44-b05b-2dfac5039070": [
+      "http://portail.free.fr/"
+    ],
+    "40eea8ed-a51c-47d5-92c1-ed5a0ed86c49": [
+      "http://www.laredoute.fr/"
+    ],
+    "4300ff52-f400-4900-873b-4e639568fe41": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "43707925-d894-4226-9454-014f237df2df": [
+      "http://www.decathlon.fr/"
+    ],
+    "4de16e8c-f864-40f6-aae5-6b75b4cef9f1": [
+      "https://vivaldi.com/bk/aliexpresscom-fr"
+    ],
+    "4df099e3-02a4-4aa9-bb09-273bb6a58153": [
+      "http://www.lequipe.fr/"
+    ],
+    "5204457e-c564-460e-855b-9353785d0daa": [
+      "http://www.gamekult.com/"
+    ],
+    "5207fba0-b383-45c2-a10d-904df6ccbcfa": [
+      "https://www.adopteunmec.com/"
+    ],
+    "591f8d9e-629d-42fa-a263-7ba07859eab6": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "5a365e0c-e8fc-4f16-81d2-e4473b27042d": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "64757007-399d-4f4c-afb0-5c74e029f2ff": [
+      "https://vivaldi.com/"
+    ],
+    "6a98c000-5ac3-4979-8ed1-06a65eb79a81": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "6ae7d925-97c7-4e79-af93-3350d44117d0": [
+      "http://www.jeuxactu.com/"
+    ],
+    "6db9f035-adfe-4e15-98ba-71176e511724": [
+      "http://www.familiscope.fr/"
+    ],
+    "6f3e2e9c-38d4-4f49-8b7a-19a1104bf1ea": [
+      "http://www.generation-nt.com/"
+    ],
+    "777ab5e3-20df-4da3-8df1-0bb607d2c23f": [
+      "https://fr.sports.yahoo.com/"
+    ],
+    "777ccf9c-8710-490d-8013-e8d579c721ad": [
+      "http://www.lesechos.fr/"
+    ],
+    "77f36684-a67c-4ca5-842f-16653d3d3d49": [
+      "http://www.onvasortir.com/"
+    ],
+    "79363aad-f66f-42e0-97f5-f5f436760139": [
+      "http://www.francetvsport.fr/"
+    ],
+    "7dd24ba0-0800-4b97-b079-7adb70c3b8cf": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "7f0ba5ae-4f5c-45a9-abce-7d824df07902": [
+      "http://www.programme-tv.net/"
+    ],
+    "82fb2015-b946-4a9b-bd23-8e82ebf38ba6": [
+      "http://www.voyages-sncf.com/"
+    ],
+    "89021241-80c5-4b99-bd1d-50d23c82177d": [
+      "https://vivaldi.net/fr/"
+    ],
+    "8bba9db6-86bf-4e61-b5ab-42f429965819": [
+      "http://www.rueducommerce.fr/"
+    ],
+    "8d009e86-c81f-4528-b320-484958e116db": [
+      "http://www.begeek.fr/"
+    ],
+    "925d2b71-36a8-4108-9a5d-050364814d5e": [
+      "http://www.fnac.com/"
+    ],
+    "96941d8a-3920-4f31-befb-d6f859975a88": [
+      "http://www.clubic.com/"
+    ],
+    "9769745e-5c08-473d-82d7-eea6a942d920": [
+      "http://www.promovacances.com/"
+    ],
+    "99f1cfa7-4d7f-4beb-9e2c-bf82d68b6ce3": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "9b2a67af-8461-43ae-9536-f2cd18cd63a5": [
+      "http://www.commentcamarche.net/"
+    ],
+    "9c9d572f-d78f-4454-aa64-8be5be5a4b31": [
+      "http://korben.info/"
+    ],
+    "9e4bd42e-b43e-4caf-8c2e-ee7e83654a7d": [
+      "http://www.leboncoin.fr/"
+    ],
+    "a3550521-2ee6-4543-ad67-e933dfe503ac": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "a6ca6e33-6736-468d-94b7-6bc50658f02b": [
+      "http://www.lefigaro.fr/"
+    ],
+    "a75982fb-94b5-4509-b5cf-48483ca924d9": [
+      "http://www.doctissimo.fr/"
+    ],
+    "a84163b4-9402-4d5f-a540-44ea82f47732": [
+      "http://fr.mappy.com/"
+    ],
+    "a9890d5b-0461-4e68-9fbe-2c4bf0b1c711": [
+      "http://www.jeuxvideo.com/"
+    ],
+    "adaea577-93e5-43b8-9874-15e74f044ef8": [
+      "http://www.lemonde.fr/"
+    ],
+    "b3a8c9be-531e-4957-84d7-6b64c9d6233e": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "bb12511d-7317-471f-880f-5199559c4841": [
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "bb34d6d9-d42b-4f73-940d-54fc4088be27": [
+      "http://âpp.com/"
+    ],
+    "bebe0d4b-a49c-436b-b201-86449a934452": [
+      "http://www.fr.lastminute.com/"
+    ],
+    "c965923f-0357-4bbe-9166-739ae9e73d2e": [
+      "https://vivaldi.com/bk/kayak-fr"
+    ],
+    "d83de999-4307-45b9-9397-015d58deb570": [
+      "http://www.gameblog.fr/"
+    ],
+    "d989898a-3e10-4e75-8a9e-02398a16d63a": [
+      "http://www.challenges.fr/"
+    ],
+    "e37bad27-774a-4a3d-a8ba-821433a554f2": [
+      "http://www.boursedeparis.fr/"
+    ],
+    "e41487d3-d8f4-46c2-bdd3-39f27dabaf52": [
+      "https://www.booking.com/country/fr.fr.html?aid=807124"
+    ],
+    "e41eece5-5b7c-4a51-96a8-14bf1961a305": [
+      "http://www.credit-agricole.fr/"
+    ],
+    "e4669393-1bb8-4f60-a105-65d419f654d0": [
+      "http://www.cdiscount.com/"
+    ],
+    "e5575d00-eb29-4cea-826f-93c7ed9a3ca2": [
+      "http://www.journaldugeek.com/"
+    ],
+    "e8c5e989-3183-483a-a7df-bc28220d3c43": [
+      "http://www.sports.fr/"
+    ],
+    "f0b9f5c8-c33c-48f2-892a-b7d842f1db94": [
+      "http://www.journaldugamer.com/"
+    ],
+    "feb17141-92c9-4174-81c3-24f610b782e7": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "ff75affa-4d8b-4261-b779-d57f480afae1": [
+      "http://www.garancedore.fr/"
+    ],
+    "ffd2e0db-1142-42d4-9776-ca1db1715819": [
+      "http://www.allocine.fr/"
+    ]
+  },
+  "is": {
+    "00156d8d-f919-48f9-99b4-c4343ce9c315": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "02d9ff8b-5273-470e-9189-7103b4aad75e": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "0de0b30c-9ca4-4515-b839-a9a1f4d0efc5": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "1c80b75d-4113-4da2-8ad6-f987c864967a": [
+      "http://www.spyr.is/"
+    ],
+    "1e76c913-d0bc-4cf5-9d9c-b86683fc08e6": [
+      "https://www.oz.com/"
+    ],
+    "1fa1ec86-0fd8-48d0-9205-8e412b347b8b": [
+      "http://www.smartmedia.is/"
+    ],
+    "266d2bf0-5160-4415-84ab-3efb12676345": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "2e6d48ac-f872-412c-8562-0f1e426b06b1": [
+      "http://www.hringdu.is/"
+    ],
+    "357fe6ab-4f3e-45b8-bb32-3b946987f668": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "39a27c10-b6d3-4762-b4f4-bab2e7a4cce4": [
+      "https://vivaldi.com/bk/bookingcom-is",
+      "https://www.booking.com/country/is.is.html?aid=807124"
+    ],
+    "3b3d76ef-6d8f-43f7-9024-36c2554295d4": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "44c9a31d-528a-4d14-8ba5-7178bad7a587": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "46efb1b3-8936-444e-8e06-132033599309": [
+      "http://www.hreysti.is/"
+    ],
+    "5594e5fc-b0a5-40f3-b3bb-5f37dfb5f721": [
+      "http://www.mbl.is/frettir/"
+    ],
+    "56f07266-df86-4f8a-a358-2a05a24bcd85": [
+      "http://www.visir.is/"
+    ],
+    "5e28575f-8bb1-4c9b-9b7f-14a33a0c9f10": [
+      "http://www.vedur.is/"
+    ],
+    "716186f8-881b-4a25-a24d-32872d98165f": [
+      "http://innovationhouse.is/"
+    ],
+    "8f8ebe5b-987f-4547-8beb-50a0b59b723b": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "93a1b497-859e-4d7c-bbbe-df08c9a2aca4": [
+      "https://vivaldi.com/bk/aliexpresscom-is"
+    ],
+    "95812391-8b16-4db0-bdfb-b4012b69e4f0": [
+      "https://1819.is"
+    ],
+    "970b5b12-775e-4eaf-9198-2c9fbbd454eb": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "999a855a-db38-4590-8b32-12aa253d4183": [
+      "http://www.tolvutek.is/"
+    ],
+    "a17438c8-ffb8-4edb-803d-a5c074008bec": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "ad39e4cc-7b3b-46e2-be2f-5c2b94140ddf": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "af4773cc-2dee-45d5-83ff-57bbfea172cc": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "c0f96cbe-18b7-4081-b0d9-6dd0ad424431": [
+      "https://vivaldi.net/"
+    ],
+    "c25998b0-8b50-45d0-ad06-46608bb1af85": [
+      "http://www.fotbolti.net/"
+    ],
+    "d13d2925-de47-4b21-ace2-aeb3a502d95f": [
+      "http://www.laktosafritt.is/"
+    ],
+    "d46786fb-319d-41fa-a372-5e9f60614a0a": [
+      "https://secure.greitt.is/"
+    ],
+    "d83234fa-ff9b-46f1-994b-0dac163ae3c2": [
+      "http://www.ruv.is/"
+    ],
+    "d8fca1c1-bae3-494d-a0fa-39b3e938adc2": [
+      "http://www.youtube.com/"
+    ],
+    "db666769-7720-4290-9e7d-56aaadb7714c": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "df461c29-256b-4314-9fa8-198354ad53c4": [
+      "http://ja.is/"
+    ],
+    "df8f851a-a1f6-44d3-9e96-7afa023aa08d": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "e110d738-863f-4dde-a4aa-9e489186e090": [
+      "http://www.dv.is/"
+    ],
+    "e39d4d6a-2888-4346-a332-d33f88342f26": [
+      "http://www.pressan.is/"
+    ],
+    "eb668d16-83ec-47cd-92a4-0de5fd5e0c18": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "ec56f3ef-359b-4e42-ad2b-46ee9a9cef74": [
+      "https://vivaldi.com/bk/kayak-en-us"
+    ],
+    "ec936fc2-a388-4682-bb6c-c31e56937a31": [
+      "https://vivaldi.com/"
+    ],
+    "ef967a87-08be-49b5-9e83-be05d784698f": [
+      "http://www.a4.is/"
+    ],
+    "ff607650-932e-4ded-9ddb-4b8a4a9c247c": [
+      "http://www.vb.is/"
+    ]
+  },
+  "it": {
+    "0206f654-b243-4b96-998b-6eebe872e767": [
+      "http://www.ibs.it/"
+    ],
+    "0b8ab63b-a101-41c7-8375-9275dc3670e9": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "10fd6c0c-1c7d-4f06-8da0-03af2def95fa": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "1aee7c1e-e900-407e-9024-c8706f742961": [
+      "http://www.gazzetta.it/"
+    ],
+    "1c6aeac0-cdef-4a49-82e2-f8056eec3cba": [
+      "http://www.gameforge.com/"
+    ],
+    "1faeb76b-f572-493d-866f-3b0c322841d2": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "248bb35c-1554-4679-a7af-6500a79b2a5b": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "24c869a2-d079-4d07-b654-458f3b5fdfaf": [
+      "https://vivaldi.com/bk/kayak-it"
+    ],
+    "26312bb4-b94d-472b-9604-6f1b29ff4bf8": [
+      "http://www.lightinthebox.com/"
+    ],
+    "2650aa33-93be-4bed-b8bf-8b2b3d776048": [
+      "http://www.corrieredellosport.it/"
+    ],
+    "295982ad-9ca9-4b8b-b2be-2c3cf8460bbb": [
+      "http://www.tripadvisor.com/",
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "31eabd97-c373-465c-a410-e32079d155bb": [
+      "http://www.spartoo.it/"
+    ],
+    "398e453f-7717-4366-a8b8-1f3276283575": [
+      "http://www.corriere.it/"
+    ],
+    "3f760eb2-7eae-4525-991a-5365804626e9": [
+      "http://www.leroymerlin.it/"
+    ],
+    "40b2e009-79ca-44ed-94e8-9694a8536de7": [
+      "http://www.hwupgrade.it/"
+    ],
+    "41953b9e-27c0-42ce-addf-b7a78c898189": [
+      "http://www.monster.it/"
+    ],
+    "42e40ac8-6617-4806-ae99-e2602bf532ea": [
+      "http://www.eprice.it/"
+    ],
+    "5976457e-a5b7-40fe-b796-9c046d7b0bb8": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "5be0b0f8-17f2-4d8c-b6cd-a0c5e777d3b2": [
+      "http://www.travian.it/"
+    ],
+    "63cef1f1-7b3d-497a-be1c-a0d11dc5d625": [
+      "https://vivaldi.net/"
+    ],
+    "694c6ea1-7f3f-4e29-840f-ef2cdb2269dd": [
+      "http://www.libero.it/"
+    ],
+    "6c8bc0f7-a012-488b-9d61-585f88ebc815": [
+      "http://www.easyjet.com/"
+    ],
+    "6d3fe2b5-2da2-4015-a62f-cb4d51c4e6bd": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "6f313af5-b1b5-4de7-b932-543f46f77fba": [
+      "http://www.edreams.it/"
+    ],
+    "6f79b833-eae3-4e2b-9b50-d946cbf3b467": [
+      "http://www.tuttosport.com/"
+    ],
+    "77636c20-3252-4ece-9e1c-23a424a07fa3": [
+      "http://www.bnl.it/"
+    ],
+    "790ef340-3972-4ef2-8024-d03ebb167107": [
+      "http://www.wired.it/"
+    ],
+    "810d6506-7d5b-4998-a1d1-d309b5eb2335": [
+      "http://www.alitalia.com/"
+    ],
+    "8605a70e-eb4f-49f5-95d3-3b65ba517413": [
+      "http://www.trovaprezzi.it/"
+    ],
+    "877182ad-6ba6-4d45-b97b-b00e73f283e4": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "97f240b7-eae1-489b-a5d5-6c8f8e27aa5c": [
+      "http://www.spaziogames.it/"
+    ],
+    "a3358a52-b024-4e54-b837-3120bc9e9144": [
+      "http://www.paginegialle.it/"
+    ],
+    "a716bef9-780f-49d3-8169-fde7e059dc0c": [
+      "http://www.gioco.it/"
+    ],
+    "a9854e66-6bb0-4eba-aa4e-4b01646c7a2e": [
+      "http://www.html.it/"
+    ],
+    "abf2ebb6-aa19-4837-a5a7-199e62781dd2": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "ac3039c9-e5ce-4b9d-a4c6-e0498345ff9f": [
+      "http://www.misterimprese.it/"
+    ],
+    "aca13b70-3ca9-44be-95c6-5d5030604114": [
+      "https://vivaldi.com/bk/bookingcom-it",
+      "https://www.booking.com/index.it.html?aid=807124"
+    ],
+    "ad5aa09c-b532-491f-98ff-88cf968700d2": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "b25b70a2-b63a-42c1-9b81-623fe61af59b": [
+      "https://vivaldi.com/bk/ebay-en-ca",
+      "https://vivaldi.com/bk/ebay-it"
+    ],
+    "b5c9d667-3c7a-4918-89d0-a86b54d47789": [
+      "https://vivaldi.com/"
+    ],
+    "b8798903-98a3-456d-9e60-5a038569ff20": [
+      "http://www.finanzaonline.com/"
+    ],
+    "ba36b2d0-e24b-4807-bb81-a2eb5f4883e2": [
+      "http://www.mediaworld.it/"
+    ],
+    "baf7b9b2-f3e0-4659-9082-ae1718a1d123": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "bb2b0f54-c479-450a-a5e1-44e25a8721d0": [
+      "http://www.kijiji.it/"
+    ],
+    "c5f15680-69dc-44b0-8f25-9079583eebc3": [
+      "https://www.airbnb.it/"
+    ],
+    "c7754115-bd57-4c11-bdd8-f8a949f7ffa8": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "cd0c48c9-016c-4d95-84ab-7c2c481a813e": [
+      "http://www.zalando.it/"
+    ],
+    "d23234ec-9533-4e21-abdc-58d20e09c500": [
+      "http://www.bakeca.it/"
+    ],
+    "d7230ddd-a760-49ea-87e5-361b3f175ceb": [
+      "http://www.tuttomercatoweb.com/"
+    ],
+    "dbbac976-0dc1-40f4-bedf-cece971baa90": [
+      "http://www.ibtimes.com/"
+    ],
+    "df802669-eaf6-469e-a8ac-4845c0eaa64f": [
+      "http://www.expedia.it/",
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "e7d82519-ab84-47b8-94b2-f24252d16149": [
+      "http://www.goodgamestudios.com/"
+    ],
+    "eea7ac4d-4ac8-4a76-8554-7bfad2ead16b": [
+      "http://www.diretta.it/"
+    ],
+    "ef78a63a-a9f0-4df2-bca6-8094713ed127": [
+      "http://www.hdblog.it/"
+    ],
+    "f52d247d-f5a5-4ef0-b2b5-ce01dd0e7e2d": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "fbeb66c4-df08-4adc-bcb5-8ff577315c4a": [
+      "http://www.euronics.it/"
+    ]
+  },
+  "ja": {
+    "04ce11a3-e926-4d96-aaed-3ffefd13cccc": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "06a72977-8b32-4b30-863f-bf266628ac40": [
+      "http://travel.rakuten.co.jp/"
+    ],
+    "0feea580-b54f-4709-813b-03ca1fcc880d": [
+      "http://sports.yahoo.co.jp/"
+    ],
+    "11608bb1-de6c-4ec6-870d-bf7e50731200": [
+      "https://vivaldi.com/bk/amazon-jp"
+    ],
+    "1228a475-094d-475b-89d6-966d2365e78d": [
+      "http://mainichi.jp/"
+    ],
+    "1d503613-7040-4d72-b53c-e61e321b43f8": [
+      "http://www.7netshopping.jp/"
+    ],
+    "2251bc11-ab1a-4a38-b3dc-286c737bd317": [
+      "http://auctions.yahoo.co.jp/"
+    ],
+    "236e8a1d-48ed-47ee-a2e0-6c7fce60b819": [
+      "http://www.msn.com/ja-jp"
+    ],
+    "2383a94c-1000-4366-a04a-2d829fbb4a1a": [
+      "https://vivaldi.com/bk/expedia-jp"
+    ],
+    "23983de1-7f2e-42da-987b-1da0caa6cfab": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "26b35433-eb3f-475b-82d9-df5294330b92": [
+      "http://www.hangame.co.jp/"
+    ],
+    "317d7bab-4301-40e2-a82d-c9fd90b3314b": [
+      "http://www.sankei.com/"
+    ],
+    "37289c6b-773e-4208-81b4-e6f397c2ecf8": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "42c953ff-0fcd-4e2b-8512-3a4017917d41": [
+      "http://www.ikyu.com/"
+    ],
+    "451bf936-e39e-4212-8980-a5d5072f2ff4": [
+      "http://yahoo-mbga.jp/"
+    ],
+    "4ac37d22-aa1f-465f-8f29-45e44a0be42e": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "4dc011dd-e502-461b-8258-7de6735bd3d3": [
+      "http://www.tennis-navi.jp/"
+    ],
+    "511c42cc-aad9-4697-83d4-5789189cb261": [
+      "http://www.game-hiroba.com/"
+    ],
+    "512c5156-0d6e-46a1-9c44-7485d917207e": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "55c77579-d142-4fef-8891-283b34acff9c": [
+      "http://www.asahi.com/"
+    ],
+    "592a02c6-9a3f-4154-8403-9f0104c4bebc": [
+      "http://japan.cnet.com/"
+    ],
+    "5d61cc0a-8ecb-44ab-a67f-edfd3a153140": [
+      "http://www.arukikata.co.jp/"
+    ],
+    "5dd91372-b88a-4f23-be4b-5b2889d89136": [
+      "http://www.gungho.jp/"
+    ],
+    "5ff29098-4b4f-4025-9ed0-7afe5f2fb5fa": [
+      "http://www.atmarkit.co.jp/"
+    ],
+    "734a6db9-3638-4a1e-8a43-327685a8f584": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "7aebec74-18ef-45e0-b3b3-f15c0ee906b1": [
+      "http://www.ponparemall.com/"
+    ],
+    "806f24cf-35f2-42ba-a73f-8fd174328fe8": [
+      "http://www.nikkei.com/"
+    ],
+    "843a37d1-3dab-42da-a45b-b21e8797da9d": [
+      "https://vivaldi.com/bk/bookingcom-jp"
+    ],
+    "850abf90-0525-4439-820f-d5a96eaf8714": [
+      "https://vivaldi.com/bk/kayak-ja"
+    ],
+    "875a3735-a6d0-4fdf-b5c7-e021586aabdf": [
+      "http://www.nikkan.co.jp/"
+    ],
+    "95b80166-584c-42f0-91d0-504b56322a2e": [
+      "http://www.lifehacker.jp/"
+    ],
+    "9dcca19f-95a0-429d-919d-5efaa76097e5": [
+      "http://jp.techcrunch.com/"
+    ],
+    "a82d3ee9-621a-4bb4-a3e5-f7e3b30424b2": [
+      "http://www.yomiuri.co.jp/"
+    ],
+    "b0a9ca8f-6253-42df-ae85-c8b0e0f09745": [
+      "https://vivaldi.net/"
+    ],
+    "b18b8e53-b448-41ee-9417-408983aa8fa1": [
+      "http://ja.espnf1.com/"
+    ],
+    "b1b5d923-52ae-4995-beba-d6e700929b50": [
+      "http://snownet.jp/"
+    ],
+    "b2db8bf4-bf09-4d2b-b83f-205429d46c58": [
+      "https://vivaldi.com/"
+    ],
+    "b934506a-5229-4689-a0ff-c9de7a878b9b": [
+      "http://www.gaming-city.com/"
+    ],
+    "bae8c105-1a8c-488e-9430-0584dce17cf5": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "bb80b097-7497-433a-9224-bb6e4e727cab": [
+      "http://kakaku.com/"
+    ],
+    "bccc4fbb-bb8b-480a-8732-bfe8a30c6689": [
+      "http://www.itmedia.co.jp/"
+    ],
+    "d2e0ff14-b252-42ef-9267-eed97daa91b6": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "df60bef2-6f42-403e-94d5-d391b8d1ce03": [
+      "http://ja.wikipedia.org/"
+    ],
+    "e2a3c61a-7f0c-4077-bb28-aaffe59438b0": [
+      "http://www.jfa.jp/samuraiblue/"
+    ],
+    "e57c1a11-31d8-48ee-a8b4-677060533fdc": [
+      "http://www.nikkeibp.co.jp/"
+    ],
+    "e61ba772-454f-4ce8-9ec6-7618be02bef6": [
+      "http://www.gizmodo.jp/"
+    ],
+    "f0c659a3-0843-4775-b805-440c33c89e2a": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "f1c422da-4f02-455d-b4d8-f079f31ca9e2": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "f3138cfe-5ffd-4b02-a4d4-06be0831970d": [
+      "http://www.jiji.com/"
+    ],
+    "f93e8383-53ee-4ef5-bc2e-d0e20676d04a": [
+      "http://www.nhk.or.jp/"
+    ],
+    "fbfed120-d577-40f1-85e0-9366ca032a30": [
+      "http://gigazine.net/"
+    ],
+    "fcee2488-9828-4440-a302-b5747a9952bf": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "fdcc4340-d82b-4752-bdcf-d9870bf5aeff": [
+      "http://www.rakuten.co.jp/"
+    ]
+  },
+  "nb": {
+    "014df0e9-0cc0-4e57-846f-41a471914bdf": [
+      "http://www.aftenposten.no/"
+    ],
+    "028b441b-43c2-4cd5-8515-e2a286dcf45e": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "047ab733-9c68-4ac4-b049-19a211128e04": [
+      "http://www.norwegian.no/"
+    ],
+    "04de3b9e-561d-44cd-b4a8-e80ce78fb18a": [
+      "http://www.youtube.com/"
+    ],
+    "071d21e9-a65b-4c09-a588-e91738b6682f": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "10944f81-bdf1-4784-8c19-a7ee3ffc2454": [
+      "https://vivaldi.com/"
+    ],
+    "1e0d4b63-e7e6-4566-a510-926382bc8b67": [
+      "http://www.skiinfo.no/"
+    ],
+    "2ccdc6d1-f13d-4a36-8852-e20c1ce13255": [
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "2ed90f13-d9d3-4435-b8ce-261feb64217b": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "3548a691-e895-4432-8c92-c5b64967aa34": [
+      "http://www.dagbladet.no/"
+    ],
+    "3570fb6b-0c67-4594-89d3-ca6cf1471804": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "35e8daa7-b5f6-4278-985f-4b02fceb5143": [
+      "http://e24.no/"
+    ],
+    "4cb24681-553c-4ac7-ad0d-93b33d711c14": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "4eb7d4b7-0d8d-4a7f-afbf-776f807be716": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "5a6b898c-d816-42ed-8895-67e65d23a771": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "5d57c4ca-2a15-40ed-9aa1-4d333796e00a": [
+      "http://www.hegnar.no/"
+    ],
+    "6e2be973-c67a-40eb-9a39-086a9e6938a3": [
+      "http://www.premierleague.com/"
+    ],
+    "7b5279ff-a622-4252-8c57-3adad600b0b4": [
+      "http://www.tek.no/"
+    ],
+    "813c0117-74ab-4e0a-b2b7-a8ece7d8fe0e": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "82be1c10-6530-4f35-8169-c0d83e2c03e6": [
+      "http://www.fotball.no/"
+    ],
+    "83597a4e-9b00-4f4a-a414-68c6b1bbd7f6": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "8477c360-5476-4602-ace9-25004e80457c": [
+      "http://www.cnet.com/"
+    ],
+    "8b5d5751-0b3a-4171-b1a5-9b1cea059c8b": [
+      "http://www.dinepenger.no/"
+    ],
+    "924aec66-c1aa-4479-81b4-4cd73732e724": [
+      "http://www.itavisen.no/"
+    ],
+    "92ad0742-c4e0-4291-b310-617cbb3625b4": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "970f1e58-3122-49b3-b2c6-2e74d9cdeee2": [
+      "http://www.tv2.no/"
+    ],
+    "9716dc04-ce0c-4502-a050-6e186aa189b7": [
+      "http://www.tu.no/"
+    ],
+    "bca51e37-b600-451e-8737-fd3d8a4498d2": [
+      "https://avinor.no/"
+    ],
+    "bca8fbfa-88c4-439c-9be9-4ec88260c0bf": [
+      "http://www.vg.no/"
+    ],
+    "bde59cfa-489d-4b1d-88d9-9076c465c505": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "bf228519-9cdb-4c27-85d2-15ad522a4313": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "c23b6f7b-0987-4cf6-ab7b-f9f4b829ac7c": [
+      "http://www.startsiden.no/"
+    ],
+    "c3b5b390-1d06-4ca7-95cb-db32734976aa": [
+      "https://www.nsb.no/"
+    ],
+    "c4150102-22be-4ddf-8c33-dc485391ea87": [
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "c81a6034-26f6-4e83-aa0e-8bc5a32707bb": [
+      "http://www.nrk.no/"
+    ],
+    "ca9d60fe-b6d1-42b5-bb0f-3f573d21823b": [
+      "https://www.flysas.com/"
+    ],
+    "d168c89c-ba53-484b-9fbc-c6d4761ac8bf": [
+      "http://www.purehelp.no/"
+    ],
+    "d4759ae1-32ec-4159-8c3b-4baa87fba5a7": [
+      "https://vivaldi.com/bk/bookingcom-nb"
+    ],
+    "da349acd-48df-41fd-b95b-4f23366b828b": [
+      "http://www.dn.no/"
+    ],
+    "db7db796-ec5b-443a-b7be-49027497eb96": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "db9131bd-9a99-4e40-8f5d-feb7efaa3d26": [
+      "http://www.finn.no/"
+    ],
+    "e360fbd5-2658-409a-8400-11bc77862550": [
+      "http://www.nettavisen.no/"
+    ],
+    "ebe5838f-4d3b-4bf3-8c5a-13fc49f9ee15": [
+      "http://kampanje.com/"
+    ],
+    "ed4d3e67-ac9d-4936-96eb-a03382fed24f": [
+      "https://vivaldi.com/bk/kayak-nb"
+    ],
+    "fdae1110-c2c0-447d-a3d0-d415e344c9c3": [
+      "https://vivaldi.net/"
+    ],
+    "fee12ce7-5320-4896-9623-f04cec381843": [
+      "http://www.digi.no/"
+    ]
+  },
+  "nn": {
+    "01743140-658c-4a90-9a6a-5e943828f0a5": [
+      "http://www.flightradar24.com/"
+    ],
+    "064c7460-ae53-4e24-97cf-8bfc6b327f03": [
+      "http://www.storbytur.no/"
+    ],
+    "0cd848d7-8263-477c-ab48-aae67bf52339": [
+      "https://www.dnb.no/"
+    ],
+    "0cefcea0-c001-43b1-83a2-d92a5f986527": [
+      "https://vivaldi.com/bk/kayak-nb"
+    ],
+    "0fa0d240-0a0f-4d2b-809e-ec0b62428cea": [
+      "https://vivaldi.com/bk/bookingcom-nb",
+      "https://www.booking.com/country/no.no.html?aid=807124"
+    ],
+    "10a53348-92ac-4ed8-9e1f-955be61b4021": [
+      "http://www.givemesport.com/"
+    ],
+    "10c376d0-b34e-481c-9d46-cd53709c7e44": [
+      "http://www.itavisen.no/"
+    ],
+    "1379a2ac-5701-4903-8699-ab7f83e03173": [
+      "http://www.hegnar.no/"
+    ],
+    "17cfd41c-fda7-4cac-8974-6b061d8bc829": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "19de5b30-5243-48a1-9c20-745866d158eb": [
+      "http://www.dinside.no/"
+    ],
+    "1d755647-73b2-4e21-928a-1f395378277f": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "1d8dc583-c3ee-4df2-a316-d0f4d70c15ca": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "1e5f3528-a0c5-4938-9ebc-ae97ae6322c4": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "1ebfdabe-10bd-46d3-9e82-60e4ebd4f8ef": [
+      "http://www.steampowered.com/"
+    ],
+    "205db48b-e528-47fc-814c-9e8b49fdadd2": [
+      "http://www.lefdal.com/"
+    ],
+    "26b488c1-c562-4d4a-95de-5db2cd1fd748": [
+      "https://www.norsk-tipping.no/"
+    ],
+    "27457c53-6a29-4e52-8f00-4ee3fabd5aa8": [
+      "http://www.purehelp.no/"
+    ],
+    "2d5eb51a-ab0c-485f-b502-c7597205f654": [
+      "http://cdon.no/"
+    ],
+    "3288f86c-9e71-4121-815c-73358f057823": [
+      "http://www.fotball.no/"
+    ],
+    "3c786d77-bdaa-4bf9-b815-daeed6a62316": [
+      "http://e24.no/"
+    ],
+    "401875b1-4163-40a8-9200-584adab9d3ef": [
+      "http://www.vg.no/"
+    ],
+    "44f3c1c5-83df-49e2-89d1-006404bc7edf": [
+      "http://www.startsiden.no/"
+    ],
+    "46931bbd-f610-42e7-a87a-aefe8138786d": [
+      "http://www.youtube.com/"
+    ],
+    "48b7b5ef-c420-4ac7-a906-038e96691b80": [
+      "http://www.whatsthescore.com/"
+    ],
+    "49aea08d-eee5-4588-a23b-13546352cd1a": [
+      "http://www.biltema.no/"
+    ],
+    "4cf5c2b3-b31f-41d4-92d4-f143e1a700a9": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "5226320b-541a-4dda-9a9c-c93b84a09a0d": [
+      "https://www.komplett.no/"
+    ],
+    "5c0e247c-f8f3-4dfe-a062-277d26bfaf5f": [
+      "http://www.klikk.no/"
+    ],
+    "5d1dc149-6ab6-4b03-8a8d-21f4b49c2709": [
+      "http://www.premierleague.com/"
+    ],
+    "630e2aed-b4f7-471c-92d3-ab12724833ed": [
+      "http://www.skiinfo.no/"
+    ],
+    "636bc75d-185a-46f2-a9cb-2177a48e907d": [
+      "http://www.nrk.no/"
+    ],
+    "6c469f1f-27ef-4e86-9e95-09f7b26660df": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "6d695084-9a55-4c91-908c-a72c346a9e6f": [
+      "http://www.kelkoo.no/"
+    ],
+    "6ec4eec8-bec9-4713-9b05-6ac230c73818": [
+      "http://www.finn.no/"
+    ],
+    "6f428e35-fb4e-4b83-824f-0d9bee3dc8dc": [
+      "http://www.tv2.no/"
+    ],
+    "6f5d30a2-b054-4b74-940c-77a7bdb30b4b": [
+      "http://www.elkjop.no/"
+    ],
+    "712ef540-d39e-4352-a6ae-7f405c605b05": [
+      "https://www.flysas.com/"
+    ],
+    "78d5cb47-ee65-45f7-92e3-b78a5b0bb3bc": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "7a6c2922-0b87-45af-b29f-56941fde1cf4": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "7a7a9418-30f5-457e-b99b-53734b31a6b9": [
+      "http://www.battle.net/"
+    ],
+    "7bfc2c59-a023-41fa-8940-09eb844ae95b": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "7e9c4d10-9145-4d86-8433-defa87d22f43": [
+      "http://www.kongregate.com/"
+    ],
+    "85efdccb-d081-47db-b241-d69eaac8651b": [
+      "https://vivaldi.com/"
+    ],
+    "860e1cd1-8638-41f4-839f-7cb764deec5e": [
+      "https://vivaldi.com/bk/dohop"
+    ],
+    "87512e08-b176-40f9-8d64-e0928e914052": [
+      "http://www.cnet.com/"
+    ],
+    "8cb2edef-e9cf-458d-a78f-d659c2c8f7b0": [
+      "http://www.startour.no/"
+    ],
+    "8dd78d29-a330-4df4-bc18-b4dca3c6531f": [
+      "http://www.dn.no/"
+    ],
+    "8fba1956-cdd7-48f1-a56f-9435c67f0807": [
+      "http://www.kk.no/"
+    ],
+    "960b47c3-6188-4e87-8862-fb9bff22a1b8": [
+      "http://www.digi.no/"
+    ],
+    "9e824215-fe4b-446d-970f-e6d1c56a8915": [
+      "http://www.sol.no/"
+    ],
+    "a04b1faf-639b-4682-bce9-fc79aefad1c7": [
+      "http://www.ikea.no/"
+    ],
+    "abb880fb-8325-47eb-b5b6-4fb51d84d9ee": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "afb66ce4-3665-4a79-b804-38bfc653186e": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "b138b0cc-25c5-4f32-939d-62a2a55f3610": [
+      "http://www.aftenposten.no/"
+    ],
+    "b1907cdc-8a57-49ef-baf4-38985db608ee": [
+      "http://www.gamer.no/"
+    ],
+    "b9af33db-1c1a-41f2-bbc8-ed0d898b3571": [
+      "http://www.tu.no/"
+    ],
+    "bede43c8-4d09-46e7-b2ab-7857128f9e52": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "c86d2fa0-3cc5-4f5e-b16a-9b91df9c6892": [
+      "https://vivaldi.net/"
+    ],
+    "c95443b1-1fb8-4a48-b9b3-13a060b98bba": [
+      "http://www.nettavisen.no/"
+    ],
+    "c99a17d0-fb40-4dc9-93e5-be9532e07b9c": [
+      "https://avinor.no/"
+    ],
+    "cd916b93-8b59-4bd5-8922-cf425e301d9b": [
+      "http://www.tek.no/"
+    ],
+    "cdd66121-b4f2-4461-9dd8-f110742c87d1": [
+      "http://www.dinepenger.no/"
+    ],
+    "ce565eaf-5cad-463b-8061-65eebd8187ae": [
+      "http://www.leagueoflegends.com/"
+    ],
+    "cf67d6d7-b584-4196-9652-f055cf99c282": [
+      "http://www.twitch.tv/"
+    ],
+    "cfc83e85-7101-4f3a-a5e6-9d9af7bb76cb": [
+      "https://www.nsb.no/"
+    ],
+    "da446416-64e1-4288-b4ab-edd2d40ebea6": [
+      "http://www.dagbladet.no/"
+    ],
+    "ecec6623-1735-4591-8b18-da54ff557f57": [
+      "http://www.norwegian.no/"
+    ],
+    "ef87ac1b-e0f4-4100-905d-41665f305557": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "f027f078-a8a0-41ab-bd19-663b1ea2a2b6": [
+      "http://kampanje.com/"
+    ],
+    "fea80cfb-e001-4ef5-98d1-d5c5c9599444": [
+      "https://vivaldi.com/bk/gamersgate"
+    ]
+  },
+  "pl": {
+    "09638640-330a-4a15-8fa1-d5bdc43e90a3": [
+      "http://www.gamefaqs.com/"
+    ],
+    "0bf45ada-ad54-4047-bb45-8ef979eb0ec7": [
+      "http://www.imdb.com/"
+    ],
+    "0c48d7aa-6903-42e9-878f-9bb47614ea52": [
+      "http://www.nba.com/"
+    ],
+    "16c06c17-763e-463f-98a3-5205402cb728": [
+      "http://www.engadget.com/"
+    ],
+    "208d0763-8bd3-4d5c-98eb-20c2346d216d": [
+      "https://vivaldi.com/bk/tripadvisor-en-us",
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "2198901d-18a4-4055-ab6c-4137d0b03829": [
+      "http://techcrunch.com/"
+    ],
+    "2445679c-9df3-4d04-96dc-2e075daa1a7e": [
+      "http://www.youtube.com/"
+    ],
+    "300ecf2a-e962-4279-b86d-b75f1157ef6e": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "3a02ab6f-e3f2-4d11-b714-2553570222d2": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "40f1b600-4312-4d68-a399-c591ed8932d9": [
+      "https://vivaldi.com/bk/bookingcom-pl"
+    ],
+    "411a505e-a751-418b-9050-035374a767be": [
+      "http://www.cbssports.com/"
+    ],
+    "443593b1-1e7a-4ec8-862e-0c9bda6fd257": [
+      "http://www.forbes.com/"
+    ],
+    "4a3247ec-09c1-4b02-90f4-fc98ebff6fb1": [
+      "https://vivaldi.com/bk/aliexpresscom-pl"
+    ],
+    "4b0d526a-bf0f-45f9-bbdc-3c3636b506a7": [
+      "http://www.washingtonpost.com/"
+    ],
+    "4ca3c3e3-dc71-45ea-a74a-d6c53a25a1aa": [
+      "https://vivaldi.com/bk/dohop",
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "5aecd26a-9b23-4a13-aaf7-0d8c1fbbcd9a": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "5c308390-3e76-4bc4-bd7d-e8b4e8ede96f": [
+      "http://www.bleacherreport.com/"
+    ],
+    "5c87bb4f-d2a0-4e61-903d-3ca7f874655f": [
+      "http://www.reuters.com/"
+    ],
+    "65556f5d-7dbd-4bd9-961c-15eb6dafc7d9": [
+      "http://www.yelp.com/"
+    ],
+    "655ddff2-f3fb-4192-8486-1bb3f0444266": [
+      "http://www.economist.com/"
+    ],
+    "6562782c-13f3-4637-a895-a4b444e157d8": [
+      "http://www.wsj.com/"
+    ],
+    "670f51b7-a68d-43b9-bad1-5149b869a7cd": [
+      "http://arstechnica.com/"
+    ],
+    "68872088-1176-4fdf-a28e-96ee6a17fa1a": [
+      "http://www.minecraftforum.net/"
+    ],
+    "6e0ba375-9be4-44fa-b430-c5e3df0769a2": [
+      "http://www.theverge.com/"
+    ],
+    "77df2f69-2331-448e-a490-040067766b8a": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "7bf2fff6-683a-4a50-b542-73952c45cbec": [
+      "https://vivaldi.net/"
+    ],
+    "7cc0ceef-9418-41ac-911a-e9f443b4757a": [
+      "https://vivaldi.com/bk/bbcshop-en-us"
+    ],
+    "7e5381f1-168a-4c21-a44e-6e1f73173b28": [
+      "http://www.theguardian.com/"
+    ],
+    "86588b3e-284a-4bd1-b3ad-75c56e7f45ef": [
+      "https://github.com/"
+    ],
+    "879069e1-0777-454f-9514-c5ba0c20e46e": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "8aa24cef-4cd0-46a8-b00e-58459a425749": [
+      "http://www.dailymotion.com/"
+    ],
+    "8f5ab881-b7c2-4daf-9aaa-1e3e110860fd": [
+      "http://www.ign.com/"
+    ],
+    "8fbea3d6-2b2a-4deb-956a-eeea1f56bf8c": [
+      "http://www.ft.com/"
+    ],
+    "93a1f0b0-b3de-4cd0-bd72-3de8967285a3": [
+      "http://www.reddit.com/"
+    ],
+    "9f16c6ef-7b4f-4611-9142-1803a36a29df": [
+      "http://www.craigslist.org/"
+    ],
+    "a4a42247-a9fe-46dc-8e47-48c123523fa7": [
+      "http://www.goal.com/"
+    ],
+    "a53aa63c-aa48-4dfb-983a-982e5998623e": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "a9bb9c8b-9385-44b6-b798-57a3139b6ad3": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "adbfb517-d697-46b0-916c-c6b3f9760b6f": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "ae473d09-2018-4ecf-9531-83d97c7af070": [
+      "http://gizmodo.com/"
+    ],
+    "ae5021fe-a833-43eb-8f27-4c350b584513": [
+      "http://www.bloomberg.com/"
+    ],
+    "af406006-babc-4264-8ce0-f1264a82b20e": [
+      "http://www.rottentomatoes.com/"
+    ],
+    "af665cd8-d0f7-4dc9-969a-24407ddae861": [
+      "http://www.opentable.com/"
+    ],
+    "afeb6afa-d8d0-430a-8418-eeab0636f977": [
+      "http://www.huffingtonpost.com/"
+    ],
+    "b4c79c1b-baf3-42ea-8640-c336528e273c": [
+      "http://www.examiner.com/"
+    ],
+    "b664c478-383e-47d6-a2d2-a71c5992dc66": [
+      "https://vivaldi.com/"
+    ],
+    "bdc05327-2f6a-4217-9a47-606061c92829": [
+      "http://www.nfl.com/"
+    ],
+    "c37401ca-f32c-4a7a-8ec7-901f89b36f46": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "cc85a25c-4af5-43a3-965e-dc390a171a40": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "d1d975b9-abb2-4a72-9fea-23601a9f179a": [
+      "https://vivaldi.com/bk/kayak-pl"
+    ],
+    "e13ab998-b6c3-4112-b66f-db8a4728b08f": [
+      "https://play.spotify.com/"
+    ],
+    "e1e1c634-44fc-4cda-a165-07e89b42178b": [
+      "http://www.cnn.com/"
+    ],
+    "e7c0fc71-b70b-4e9f-b373-72b0ec009b7d": [
+      "http://www.hulu.com/"
+    ],
+    "e7ff37b7-244f-4e57-aeb0-064f987f2ed0": [
+      "http://www.cnbc.com/"
+    ],
+    "ee229c1f-7d7c-4fab-9b01-018be531be3f": [
+      "http://www.wired.com/"
+    ],
+    "f045fe8b-b948-43f4-8d84-64c28ca48c8d": [
+      "http://www.mlb.com/"
+    ],
+    "f3269a13-5673-48bd-9c53-364a9f2f522a": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "f66172a4-d7f1-4770-90a2-54bae6ef8dc8": [
+      "http://time.com/"
+    ],
+    "f67889d5-fcaf-4464-8272-9babac71414d": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "f854e8cb-ccc3-4b34-8f09-9734c6b2945f": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "fd9442ca-3304-4dd5-b172-68235ee4f683": [
+      "https://www.livingsocial.com/"
+    ],
+    "ffca0571-6dd2-4520-bfa4-334d2cdd2e69": [
+      "http://slashdot.org/"
+    ]
+  },
+  "sv": {
+    "00582bad-df1c-4253-a66e-e505273fd264": [
+      "http://www.affarsvarlden.se/"
+    ],
+    "041ce7fa-ccfc-4f2e-95b2-9508e5985771": [
+      "https://vivaldi.com/bk/kayak-sv"
+    ],
+    "077ae4d0-788c-48d7-8f67-c854d0f8ac04": [
+      "http://www.nyteknik.se/"
+    ],
+    "0ace062c-6a5e-4c9a-a470-0aa5f21f2cfb": [
+      "http://www.fotbollskanalen.se/"
+    ],
+    "0dcad8b0-7cdd-4c39-afcb-552c36f5454f": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "1172a68a-75d5-4523-bb4a-5bc8f00bdd1f": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "14786c10-8c95-4fa3-8b33-b58e22e870da": [
+      "http://cdon.se/"
+    ],
+    "1a347bc8-fbc8-438f-91c8-2588f82a9578": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "20c59a60-9507-46c6-a158-e71d4b2c922f": [
+      "http://www.resrobot.se/"
+    ],
+    "280b1efd-c8b5-463a-929a-9b9b16ab3325": [
+      "http://www.lajkat.se/"
+    ],
+    "2bcfac4d-62e5-4792-886b-edbe470c34d7": [
+      "https://www.sas.se/"
+    ],
+    "3159c702-3d4b-4e6b-a34b-419802e0f3bc": [
+      "http://feber.se/"
+    ],
+    "36d3c7a2-5954-4c2d-aef0-16f8af0a442e": [
+      "https://vivaldi.com/bk/bookingcom-sv",
+      "https://www.booking.com/country/sv.sv.html?aid=807124"
+    ],
+    "37a5f5c2-bd2a-40ca-a8d2-3e95a25c82ab": [
+      "http://www.privataaffarer.se/"
+    ],
+    "3f896b5a-e37f-4bca-b518-0103b010cd9a": [
+      "http://www.prisjakt.nu/"
+    ],
+    "40451f86-058c-4101-a6dc-9eaca19b3830": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "426efcdf-f893-485a-ba67-ac418fe6a7ed": [
+      "http://sverigesradio.se/"
+    ],
+    "4cb6a36a-41b3-4a39-9f1e-de0bd16c10bd": [
+      "http://m3.idg.se/"
+    ],
+    "508a6f8a-d13c-46c9-856a-ea987d080b01": [
+      "http://www.idg.se/"
+    ],
+    "528a7d5a-5a34-411d-b00c-ce9e7566032b": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "5646763b-d094-4dd0-974a-8f4c9ca7c0f0": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "5cacc4e3-212b-46d2-b75c-a8dc1da1c4ba": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "69c6f71d-bcc2-4dc7-886d-6f1ad0dff97d": [
+      "http://www.svt.se/sport/"
+    ],
+    "6c90ef7a-0efb-477c-bab8-279462e18583": [
+      "http://www.apollo.se/"
+    ],
+    "6cdaa260-ed5d-46e9-b3c0-1093f97e2b88": [
+      "http://www.fritidsresor.se/"
+    ],
+    "6f96163a-f547-4233-98b0-af919f72089a": [
+      "http://www.pricerunner.se/"
+    ],
+    "756cd18c-4773-4e79-ad1a-f214a587ba5e": [
+      "http://www.sf.se/"
+    ],
+    "7d1fb4df-cdd0-4b39-ae18-edb6db096e49": [
+      "http://www.ving.se/"
+    ],
+    "7d4711fe-1802-4ccf-9d58-0c5ffcbeb61a": [
+      "http://www.dagensnaringsliv.se/"
+    ],
+    "8399c812-008c-4969-b4ff-2d0c32703dca": [
+      "http://www.sportal.se/"
+    ],
+    "8b6a418a-d0fc-4ca4-a601-fb4e973d3eb1": [
+      "http://www.nasdaqomxnordic.com/"
+    ],
+    "9143319c-fa74-4964-88bb-c4de696c5a99": [
+      "https://svenskaspel.se/"
+    ],
+    "95a41a82-4a97-4cb3-8416-a91cd3e735bc": [
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "95c2f51e-9a8c-4331-80cb-6330ebe8d7d3": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "9ae29b8e-6482-4b8e-aac2-087f18fecedc": [
+      "http://www.coolstuff.se/"
+    ],
+    "9afe9d17-11a3-48b8-b793-3407802ed43a": [
+      "http://sporttv.nu/"
+    ],
+    "9cf744ce-c606-4d37-9662-59edee347083": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "9ddcfecb-c49c-4720-b7d5-1041fb1da8d6": [
+      "http://www.tv4.se/sport"
+    ],
+    "a4ee490b-b7bd-4111-8271-ac42e3732baf": [
+      "http://www.va.se/"
+    ],
+    "a5b7cdec-817c-4bbb-9871-9b85bc91867e": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "aa4f31df-02d0-458b-b9ec-07bf030eee12": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "b38e621f-c19b-4f19-84a5-f3c8625b9745": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "b658f32c-9ea6-4ed6-9036-e10a7520d7d7": [
+      "https://www.norwegian.com/se/"
+    ],
+    "b7f3c0a5-b952-424f-b037-f40e6ec1e530": [
+      "http://www.aftonbladet.se/sportbladet/"
+    ],
+    "bc182894-aaff-4950-971b-105fd6e83e34": [
+      "https://play.spotify.com/"
+    ],
+    "bdc39653-e425-472e-8e65-af2842ca1f79": [
+      "http://www.blocket.se/"
+    ],
+    "beb34d7f-3fcf-4b2e-bc93-5e8bb7fba18d": [
+      "http://www.youtube.com/"
+    ],
+    "c005175e-5bcf-4fe3-b9a8-97010957859b": [
+      "https://vivaldi.com/"
+    ],
+    "c35e74c8-c893-4323-9dcd-2a115c06f276": [
+      "http://www.kelkoo.se/"
+    ],
+    "d3d3ee6b-e9da-4be3-a33c-2c478fbe94ca": [
+      "http://www.di.se/"
+    ],
+    "d633bb35-ecc6-4131-88bf-c78587b8a2ac": [
+      "http://svenska.yle.fi/"
+    ],
+    "d686fd55-f9ab-4d4c-ac11-d6d889cc3e83": [
+      "http://www.game.se/"
+    ],
+    "df5cc2a1-4183-4a17-9603-74af0156f5bc": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "e0fd11ea-3b3d-4231-a04d-6fd74ef38061": [
+      "http://www.webhallen.com/"
+    ],
+    "e15eefff-1637-4d2b-91a9-228e984f274b": [
+      "https://vivaldi.net/"
+    ],
+    "ecaf2262-ec6e-4066-afd6-1d1942ad10e5": [
+      "http://www.tradera.com/"
+    ],
+    "f2e8c5fc-b9be-4cb4-b439-8b7b32d0c913": [
+      "http://www.sj.se/"
+    ],
+    "f38f806a-6c22-4088-b02d-5f497289d00b": [
+      "https://www.dohop.com/?aff_wlname=Vivaldi"
+    ],
+    "fc936030-25bf-49e0-bafd-fc40792fcca8": [
+      "http://www.svt.se/nyheter/"
+    ],
+    "fe89437d-5844-4487-9b4a-1b1d30e56fcc": [
+      "http://www.gamereactor.se/"
+    ],
+    "ffd80e99-cb20-4428-9308-4e718341bb15": [
+      "http://www.ted.com/"
+    ]
+  },
+  "tr": {
+    "027b0003-d22b-46ab-900d-8d0e850b3a3a": [
+      "http://www.teknoblog.com/"
+    ],
+    "0699e4b4-aa94-4c52-a840-a11f3f8478e2": [
+      "http://www.msn.com/"
+    ],
+    "0985a0d7-53b4-448e-b2f8-5fbdb785c29d": [
+      "http://www.dunya.com/"
+    ],
+    "11a216a3-e036-4057-b9d3-f5b5571cc669": [
+      "https://vivaldi.com/bk/yandex-tr"
+    ],
+    "1293f9b1-6de6-4981-b6b4-c818a51b0bde": [
+      "https://vivaldi.com/bk/bookingcom-tr",
+      "https://www.booking.com/country/tr.tr.html?aid=807124"
+    ],
+    "1355aae5-a527-4ae6-8c9b-fcb4ec53c905": [
+      "http://vivalditurkiye.com/",
+      "http://vivalditurkiye.net/"
+    ],
+    "1711587e-632a-4ec6-ac3e-29faad4cb03e": [
+      "http://www.zaytung.com/"
+    ],
+    "191a1a2c-78b0-4278-8477-c8a16cdac4a5": [
+      "https://vivaldi.com/bk/aliexpresscom-tr"
+    ],
+    "237c0f12-e691-41b2-a0b0-d2338b8562f0": [
+      "http://www.ntv.com.tr/"
+    ],
+    "267065ac-1108-4f69-b517-2a41d67413b7": [
+      "https://vivaldi.com/bk/amazon"
+    ],
+    "27a9140d-ee52-4197-85c5-aeae51ffca4a": [
+      "https://vivaldi.com/"
+    ],
+    "288d8acb-3f4b-4da7-99ee-0e9c6005138e": [
+      "http://www.sporx.com/"
+    ],
+    "29118648-add1-4e5a-a758-92e233936704": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "29abc011-aab7-4c73-8d3c-165e110ce834": [
+      "http://merlininkazani.com/"
+    ],
+    "2f77fab9-55c1-4249-aa91-01c49d1c22c5": [
+      "http://www.ntvspor.net/"
+    ],
+    "31c1f100-9ec7-4f1f-9cae-470fb44897a5": [
+      "http://www.milliyet.com.tr/"
+    ],
+    "345ec597-ccbd-4f3c-a274-a0dd14f52708": [
+      "http://www.memurlar.net/"
+    ],
+    "394f14d2-85b5-4f60-9d33-88dceef32ea5": [
+      "http://www.cnnturk.com/"
+    ],
+    "3963c1e7-7d7e-49b8-b12f-b613afcf868f": [
+      "http://www.bolumsonucanavari.com/"
+    ],
+    "444e0765-e30e-4b45-a9bb-a29fd2676ec6": [
+      "http://webrazzi.com/"
+    ],
+    "448bf825-8cde-42fa-ab52-d6c8053b964a": [
+      "http://www.scroll.com.tr/"
+    ],
+    "4a5758f4-2353-481a-ae31-7b5df1ed195b": [
+      "http://uludagsozluk.com/"
+    ],
+    "4a602027-d7f3-4806-a879-f3de75deef8d": [
+      "http://www.mynet.com/"
+    ],
+    "5127afa9-32cd-4811-85d8-a5384d7b2b24": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "52aa8461-e0bb-4c85-882e-2d7c75598d62": [
+      "https://vivaldi.net/tr/"
+    ],
+    "5897a0c2-89a0-4309-af3f-2a8ce4889451": [
+      "http://oyungezer.com.tr/"
+    ],
+    "59bb0925-7a0b-4517-84e7-bf8350ffbca1": [
+      "http://www.haberturk.com/"
+    ],
+    "5d4d1980-3926-4131-a0ee-3e7351083a7e": [
+      "http://www.bigpara.com/"
+    ],
+    "5e90153a-30fc-4063-b1df-6b001fe91634": [
+      "http://www.sahibinden.com/"
+    ],
+    "62e431e6-c2db-4e2d-b1ab-c4370257881c": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "63ea5576-404d-44a3-b98a-29751dc4b356": [
+      "https://eksisozluk.com/"
+    ],
+    "6733e183-4086-45fc-9c95-b745be4716c7": [
+      "http://www.kozmikanafor.com/"
+    ],
+    "6818b46d-5710-43ba-9055-e0092c143c23": [
+      "http://www.hurriyet.com.tr/"
+    ],
+    "6bd3635e-10c4-4475-adfe-dca327228bdd": [
+      "http://tr.wikipedia.org/"
+    ],
+    "6f9360aa-34e1-436a-a949-9763b630d219": [
+      "http://www.evrimagaci.org/"
+    ],
+    "7478e3a6-27fe-41d2-bae3-d2f28caed59d": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "7950ff04-2976-4659-a3d5-65e540da16a1": [
+      "https://teyit.org/"
+    ],
+    "79b78d37-50cf-4025-83b2-c4f9b8510ea5": [
+      "http://www.aljazeera.com.tr/"
+    ],
+    "79c27a8f-5e81-472e-b8ba-63a48c887744": [
+      "https://www.markafoni.com/"
+    ],
+    "79d8ec76-812a-476b-a8ae-99128510cbf1": [
+      "http://yoldaolmak.com/"
+    ],
+    "8038b487-5aaf-4bac-bf52-8e6aa3dc244b": [
+      "http://www.trendyol.com/"
+    ],
+    "819b2e7e-3571-4732-812a-d34e5309774a": [
+      "http://tr.eurosport.com/"
+    ],
+    "84bfc7df-5c0d-4c45-8330-5fec2cb616f4": [
+      "https://www.turkiye.gov.tr/"
+    ],
+    "88537cca-76c5-4ea9-a592-84d48bce8d80": [
+      "http://www.youtube.com/"
+    ],
+    "8ab625b2-f0ad-4a00-b5b6-e41fbb02c988": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "8b843aba-e2e7-4d40-a491-10d44c257d05": [
+      "http://www.bloomberght.com/"
+    ],
+    "8c36247e-6ffd-4168-8894-6466eccf6802": [
+      "http://www.diken.com.tr/"
+    ],
+    "8f7f3f64-54f0-4dbd-8bac-89c1828bf78d": [
+      "http://gezipgordum.com/"
+    ],
+    "969d0f66-400a-439a-9cfb-cea86d87ad0f": [
+      "http://www.karnaval.com/"
+    ],
+    "96ae370e-a223-43e7-84b3-335c2432d5af": [
+      "http://eticaretmag.com/"
+    ],
+    "978aa030-a28e-474e-8074-0d579bac24fc": [
+      "http://www.kadinlarkulubu.com/"
+    ],
+    "99a9c9c7-470e-4176-8162-b1195730242f": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "9a068c54-e03a-4b35-a6f1-76d21b5f22d7": [
+      "https://vivaldi.com/bk/kayak-tr"
+    ],
+    "9c72d624-68a8-4f6a-bdb3-c8c4aaa6e416": [
+      "http://www.azgezmis.com/"
+    ],
+    "9c97d9fe-2c20-4611-9f2a-d496c252a145": [
+      "https://tr.linkedin.com/"
+    ],
+    "9cf84d28-6543-4ad2-96c3-4a748a61a220": [
+      "https://vivaldi.com/bk/tripadvisor-eu",
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "9e5afb4f-0391-4242-9642-8351e43889cb": [
+      "http://sozcu.com.tr/"
+    ],
+    "a08b150e-f615-4591-961d-c57aebb548f5": [
+      "http://www.fotomac.com.tr/"
+    ],
+    "a315f431-5d4b-47c8-b241-70e89db58430": [
+      "http://www.n11.com/"
+    ],
+    "adc31b19-1db8-4060-8c01-bf940aa651c1": [
+      "http://onedio.com/"
+    ],
+    "b273aa5b-116c-4383-8ec4-95c0b7f12c40": [
+      "http://www.fanatik.com.tr/"
+    ],
+    "c2121b0c-fa90-41af-84d4-02522d717c4a": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "c672bb1a-b13d-43a7-9fd5-cb23e6d7d2b9": [
+      "https://vivaldi.com/bk/expedia",
+      "https://vivaldi.com/bk/expedia-eu"
+    ],
+    "ca96e7f0-4170-4467-8a92-949341b6b4a7": [
+      "http://teknoseyir.com/"
+    ],
+    "cb3d1542-a583-4dc4-bbcc-bc847cfc2b59": [
+      "http://www.kesfetmekicinbak.com/"
+    ],
+    "cd01f8f4-5a17-4132-b79a-4219f04b816d": [
+      "https://vivaldi.com/bk/groupon"
+    ],
+    "d1a017aa-f444-4860-855f-5cc19ee59293": [
+      "http://www.mackolik.com/"
+    ],
+    "d220802c-deea-4a26-8e54-4acc87c5b91b": [
+      "https://armut.com/"
+    ],
+    "d52d4c87-b04a-4a38-b42e-8552f998d4ad": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "d5e004a4-476e-4124-81ce-38dec6195510": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "d6386391-9bb1-428c-9b7f-bb3fc1f3881e": [
+      "http://tr.euronews.com/"
+    ],
+    "eb8d184b-5f7e-490f-851e-15219d8dc9dd": [
+      "http://www.cumhuriyet.com.tr/"
+    ],
+    "f59e664f-9f04-434f-b282-a84180f5b7d9": [
+      "http://www.gamyun.net/"
+    ],
+    "f5d68a7e-afda-474f-a446-b86b9ffb07ba": [
+      "https://www.morhipo.com/"
+    ],
+    "f5f4716e-3b13-4b88-99d9-d9683ead60f2": [
+      "http://oyun.mynet.com/"
+    ],
+    "f61e3550-5f2e-4f35-9fd0-e74a033dfdf1": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "f8c10167-79ea-42f7-9267-d091333d5782": [
+      "http://www.uzmantv.com/"
+    ],
+    "f9d87b09-77d1-49da-835d-ce119c004e5f": [
+      "http://gezimanya.com/"
+    ],
+    "fa032ac8-978c-4767-801d-2d86c09527c1": [
+      "http://www.donanimhaber.com/"
+    ],
+    "fc4a5341-cc1c-45cd-817b-699a57d3cd46": [
+      "http://shiftdelete.net/"
+    ],
+    "fcbd2789-d41d-4e81-80cd-683638dec9c3": [
+      "http://www.sinemalar.com/"
+    ]
+  },
+  "uk": {
+    "00ed6e42-d5ac-4b28-b91a-3256a8e27258": [
+      "http://www.ua-football.com/"
+    ],
+    "04a2c08b-ff79-444a-9b95-73b224afffaa": [
+      "https://vivaldi.com/bk/bookingcom-ua",
+      "https://www.booking.com/country/ua.uk.html?aid=807124"
+    ],
+    "04ce837e-c7e4-4a40-97d0-a68dc844b32d": [
+      "http://censor.net.ua/"
+    ],
+    "0b4f1c49-6051-4fd3-ac0c-26d80aa3d6a6": [
+      "http://www.turne.com.ua/"
+    ],
+    "0d19178e-9b43-4c0e-8b52-a49d828e1489": [
+      "http://toneto.net/"
+    ],
+    "11aa40d6-4eea-42ba-9438-b92ee1e38aca": [
+      "http://www.day.kiev.ua/"
+    ],
+    "155cefa8-dbe4-4c1a-8a0f-197ea2a20675": [
+      "http://www.bigmir.net/"
+    ],
+    "1774d760-070a-44f7-8bd4-4e55fce9cf0b": [
+      "https://vivaldi.com/bk/trivago"
+    ],
+    "216d12e9-36ef-4041-8ba1-14af33e9b919": [
+      "http://e-news.com.ua/"
+    ],
+    "21ceed89-aaf0-4796-8071-95c47d0a57c6": [
+      "http://tvgid.ua/"
+    ],
+    "29a13234-d108-4936-9f74-1bcbf1c4422a": [
+      "http://www.sportonline.ua/"
+    ],
+    "312cff4d-9cc0-45cd-a271-577d44f3b182": [
+      "https://vivaldi.com/bk/rentalcars"
+    ],
+    "34325abd-84aa-4043-9cce-8cc17ea28f86": [
+      "http://www.sport-express.ua/"
+    ],
+    "37dbb5e6-76a3-45e8-b2d9-debde7386b3a": [
+      "http://www.puls.kiev.ua/"
+    ],
+    "38055928-88a0-4fb7-bb22-855a05c2a8dd": [
+      "http://instagram.com/"
+    ],
+    "385efc18-1a80-4a19-a561-5f14c2a81429": [
+      "http://www.tui.ua/"
+    ],
+    "3a2b1210-372e-4cc7-9e87-791476c2bb9d": [
+      "http://www.prostobiz.ua/"
+    ],
+    "3b272fd1-7dd0-49ae-bd8b-a8ffa64c4fe1": [
+      "http://itc.ua/"
+    ],
+    "411b0ae2-d593-4fd7-bcff-f3d899b05c56": [
+      "http://www.superigri.ru/"
+    ],
+    "42acc6ac-1cac-4e23-983c-79a01308438f": [
+      "http://www.coolgames.org.ua/"
+    ],
+    "483005b5-07bb-46aa-9ad5-0cbd9a8dd7d2": [
+      "http://www.oszone.net/"
+    ],
+    "48c1dd60-1ac3-4777-9573-1af2dfe6ed07": [
+      "http://xsport.ua/"
+    ],
+    "4b4aa87c-d024-45b9-8ea7-06e461018fd7": [
+      "http://vecherniy.kharkov.ua/"
+    ],
+    "4c93cf0e-248a-4968-b75a-de574fcd9dee": [
+      "http://www.lastfm.ru/"
+    ],
+    "4d0c8ec0-855f-4228-8a08-a6465da2fba1": [
+      "http://www.thg.ru/"
+    ],
+    "4f9c658e-6b43-4ebe-bba7-14f52f24f117": [
+      "http://openupgames.com.ua/"
+    ],
+    "506b8064-a8c0-4ebe-8f2f-4179d4ea76e7": [
+      "http://www.pravda.com.ua/"
+    ],
+    "5307c3c3-33ef-44c5-8ad2-939b75d58977": [
+      "http://www.gismeteo.ua/"
+    ],
+    "5403c576-d5ec-41a5-bcaa-1ea723dbf586": [
+      "http://odessa-daily.com.ua/"
+    ],
+    "56c9dd4b-e022-4925-8f01-79c90b0f1e5e": [
+      "http://www.turpravda.ua/"
+    ],
+    "57caf5b0-824a-443f-8000-43688edf4e3b": [
+      "http://www.business.ua/"
+    ],
+    "5bdc3693-57aa-4783-b050-ff12778bf099": [
+      "http://www.shoplist.com.ua/"
+    ],
+    "611fc072-e5fb-451b-9eb8-ee9296e809d6": [
+      "http://ubr.ua/"
+    ],
+    "613c7a0b-8b77-420c-9fe5-8d04e87a51e6": [
+      "http://turmir.com/"
+    ],
+    "67446a04-9d0b-4ace-8ee5-0ba6b2b321dd": [
+      "http://www.golos.com.ua/"
+    ],
+    "69597b77-92d6-44d0-8217-96457a6a1793": [
+      "http://isport.ua/"
+    ],
+    "69ca0287-0490-4cb2-b6c3-0c29482ea544": [
+      "http://www.mediaport.ua/"
+    ],
+    "6b4be791-a59a-4c49-bc05-816389a9e3ca": [
+      "https://vivaldi.com"
+    ],
+    "6d5a7705-2262-4942-8d03-fd593812ecdb": [
+      "http://ukrgo.com/"
+    ],
+    "71a63208-6233-4a8f-a0a0-4ff8c2c93b13": [
+      "http://www.brodyaga.org/"
+    ],
+    "71a84fa3-defd-496d-87ff-112058975e21": [
+      "http://www.columb.net.ua/"
+    ],
+    "71ada37d-67a1-4671-8772-a3b3d42f4eaa": [
+      "http://www.kinopoisk.ru/"
+    ],
+    "74a449f0-eee7-46c9-9bac-74d1014055ae": [
+      "https://uk.wikipedia.org/"
+    ],
+    "7839fde5-9fb6-44cb-ad33-2efd78f42aa1": [
+      "http://bilshe.com/"
+    ],
+    "7a700bc7-ec56-449b-a481-79ca96a7bca9": [
+      "http://pcmag.ru/"
+    ],
+    "7b0717ce-47cd-4ff5-b0f5-77234bc19f91": [
+      "http://korrespondent.net/"
+    ],
+    "7ee1e5fb-eec7-41c5-b1ef-6873d6614540": [
+      "https://www.ukr.net/"
+    ],
+    "8418b7c4-e009-4fe3-9bfd-978c737aa9d4": [
+      "http://bizrating.com.ua/"
+    ],
+    "86113de3-a475-46ec-8421-8191461cb46b": [
+      "http://sport.ua/"
+    ],
+    "8b20e5a9-8182-4aa8-bc9c-22d44a6862fd": [
+      "https://vivaldi.com/bk/expedia"
+    ],
+    "8e0675e9-e71a-4645-990f-38aabd7f44e0": [
+      "http://www.liga.net/"
+    ],
+    "8ee69de4-4935-410d-a123-700e0acc6907": [
+      "http://www.businesua.com/"
+    ],
+    "8f996289-e34f-4349-8b5d-8783f0e03a30": [
+      "http://www.3dnews.ru/"
+    ],
+    "8fdfa49d-528e-4fc3-a31a-6e84c52ee552": [
+      "https://vivaldi.com/bk/etihad"
+    ],
+    "91a3ddfa-1423-4b67-b0e4-1bd6838ad5ba": [
+      "https://vivaldi.com/bk/aliexpresscom",
+      "https://vivaldi.com/bk/aliexpresscom-uk"
+    ],
+    "97d953b6-e685-4b39-9c7a-c2b6671834ae": [
+      "https://vivaldi.com/bk/hotelscom"
+    ],
+    "9d1615bc-4c66-43cd-856e-14215a12b686": [
+      "http://www.kinomania.ru/"
+    ],
+    "a06ea5ce-1de3-463b-bc74-483bb9bf3623": [
+      "http://olx.ua/"
+    ],
+    "a8d29954-d795-4914-be77-598cdedce49d": [
+      "http://lib.ru/"
+    ],
+    "ac9b12fe-455f-4ed4-af2b-90938b8d1ad5": [
+      "http://vv.com.ua/"
+    ],
+    "ad96bf5a-b296-42dc-812c-5a3e134e9ca3": [
+      "http://zn.ua/"
+    ],
+    "addf9e80-2696-4289-8e60-72b3e48f3c0a": [
+      "http://4pda.ru/"
+    ],
+    "af665866-9a2e-4c5c-8135-75ef267419a4": [
+      "http://football.ua/"
+    ],
+    "afaa5fce-8962-4834-82f3-868306417349": [
+      "http://fakty.ua/"
+    ],
+    "b14f96de-07be-4ef3-83e9-a981dc7a8190": [
+      "http://www.opennet.ru/"
+    ],
+    "b38a7f8a-2811-47b4-a318-c37ee89a504e": [
+      "http://www.ixbt.com/"
+    ],
+    "b727d506-54dc-413d-8f3c-ff0de6f96aa1": [
+      "https://vivaldi.net/"
+    ],
+    "b830880c-3d50-487b-a290-427c0515ea7d": [
+      "http://interfax.com.ua/"
+    ],
+    "b949a955-ebde-4792-b9ca-f18289113cd0": [
+      "https://vivaldi.com/bk/ebay-en-us"
+    ],
+    "bc613e67-c11c-4b88-a5d2-4faa89826a62": [
+      "https://vivaldi.com/bk/kayak-ru"
+    ],
+    "bf6e59b4-2cbc-4335-812f-345a5bde7b26": [
+      "http://habrahabr.ru/"
+    ],
+    "c47e8b75-d3b5-470f-91cd-e878d489d6c5": [
+      "https://vivaldi.com/bk/gamersgate"
+    ],
+    "c52cdd8a-2c4b-49b5-909f-7425679da9fb": [
+      "https://vivaldi.com/bk/alawar-ru"
+    ],
+    "c7f5c15d-7aa5-455c-8e9d-b998fb9c7b60": [
+      "http://lenta.ru/"
+    ],
+    "c8b4ee80-b5c9-4a6d-8d0e-65ee55e4710a": [
+      "https://vivaldi.com/bk/rbkgames-ru"
+    ],
+    "c9c61f0f-fb06-4552-bf10-83a8b85ac856": [
+      "http://www.doroga.ua/"
+    ],
+    "ca0b8d1f-ddb9-413e-917c-f7fcfef41816": [
+      "http://torgcentr-online.com.ua/"
+    ],
+    "cd3634f5-c5d7-4b88-9101-da6d6f276c8b": [
+      "http://mygames.com.ua/"
+    ],
+    "ce2d2f4f-f694-4846-bdaa-fcf87f5fa2bb": [
+      "http://www.expres.ua/"
+    ],
+    "d12fdb13-9008-47bd-bcd5-1bb04de25c96": [
+      "http://www.ivi.ru/"
+    ],
+    "d1342a5f-28f3-402e-bd1c-c2ec34f587fb": [
+      "http://www.otpusk.com/"
+    ],
+    "d1e74ced-7288-4d3c-8974-51db477ebb81": [
+      "http://gagadget.com/"
+    ],
+    "d3be3334-0305-4f9e-8d31-10d7046afa71": [
+      "http://www.sportmaster.ua/"
+    ],
+    "d4b07367-1ecc-409b-b3dc-c630d20b1d83": [
+      "http://eurotrips.com.ua/"
+    ],
+    "d6c2e90c-2891-4c30-8a08-435b97575101": [
+      "https://vk.com/"
+    ],
+    "d6e3ab2d-ff7b-4575-b824-5f3919b833e9": [
+      "http://kp.ua/"
+    ],
+    "db26f598-59bc-4f66-a531-40c30f372cc4": [
+      "http://www.champion.com.ua/"
+    ],
+    "dd16c357-d3c1-41d8-ac35-14728dab5adb": [
+      "http://luxtv.ua/"
+    ],
+    "e1dd458c-0078-4771-b4b1-64b1d9fbc2c2": [
+      "https://vivaldi.com/bk/godaddy"
+    ],
+    "e46cc861-8f1f-4311-b78b-cdcdce5ff98c": [
+      "http://uastar.net/"
+    ],
+    "e86cd2e5-1df8-438b-98f0-ef77cc32e539": [
+      "https://vivaldi.com/bk/airbnb"
+    ],
+    "ecd8a030-40c1-4eac-beef-119d6f85e1ab": [
+      "https://vivaldi.com/bk/startme-en-us"
+    ],
+    "f4d592a1-1f8c-47f0-b4d8-270b416a44ce": [
+      "http://www.internetua.com/"
+    ],
+    "f5a58d8f-d1c5-4094-8dc1-82d1cf0b781e": [
+      "http://sinoptik.ua/"
+    ],
+    "f62c1de7-832d-4848-a358-46357723d6a7": [
+      "http://www.youtube.com/"
+    ],
+    "f6db015d-ccd0-4a65-8b23-8734467ad109": [
+      "http://telegraf.com.ua/"
+    ],
+    "f8a428f2-9123-4f23-a26d-9f3ef2ce9137": [
+      "http://games.online.ua/"
+    ],
+    "fa76065f-84a5-480e-a387-855fdd7e594a": [
+      "https://vivaldi.com/bk/qatar"
+    ],
+    "fa782ab9-ce47-4fb1-a438-6c0ab124e6f2": [
+      "https://vivaldi.com/bk/tripadvisor-world"
+    ],
+    "fc4d8dcd-1086-4440-82eb-056129724c37": [
+      "http://tsn.ua/"
+    ]
+  }
+}

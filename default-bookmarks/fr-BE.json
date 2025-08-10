@@ -1,0 +1,191 @@
+{
+  "version": "5",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Accueil",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/sd-amazon-fr-be",
+          "title": "Amazon",
+          "description": "commerces"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "lefigaro.fr",
+          "url": "https://www.lefigaro.fr/",
+          "title": "Le Figaro",
+          "description": ""
+        },
+        {
+          "name": "qwant-fr",
+          "url": "https://vivaldi.com/bk/qwant-fr",
+          "title": "Qwant",
+          "description": ""
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-fr",
+          "title": "Communauté Vivaldi",
+          "description": ""
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-fr-be",
+          "title": "Booking.com",
+          "description": "voyages"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Commerces",
+      "children": [
+        {
+          "name": "bol",
+          "url": "https://vivaldi.com/bk/sd-bol-fr-be",
+          "title": "bol.",
+          "description": "commerces"
+        },
+        {
+          "name": "cdiscount",
+          "url": "https://vivaldi.com/bk/cdiscount-fr",
+          "title": "Cdiscount.com",
+          "description": "commerces"
+        },
+        {
+          "name": "eneba-fr-fr",
+          "url": "https://vivaldi.com/bk/eneba-fr-fr",
+          "title": "Eneba",
+          "description": "commerces"
+        },
+        {
+          "name": "fnac",
+          "url": "https://vivaldi.com/bk/fnac-fr",
+          "title": "Fnac",
+          "description": "commerces"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "commerces"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Voyages",
+      "children": [
+        {
+          "name": "hotelscom",
+          "url": "https://vivaldi.com/bk/sd-hotelscom-fr-be",
+          "title": "Hotels.com",
+          "description": "voyages"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "voyages"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "voyages"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Signets",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-fr",
+              "title": "Fonctionnalités de Vivaldi",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-fr-be-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-fr",
+          "url": "https://vivaldi.com/bk/kayak-fr",
+          "title": "Kayak"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-fr-be-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-fr",
+          "title": "AliExpress"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-fr-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "cdiscount",
+          "url": "https://vivaldi.com/bk/cdiscount-fr-bk",
+          "title": "Cdiscount.com"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/shein-fr-bk",
+          "title": "SHEIN"
+        },
+        {
+          "name": "fnac",
+          "url": "https://vivaldi.com/bk/fnac-fr-bk",
+          "title": "Fnac"
+        }
+      ]
+    }
+  ]
+}

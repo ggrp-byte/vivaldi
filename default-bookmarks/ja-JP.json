@@ -1,0 +1,189 @@
+{
+  "version": "34",
+  "children": [
+    {
+      "name": "Home",
+      "title": "ホーム",
+      "children": [
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-jp",
+          "title": "Amazon",
+          "description": "ショッピング"
+        },
+        {
+          "name": "rakuten",
+          "url": "https://vivaldi.com/bk/rakuten",
+          "title": "楽天市場",
+          "description": "ショッピング, 通販"
+        },
+        {
+          "name": "hulu-jp",
+          "url": "https://vivaldi.com/bk/hulu-jp",
+          "title": "Hulu",
+          "description": ""
+        },
+        {
+          "name": "bookingcom-jp",
+          "url": "https://vivaldi.com/bk/bookingcom-jp",
+          "title": "Booking.com"
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-ja",
+          "title": "Vivaldi日本語公式ブログ",
+          "description": "ブログ"
+        },
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "ショッピング",
+      "children": [
+        {
+          "name": "yahoo-shopping",
+          "url": "https://vivaldi.com/bk/yahoo-shopping",
+          "title": "Yahoo",
+          "description": "ショッピング"
+        },
+        {
+          "name": "qoo10",
+          "url": "https://vivaldi.com/bk/qoo10",
+          "title": "Qoo10",
+          "description": "ショッピング"
+        },
+        {
+          "name": "xebio",
+          "url": "https://vivaldi.com/bk/xebio",
+          "title": "Xebio",
+          "description": "ショッピング"
+        },
+        {
+          "name": "furunavi",
+          "url": "https://vivaldi.com/bk/furunavi",
+          "title": "ふるなび",
+          "description": "ショッピング"
+        },
+        {
+          "name": "netoff",
+          "url": "https://vivaldi.com/bk/netoff",
+          "title": "ネットオフ",
+          "description": "ショッピング"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "トラベル",
+      "children": [
+        {
+          "name": "expedia-jp",
+          "url": "https://vivaldi.com/bk/expedia-jp",
+          "title": "エクスペディア (Expedia)",
+          "description": "チケット, 航空券, 旅行, ホテル, 予約"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-ja-bk",
+          "title": "Agoda",
+          "description": ""
+        },
+        {
+          "name": "jalan",
+          "url": "https://vivaldi.com/bk/jalan-jp",
+          "title": "じゃらんnet。",
+          "description": ""
+        },
+        {
+          "name": "ikyu",
+          "url": "https://vivaldi.com/bk/ikyu",
+          "title": "一休.com",
+          "description": ""
+        },
+        {
+          "name": "jtb",
+          "url": "https://vivaldi.com/bk/jtb-jp",
+          "title": "JTB",
+          "description": ""
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": ""
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "ブックマーク",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-ja",
+              "title": "Vivaldiの機能",
+              "description": "ブラウザ,機能,使い方"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldiウェブメール",
+              "description": "メール,Webmail"
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-ja-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "kayak-ja",
+          "url": "https://vivaldi.com/bk/kayak-ja",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-ja-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-ja-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-ja-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

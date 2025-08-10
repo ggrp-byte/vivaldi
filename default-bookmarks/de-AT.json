@@ -1,0 +1,157 @@
+{
+  "version": "21",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Startseite",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community",
+          "title": "Vivaldi Community",
+          "description": "technology, social"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/sd-amazon-de-at",
+          "title": "Amazon",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-at",
+          "title": "Booking.com",
+          "description": "reisen"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Einkaufen",
+      "children": [
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-at",
+          "title": "eBay",
+          "description": "einkaufen"
+        },
+        {
+          "name": "idealo",
+          "url": "https://vivaldi.com/bk/idealo-at",
+          "title": "Idealo",
+          "description": "einkaufen"
+        },
+        {
+          "name": "eneba-de-at",
+          "url": "https://vivaldi.com/bk/eneba-de-at",
+          "title": "Eneba",
+          "description": "einkaufen"
+        },
+        {
+          "name": "shein",
+          "url": "https://vivaldi.com/bk/sd-shein",
+          "title": "SHEIN",
+          "description": "einkaufen"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Reisen",
+      "children": [
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Trip.com",
+          "description": "reisen"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "reisen"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Lesezeichen",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldigame",
+              "url": "https://vivaldi.com/bk/vivaldia-game",
+              "title": "Vivaldia Games"
+            }
+          ]
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-at-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-de",
+          "url": "https://vivaldi.com/bk/kayak-de",
+          "title": "Kayak"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-at-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-at-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-at-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "idealo",
+          "url": "https://vivaldi.com/bk/idealo-at-bk",
+          "title": "Idealo"
+        }
+      ]
+    }
+  ]
+}

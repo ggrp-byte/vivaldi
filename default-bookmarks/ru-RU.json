@@ -1,0 +1,147 @@
+{
+  "version": "37",
+  "children": [
+    {
+      "name": "Home",
+      "title": "Общие",
+      "children": [
+        {
+          "name": "vivaldicom",
+          "url": "https://vivaldi.com",
+          "title": "Vivaldi Browser",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-social",
+          "url": "https://vivaldi.com/bk/sd-social",
+          "title": "Vivaldi Social",
+          "description": ""
+        },
+        {
+          "name": "vivaldi-community",
+          "url": "https://vivaldi.com/bk/sd-community-ru",
+          "title": "Сообщество Vivaldi",
+          "description": "Vivaldi, браузер, портал, сообщество"
+        },
+        {
+          "name": "yandex",
+          "url": "https://vivaldi.com/bk/yandex-ru",
+          "title": "Яндекс",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "habr.ru",
+          "url": "https://vivaldi.com/bk/habr-ru",
+          "title": "Хабр",
+          "description": "Блог, IT, информационные технологии, программирование"
+        },
+        {
+          "name": "vivaldigame",
+          "url": "https://vivaldi.com/bk/vivaldia-game",
+          "title": "Vivaldia Games"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "title": "Покупки",
+      "children": [
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom",
+          "title": "AliExpress"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "title": "Туризм",
+      "children": [
+        {
+          "name": "ostrovok",
+          "url": "https://vivaldi.com/bk/sd-ostrovok-ru",
+          "title": "Островок",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "yandex-travel",
+          "url": "https://vivaldi.com/bk/sd-ya-travel-ru",
+          "title": "Яндекс Путешествия",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "otello",
+          "url": "https://vivaldi.com/bk/sd-otello-ru",
+          "title": "Отелло",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "trip",
+          "url": "https://vivaldi.com/bk/sd-trip",
+          "title": "Трип",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "getyourguide",
+          "url": "https://vivaldi.com/bk/sd-getyourguide",
+          "title": "GetYourGuide",
+          "description": "путешествия, отели, бронирование"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "title": "Закладки",
+      "children": [
+        {
+          "name": "Vivaldi",
+          "title": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-ru",
+              "title": "Функции Vivaldi",
+              "description": "Vivaldi, браузер"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "ostrovok",
+          "url": "https://vivaldi.com/bk/ostrovok-ru-bk",
+          "title": "Ostrovok.ru"
+        },
+        {
+          "name": "expedia-eu",
+          "url": "https://vivaldi.com/bk/expedia-eu",
+          "title": "Expedia"
+        },
+        {
+          "name": "kayak-ru",
+          "url": "https://vivaldi.com/bk/kayak-ru",
+          "title": "Kayak"
+        },
+        {
+          "name": "beru.ru",
+          "url": "https://vivaldi.com/bk/beru-ru-bk",
+          "title": "Беру"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-ru-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}
